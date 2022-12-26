@@ -1,0 +1,4232 @@
+,FTR,HomeTeam,AwayTeam,FTHG,FTAG
+0,A,Monaco,Marseille,2.0,3.0
+1,D,Strasbourg,Lorient,1.0,1.0
+2,D,Nantes,Ajaccio,2.0,2.0
+3,D,Montpellier,Reims,1.0,1.0
+4,H,Lille,Angers,1.0,0.0
+5,H,Brest,Troyes,2.0,1.0
+6,H,Paris SG,Auxerre,5.0,0.0
+7,H,Rennes,Toulouse,2.0,1.0
+8,H,Lens,Clermont,2.0,1.0
+9,D,Lyon,Nice,1.0,1.0
+10,H,Marseille,Lyon,1.0,0.0
+11,D,Lille,Rennes,1.0,1.0
+12,A,Toulouse,Monaco,0.0,2.0
+13,H,Reims,Nantes,1.0,0.0
+14,H,Nice,Brest,1.0,0.0
+15,D,Clermont,Montpellier,1.0,1.0
+16,A,Lorient,Paris SG,1.0,2.0
+17,A,Angers,Lens,1.0,2.0
+18,H,Ajaccio,Strasbourg,4.0,2.0
+19,D,Troyes,Auxerre,1.0,1.0
+20,H,Lyon,Lille,1.0,0.0
+21,A,Lorient,Nice,1.0,2.0
+22,H,Rennes,Montpellier,3.0,0.0
+23,D,Nantes,Clermont,1.0,1.0
+24,H,Monaco,Angers,2.0,0.0
+25,D,Brest,Reims,0.0,0.0
+26,H,Auxerre,Ajaccio,1.0,0.0
+27,D,Strasbourg,Marseille,2.0,2.0
+28,H,Paris SG,Troyes,4.0,3.0
+29,H,Lens,Toulouse,3.0,0.0
+30,H,Lille,Monaco,4.0,3.0
+31,D,Nice,Nantes,1.0,1.0
+32,D,Troyes,Lorient,2.0,2.0
+33,D,Toulouse,Strasbourg,2.0,2.0
+34,H,Reims,Auxerre,2.0,1.0
+35,A,Clermont,Brest,1.0,3.0
+36,A,Angers,Rennes,1.0,2.0
+37,A,Marseille,Lens,0.0,1.0
+38,A,Montpellier,Lyon,1.0,2.0
+39,A,Ajaccio,Paris SG,0.0,3.0
+40,H,Paris SG,Marseille,1.0,0.0
+41,D,Monaco,Clermont,1.0,1.0
+42,D,Troyes,Ajaccio,1.0,1.0
+43,H,Rennes,Lyon,3.0,2.0
+44,H,Nantes,Brest,4.0,1.0
+45,D,Auxerre,Nice,1.0,1.0
+46,H,Toulouse,Angers,3.0,2.0
+47,H,Lens,Montpellier,1.0,0.0
+48,D,Lorient,Reims,0.0,0.0
+49,A,Strasbourg,Lille,0.0,3.0
+50,H,Lille,Lens,1.0,0.0
+51,H,Rennes,Nantes,3.0,0.0
+52,H,Nice,Troyes,3.0,2.0
+53,H,Clermont,Auxerre,2.0,1.0
+54,A,Brest,Lorient,1.0,2.0
+55,A,Angers,Strasbourg,2.0,3.0
+56,A,Montpellier,Monaco,0.0,2.0
+57,D,Reims,Paris SG,0.0,0.0
+58,A,Marseille,Ajaccio,1.0,2.0
+59,D,Lyon,Toulouse,1.0,1.0
+60,H,Lens,Lyon,1.0,0.0
+61,H,Monaco,Nantes,4.0,1.0
+62,D,Troyes,Reims,2.0,2.0
+63,H,Toulouse,Montpellier,4.0,2.0
+64,D,Auxerre,Brest,1.0,1.0
+65,A,Ajaccio,Clermont,1.0,3.0
+66,H,Lorient,Lille,2.0,1.0
+67,H,Paris SG,Nice,2.0,1.0
+68,A,Strasbourg,Rennes,1.0,3.0
+69,A,Angers,Marseille,0.0,3.0
+70,A,Lyon,Paris SG,0.0,1.0
+71,D,Nantes,Lens,0.0,0.0
+72,A,Nice,Angers,0.0,1.0
+73,D,Marseille,Rennes,1.0,1.0
+74,A,Clermont,Troyes,1.0,3.0
+75,A,Brest,Ajaccio,0.0,1.0
+76,A,Reims,Monaco,0.0,3.0
+77,H,Lille,Toulouse,2.0,1.0
+78,H,Montpellier,Strasbourg,2.0,1.0
+79,A,Auxerre,Lorient,1.0,3.0
+80,H,Monaco,Lyon,2.0,1.0
+81,H,Rennes,Auxerre,5.0,0.0
+82,H,Toulouse,Reims,1.0,0.0
+83,H,Lorient,Nantes,3.0,2.0
+84,H,Angers,Montpellier,2.0,1.0
+85,A,Ajaccio,Nice,0.0,1.0
+86,D,Strasbourg,Clermont,0.0,0.0
+87,H,Marseille,Lille,2.0,1.0
+88,H,Paris SG,Brest,1.0,0.0
+89,H,Lens,Troyes,1.0,0.0
+90,H,Lorient,Lyon,3.0,1.0
+91,A,Nice,Monaco,0.0,1.0
+92,D,Troyes,Rennes,1.0,1.0
+93,D,Reims,Lens,1.0,1.0
+94,H,Clermont,Toulouse,2.0,0.0
+95,D,Brest,Strasbourg,1.0,1.0
+96,A,Ajaccio,Lorient,0.0,1.0
+97,A,Montpellier,Lille,1.0,3.0
+98,A,Nantes,Paris SG,0.0,3.0
+99,H,Lyon,Angers,5.0,0.0
+100,A,Auxerre,Marseille,0.0,2.0
+101,A,Toulouse,Paris SG,0.0,3.0
+102,H,Rennes,Brest,3.0,1.0
+103,H,Marseille,Clermont,1.0,0.0
+104,A,Lille,Nice,1.0,2.0
+105,H,Lens,Lorient,5.0,2.0
+106,D,Strasbourg,Nantes,1.0,1.0
+107,H,Montpellier,Ajaccio,2.0,0.0
+108,A,Monaco,Troyes,2.0,4.0
+109,H,Lyon,Auxerre,2.0,1.0
+110,A,Angers,Reims,2.0,4.0
+111,D,Paris SG,Monaco,1.0,1.0
+112,D,Reims,Lyon,1.0,1.0
+113,H,Troyes,Angers,3.0,1.0
+114,A,Nice,Marseille,0.0,3.0
+115,H,Lorient,Clermont,2.0,1.0
+116,A,Brest,Montpellier,0.0,7.0
+117,H,Nantes,Toulouse,3.0,1.0
+118,H,Lens,Rennes,2.0,1.0
+119,H,Auxerre,Strasbourg,1.0,0.0
+120,A,Ajaccio,Lille,1.0,3.0
+121,A,Lille,Paris SG,1.0,7.0
+122,H,Rennes,Ajaccio,2.0,1.0
+123,D,Toulouse,Lorient,2.0,2.0
+124,A,Montpellier,Auxerre,1.0,2.0
+125,H,Clermont,Nice,1.0,0.0
+126,A,Angers,Brest,1.0,3.0
+127,D,Strasbourg,Reims,1.0,1.0
+128,H,Marseille,Nantes,2.0,1.0
+129,A,Monaco,Lens,1.0,4.0
+130,H,Lyon,Troyes,4.0,1.0
+131,D,Brest,Marseille,1.0,1.0
+132,D,Nice,Strasbourg,1.0,1.0
+133,A,Troyes,Toulouse,0.0,3.0
+134,A,Reims,Clermont,2.0,4.0
+135,D,Auxerre,Angers,2.0,2.0
+136,D,Ajaccio,Lens,0.0,0.0
+137,H,Paris SG,Montpellier,5.0,2.0
+138,D,Monaco,Rennes,1.0,1.0
+139,D,Nantes,Lille,1.0,1.0
+140,H,Marseille,Reims,4.0,1.0
+141,A,Rennes,Lorient,0.0,1.0
+142,H,Montpellier,Troyes,3.0,2.0
+143,H,Lille,Auxerre,4.0,1.0
+144,H,Lens,Brest,3.0,2.0
+145,D,Angers,Nantes,0.0,0.0
+146,D,Toulouse,Nice,1.0,1.0
+147,A,Clermont,Paris SG,0.0,5.0
+148,A,Strasbourg,Monaco,1.0,2.0
+149,H,Lyon,Ajaccio,2.0,1.0
+150,A,Reims,Nice,2.0,3.0
+151,H,Paris SG,Metz,5.0,0.0
+152,D,Nantes,St Etienne,1.0,1.0
+153,H,Marseille,Strasbourg,4.0,0.0
+154,D,Lorient,Troyes,1.0,1.0
+155,D,Lille,Rennes,2.0,2.0
+156,D,Lens,Monaco,2.0,2.0
+157,A,Clermont,Lyon,1.0,2.0
+158,A,Brest,Bordeaux,2.0,4.0
+159,H,Angers,Montpellier,2.0,0.0
+160,A,Troyes,Lens,1.0,3.0
+161,H,Strasbourg,Clermont,1.0,0.0
+162,A,St Etienne,Reims,1.0,2.0
+163,H,Rennes,Marseille,2.0,0.0
+164,A,Nice,Lille,1.0,3.0
+165,A,Montpellier,Paris SG,0.0,4.0
+166,H,Monaco,Brest,4.0,2.0
+167,H,Metz,Angers,1.0,0.0
+168,H,Lyon,Nantes,3.0,2.0
+169,D,Bordeaux,Lorient,0.0,0.0
+170,H,Nantes,Rennes,2.0,1.0
+171,H,Nice,St Etienne,4.0,2.0
+172,D,Paris SG,Troyes,2.0,2.0
+173,A,Lorient,Marseille,0.0,3.0
+174,A,Reims,Lens,1.0,2.0
+175,H,Clermont,Montpellier,2.0,1.0
+176,H,Angers,Bordeaux,4.0,1.0
+177,H,Metz,Lyon,3.0,2.0
+178,A,Brest,Strasbourg,0.0,1.0
+179,A,Lille,Monaco,1.0,2.0
+180,A,Marseille,Lyon,0.0,3.0
+181,A,Bordeaux,Nice,0.0,1.0
+182,D,Montpellier,Metz,2.0,2.0
+183,H,Monaco,Angers,2.0,0.0
+184,A,Lorient,Reims,1.0,2.0
+185,H,Brest,Clermont,2.0,0.0
+186,H,Troyes,Lille,3.0,0.0
+187,H,Rennes,St Etienne,2.0,0.0
+188,D,Lens,Nantes,2.0,2.0
+189,D,Strasbourg,Paris SG,3.0,3.0
+190,A,Reims,Marseille,0.0,1.0
+191,H,Lille,Strasbourg,1.0,0.0
+192,H,Nice,Troyes,1.0,0.0
+193,H,Nantes,Bordeaux,5.0,3.0
+194,A,Metz,Brest,0.0,1.0
+195,D,Clermont,Angers,2.0,2.0
+196,H,Rennes,Lorient,5.0,0.0
+197,D,Paris SG,Lens,1.0,1.0
+198,A,St Etienne,Monaco,1.0,4.0
+199,H,Lyon,Montpellier,5.0,2.0
+200,H,Strasbourg,Rennes,2.0,1.0
+201,H,Marseille,Nantes,3.0,2.0
+202,H,Lens,Montpellier,2.0,0.0
+203,H,Brest,Lyon,2.0,1.0
+204,A,Angers,Paris SG,0.0,3.0
+205,A,Troyes,Clermont,0.0,1.0
+206,H,Reims,Lille,2.0,1.0
+207,H,Monaco,Nice,1.0,0.0
+208,H,Lorient,Metz,1.0,0.0
+209,D,Bordeaux,St Etienne,2.0,2.0
+210,H,Paris SG,Marseille,2.0,1.0
+211,H,Lyon,Bordeaux,6.0,1.0
+212,D,Troyes,Strasbourg,1.0,1.0
+213,D,Nantes,Angers,1.0,1.0
+214,D,Montpellier,Reims,0.0,0.0
+215,D,Metz,Clermont,1.0,1.0
+216,H,Nice,Lorient,2.0,1.0
+217,A,Lille,Lens,1.0,2.0
+218,H,St Etienne,Brest,2.0,1.0
+219,A,Rennes,Monaco,2.0,3.0
+220,H,Marseille,Montpellier,2.0,0.0
+221,D,Strasbourg,Lyon,1.0,1.0
+222,H,Lens,Nice,3.0,0.0
+223,H,Monaco,Troyes,2.0,1.0
+224,D,Brest,Nantes,1.0,1.0
+225,D,Angers,Lille,1.0,1.0
+226,H,Bordeaux,Metz,3.0,1.0
+227,A,Clermont,Paris SG,1.0,6.0
+228,A,Reims,Rennes,2.0,3.0
+229,H,Lorient,St Etienne,6.0,2.0
+230,H,Paris SG,Lorient,5.0,1.0
+231,H,Lyon,Angers,3.0,2.0
+232,H,Troyes,Reims,1.0,0.0
+233,A,St Etienne,Marseille,2.0,4.0
+234,A,Montpellier,Brest,1.0,2.0
+235,A,Metz,Monaco,1.0,2.0
+236,A,Clermont,Nantes,2.0,3.0
+237,H,Strasbourg,Lens,1.0,0.0
+238,D,Lille,Bordeaux,0.0,0.0
+239,D,Nice,Rennes,1.0,1.0
+240,H,Marseille,Nice,2.0,1.0
+241,D,Reims,Lyon,0.0,0.0
+242,H,Rennes,Metz,6.0,1.0
+243,D,Lorient,Strasbourg,0.0,0.0
+244,A,Bordeaux,Montpellier,0.0,2.0
+245,H,Angers,Brest,1.0,0.0
+246,H,Monaco,Paris SG,3.0,0.0
+247,A,Nantes,Lille,0.0,1.0
+248,H,Lens,Clermont,3.0,1.0
+249,D,St Etienne,Troyes,1.0,1.0
+250,A,Brest,Marseille,1.0,4.0
+251,A,Lyon,Rennes,2.0,4.0
+252,H,Strasbourg,Monaco,1.0,0.0
+253,D,Metz,Lens,0.0,0.0
+254,A,Clermont,Lorient,0.0,2.0
+255,A,Angers,Reims,0.0,1.0
+256,H,Paris SG,Bordeaux,3.0,0.0
+257,H,Troyes,Nantes,1.0,0.0
+258,D,Montpellier,Nice,0.0,0.0
+259,D,Lille,St Etienne,0.0,0.0
+260,A,Marseille,Monaco,0.0,1.0
+261,H,Lille,Clermont,4.0,0.0
+262,H,Rennes,Angers,2.0,0.0
+263,D,Reims,Strasbourg,1.0,1.0
+264,H,Nantes,Montpellier,2.0,0.0
+265,A,Bordeaux,Troyes,0.0,2.0
+266,H,St Etienne,Metz,1.0,0.0
+267,H,Nice,Paris SG,1.0,0.0
+268,A,Lens,Brest,0.0,1.0
+269,A,Lorient,Lyon,1.0,4.0
+270,A,Lyon,Lille,0.0,1.0
+271,D,Troyes,Marseille,1.0,1.0
+272,D,Metz,Nantes,0.0,0.0
+273,D,Clermont,Bordeaux,1.0,1.0
+274,A,Brest,Lorient,0.0,1.0
+275,A,Angers,Lens,1.0,2.0
+276,A,Monaco,Reims,1.0,2.0
+277,H,Paris SG,St Etienne,3.0,1.0
+278,D,Strasbourg,Nice,0.0,0.0
+279,A,Montpellier,Rennes,2.0,4.0
+280,A,Marseille,Clermont,0.0,2.0
+281,D,Bordeaux,Monaco,1.0,1.0
+282,D,St Etienne,Strasbourg,2.0,2.0
+283,H,Rennes,Troyes,4.0,1.0
+284,D,Reims,Brest,1.0,1.0
+285,A,Lorient,Montpellier,0.0,1.0
+286,H,Nice,Angers,1.0,0.0
+287,H,Nantes,Paris SG,3.0,1.0
+288,D,Lens,Lyon,1.0,1.0
+289,D,Lille,Metz,0.0,0.0
+290,A,Metz,Marseille,1.0,2.0
+291,H,Lens,Bordeaux,3.0,2.0
+292,H,Nantes,Reims,1.0,0.0
+293,A,Clermont,St Etienne,1.0,2.0
+294,H,Brest,Troyes,5.0,1.0
+295,A,Angers,Strasbourg,0.0,1.0
+296,D,Monaco,Lorient,0.0,0.0
+297,H,Lyon,Nice,2.0,0.0
+298,A,Montpellier,Lille,0.0,1.0
+299,H,Paris SG,Rennes,1.0,0.0
+300,A,Lille,Paris SG,1.0,5.0
+301,H,Rennes,Brest,2.0,0.0
+302,D,Troyes,Metz,0.0,0.0
+303,H,Strasbourg,Nantes,1.0,0.0
+304,H,Reims,Bordeaux,5.0,0.0
+305,A,Nice,Clermont,0.0,1.0
+306,H,Lorient,Lens,2.0,0.0
+307,H,Monaco,Lyon,2.0,0.0
+308,H,St Etienne,Montpellier,3.0,1.0
+309,H,Marseille,Angers,5.0,2.0
+310,H,Lyon,Marseille,2.0,1.0
+311,A,Angers,St Etienne,0.0,1.0
+312,H,Paris SG,Reims,4.0,0.0
+313,H,Montpellier,Monaco,3.0,2.0
+314,H,Nantes,Lorient,4.0,2.0
+315,H,Clermont,Rennes,2.0,1.0
+316,H,Bordeaux,Strasbourg,4.0,3.0
+317,H,Angers,Troyes,2.0,1.0
+318,A,Metz,Nice,0.0,2.0
+319,A,Lens,Marseille,0.0,2.0
+320,H,Brest,Lille,2.0,0.0
+321,H,Lyon,St Etienne,1.0,0.0
+322,A,Montpellier,Troyes,0.0,1.0
+323,H,Lille,Lorient,3.0,1.0
+324,A,Clermont,Strasbourg,0.0,2.0
+325,D,Marseille,Lille,1.0,1.0
+326,A,Troyes,Lyon,0.0,1.0
+327,H,Strasbourg,Montpellier,3.0,1.0
+328,A,Reims,Metz,0.0,1.0
+329,H,Monaco,Clermont,4.0,0.0
+330,D,Lorient,Angers,0.0,0.0
+331,H,Rennes,Bordeaux,6.0,0.0
+332,H,Paris SG,Brest,2.0,0.0
+333,A,St Etienne,Lens,1.0,2.0
+334,H,Nice,Nantes,2.0,1.0
+335,D,Lyon,Paris SG,1.0,1.0
+336,D,Nantes,Monaco,0.0,0.0
+337,A,Metz,Strasbourg,0.0,2.0
+338,D,Clermont,Reims,0.0,0.0
+339,A,Brest,Nice,0.0,3.0
+340,H,Lens,Rennes,1.0,0.0
+341,A,Bordeaux,Marseille,0.0,1.0
+342,D,Troyes,Brest,1.0,1.0
+343,A,St Etienne,Nantes,0.0,1.0
+344,H,Nice,Lens,2.0,1.0
+345,H,Montpellier,Angers,4.0,1.0
+346,H,Monaco,Rennes,2.0,1.0
+347,D,Marseille,Reims,1.0,1.0
+348,D,Lyon,Metz,1.0,1.0
+349,D,Lorient,Paris SG,1.0,1.0
+350,A,Bordeaux,Lille,2.0,3.0
+351,H,Paris SG,Monaco,2.0,0.0
+352,A,Strasbourg,Marseille,0.0,2.0
+353,A,Troyes,Bordeaux,1.0,2.0
+354,A,Rennes,Nice,1.0,2.0
+355,H,Metz,Lorient,4.0,1.0
+356,A,Angers,Clermont,0.0,1.0
+357,D,Lille,Lyon,0.0,0.0
+358,H,Reims,St Etienne,2.0,0.0
+359,A,Brest,Montpellier,0.0,4.0
+360,H,Nantes,Lens,3.0,2.0
+361,D,Bordeaux,Lyon,2.0,2.0
+362,A,Nice,Strasbourg,0.0,3.0
+363,A,Reims,Angers,1.0,2.0
+364,H,Montpellier,Clermont,1.0,0.0
+365,H,Monaco,Metz,4.0,0.0
+366,A,Lorient,Nantes,0.0,1.0
+367,A,St Etienne,Rennes,0.0,5.0
+368,D,Lens,Paris SG,1.0,1.0
+369,H,Lille,Troyes,2.0,1.0
+370,A,Marseille,Brest,1.0,2.0
+371,A,Rennes,Lille,1.0,2.0
+372,D,Paris SG,Nice,0.0,0.0
+373,A,Nantes,Marseille,0.0,1.0
+374,A,Lyon,Reims,1.0,2.0
+375,D,Clermont,Lens,2.0,2.0
+376,H,Troyes,Lorient,2.0,0.0
+377,H,Strasbourg,Bordeaux,5.0,2.0
+378,A,Metz,Montpellier,1.0,3.0
+379,H,Brest,St Etienne,1.0,0.0
+380,A,Angers,Monaco,1.0,3.0
+381,H,Marseille,Troyes,1.0,0.0
+382,A,Montpellier,Lyon,0.0,1.0
+383,H,Reims,Clermont,1.0,0.0
+384,D,Monaco,Strasbourg,1.0,1.0
+385,A,Lorient,Rennes,0.0,2.0
+386,A,Bordeaux,Brest,1.0,2.0
+387,A,St Etienne,Paris SG,1.0,3.0
+388,A,Nice,Metz,0.0,1.0
+389,D,Lille,Nantes,1.0,1.0
+390,D,Lens,Angers,2.0,2.0
+391,A,Clermont,Nice,1.0,2.0
+392,A,Troyes,St Etienne,0.0,1.0
+393,D,Strasbourg,Reims,1.0,1.0
+394,D,Metz,Bordeaux,3.0,3.0
+395,H,Angers,Lorient,1.0,0.0
+396,H,Brest,Lens,4.0,0.0
+397,H,Rennes,Montpellier,2.0,0.0
+398,H,Paris SG,Nantes,3.0,1.0
+399,D,Monaco,Lille,2.0,2.0
+400,H,Rennes,Lyon,4.0,1.0
+401,A,Nice,Montpellier,0.0,1.0
+402,H,St Etienne,Clermont,3.0,2.0
+403,D,Reims,Monaco,0.0,0.0
+404,D,Nantes,Strasbourg,2.0,2.0
+405,A,Lorient,Brest,1.0,2.0
+406,D,Marseille,Metz,0.0,0.0
+407,A,Bordeaux,Paris SG,2.0,3.0
+408,D,Lille,Angers,1.0,1.0
+409,H,Lens,Troyes,4.0,0.0
+410,A,Clermont,Marseille,0.0,1.0
+411,H,Brest,Monaco,2.0,0.0
+412,D,Troyes,Rennes,2.0,2.0
+413,H,Strasbourg,Lorient,4.0,0.0
+414,H,Montpellier,Nantes,2.0,0.0
+415,H,Bordeaux,Reims,3.0,2.0
+416,A,Angers,Nice,1.0,2.0
+417,H,Lyon,Lens,2.0,1.0
+418,D,Metz,St Etienne,1.0,1.0
+419,H,Paris SG,Lille,2.0,1.0
+420,D,Nice,Marseille,1.0,1.0
+421,D,Marseille,Paris SG,0.0,0.0
+422,H,Monaco,Montpellier,3.0,1.0
+423,H,Rennes,Strasbourg,1.0,0.0
+424,A,Reims,Troyes,1.0,2.0
+425,D,Lorient,Bordeaux,1.0,1.0
+426,H,Lens,Metz,4.0,1.0
+427,H,Nice,Lyon,3.0,2.0
+428,D,Lille,Brest,1.0,1.0
+429,H,Nantes,Clermont,2.0,1.0
+430,D,St Etienne,Angers,2.0,2.0
+431,H,Marseille,Lorient,4.0,1.0
+432,H,Montpellier,Lens,1.0,0.0
+433,H,Strasbourg,St Etienne,5.0,1.0
+434,A,Metz,Rennes,0.0,3.0
+435,D,Brest,Reims,1.0,1.0
+436,D,Bordeaux,Nantes,1.0,1.0
+437,H,Troyes,Nice,1.0,0.0
+438,H,Lyon,Monaco,2.0,0.0
+439,H,Clermont,Lille,1.0,0.0
+440,H,Paris SG,Angers,2.0,1.0
+441,D,St Etienne,Lyon,1.0,1.0
+442,H,Lille,Marseille,2.0,0.0
+443,H,Nantes,Troyes,2.0,0.0
+444,H,Monaco,Bordeaux,3.0,0.0
+445,D,Lorient,Clermont,1.0,1.0
+446,H,Angers,Metz,3.0,2.0
+447,H,Rennes,Paris SG,2.0,0.0
+448,H,Nice,Brest,2.0,1.0
+449,D,Montpellier,Strasbourg,1.0,1.0
+450,H,Lens,Reims,2.0,0.0
+451,A,Marseille,Lens,2.0,3.0
+452,A,Clermont,Monaco,1.0,3.0
+453,D,Troyes,Angers,1.0,1.0
+454,H,Reims,Nantes,3.0,1.0
+455,A,Brest,Metz,1.0,2.0
+456,D,Bordeaux,Rennes,1.0,1.0
+457,H,Paris SG,Montpellier,2.0,0.0
+458,D,Lyon,Lorient,1.0,1.0
+459,A,Strasbourg,Lille,1.0,2.0
+460,A,St Etienne,Nice,0.0,3.0
+461,A,Metz,Paris SG,1.0,2.0
+462,H,Lyon,Troyes,3.0,1.0
+463,H,Lorient,Nice,1.0,0.0
+464,A,Lens,Strasbourg,0.0,1.0
+465,D,Angers,Marseille,0.0,0.0
+466,H,Rennes,Clermont,6.0,0.0
+467,H,Nantes,Brest,3.0,1.0
+468,D,Montpellier,Bordeaux,3.0,3.0
+469,H,Monaco,St Etienne,3.0,1.0
+470,H,Lille,Reims,2.0,1.0
+471,H,Paris SG,Lyon,2.0,1.0
+472,H,Marseille,Rennes,2.0,0.0
+473,D,Troyes,Montpellier,1.0,1.0
+474,D,Reims,Lorient,0.0,0.0
+475,D,Clermont,Brest,1.0,1.0
+476,A,Angers,Nantes,1.0,4.0
+477,D,Nice,Monaco,2.0,2.0
+478,A,St Etienne,Bordeaux,1.0,2.0
+479,H,Lens,Lille,1.0,0.0
+480,H,Strasbourg,Metz,3.0,0.0
+481,H,Lyon,Strasbourg,3.0,1.0
+482,A,Nantes,Nice,0.0,2.0
+483,A,Rennes,Reims,0.0,2.0
+484,A,Metz,Troyes,0.0,2.0
+485,D,Brest,Angers,1.0,1.0
+486,A,Bordeaux,Lens,2.0,3.0
+487,H,Montpellier,St Etienne,2.0,0.0
+488,A,Monaco,Marseille,0.0,2.0
+489,H,Paris SG,Clermont,4.0,0.0
+490,H,Lorient,Lille,2.0,1.0
+491,A,Reims,Paris SG,0.0,2.0
+492,H,Lille,Montpellier,2.0,1.0
+493,H,Strasbourg,Brest,3.0,1.0
+494,D,Lens,Lorient,2.0,2.0
+495,D,Clermont,Metz,2.0,2.0
+496,H,Angers,Rennes,2.0,0.0
+497,A,Troyes,Monaco,1.0,2.0
+498,H,Marseille,St Etienne,3.0,1.0
+499,H,Nice,Bordeaux,4.0,0.0
+500,A,Nantes,Lyon,0.0,1.0
+501,H,Rennes,Nantes,1.0,0.0
+502,D,Strasbourg,Troyes,1.0,1.0
+503,H,Montpellier,Lorient,3.0,1.0
+504,D,Metz,Reims,1.0,1.0
+505,D,Bordeaux,Angers,1.0,1.0
+506,D,Lyon,Clermont,3.0,3.0
+507,D,St Etienne,Lille,1.0,1.0
+508,A,Monaco,Lens,0.0,2.0
+509,A,Brest,Paris SG,2.0,4.0
+510,D,Marseille,Bordeaux,2.0,2.0
+511,D,Lens,St Etienne,2.0,2.0
+512,D,Reims,Montpellier,3.0,3.0
+513,H,Nantes,Metz,2.0,0.0
+514,H,Clermont,Troyes,2.0,0.0
+515,D,Brest,Rennes,1.0,1.0
+516,H,Angers,Lyon,3.0,0.0
+517,H,Paris SG,Strasbourg,4.0,2.0
+518,A,Lille,Nice,0.0,4.0
+519,H,Lorient,Monaco,1.0,0.0
+520,A,Montpellier,Marseille,2.0,3.0
+521,D,Metz,Lille,3.0,3.0
+522,A,Strasbourg,Angers,0.0,2.0
+523,D,St Etienne,Lorient,1.0,1.0
+524,D,Nice,Reims,0.0,0.0
+525,A,Bordeaux,Clermont,0.0,2.0
+526,D,Rennes,Lens,1.0,1.0
+527,A,Troyes,Paris SG,1.0,2.0
+528,D,Lyon,Brest,1.0,1.0
+529,D,Monaco,Nantes,1.0,1.0
+530,D,Strasbourg,Lorient,1.0,1.0
+531,A,St Etienne,Dijon,0.0,1.0
+532,H,Rennes,Nimes,2.0,0.0
+533,A,Reims,Bordeaux,1.0,2.0
+534,A,Nantes,Montpellier,1.0,2.0
+535,D,Metz,Marseille,1.0,1.0
+536,A,Lyon,Nice,2.0,3.0
+537,D,Lens,Monaco,0.0,0.0
+538,A,Brest,Paris SG,0.0,2.0
+539,A,Angers,Lille,1.0,2.0
+540,H,Paris SG,Reims,4.0,0.0
+541,A,Nimes,Lyon,2.0,5.0
+542,A,Nice,Strasbourg,0.0,2.0
+543,D,Montpellier,Brest,0.0,0.0
+544,H,Monaco,Rennes,2.0,1.0
+545,H,Marseille,Angers,3.0,2.0
+546,H,Lorient,Metz,2.0,1.0
+547,D,Lille,St Etienne,0.0,0.0
+548,A,Dijon,Nantes,0.0,4.0
+549,H,Bordeaux,Lens,3.0,0.0
+550,D,Rennes,Paris SG,1.0,1.0
+551,A,Reims,Monaco,0.0,1.0
+552,A,Strasbourg,Montpellier,2.0,3.0
+553,H,Nice,Brest,3.0,2.0
+554,A,Metz,Nimes,0.0,3.0
+555,H,Angers,Dijon,3.0,0.0
+556,H,St Etienne,Marseille,1.0,0.0
+557,H,Lyon,Lorient,4.0,1.0
+558,H,Nantes,Bordeaux,3.0,0.0
+559,A,Lens,Lille,0.0,3.0
+560,A,Monaco,Lyon,2.0,3.0
+561,A,Montpellier,St Etienne,1.0,2.0
+562,D,Nimes,Reims,2.0,2.0
+563,H,Lorient,Angers,2.0,0.0
+564,A,Dijon,Metz,1.0,5.0
+565,A,Brest,Nantes,1.0,4.0
+566,H,Bordeaux,Rennes,1.0,0.0
+567,H,Lille,Nice,2.0,0.0
+568,H,Paris SG,Lens,2.0,1.0
+569,D,Marseille,Strasbourg,1.0,1.0
+570,A,Lyon,Lille,2.0,3.0
+571,A,Angers,Monaco,0.0,1.0
+572,A,Strasbourg,Nantes,1.0,2.0
+573,H,Rennes,Dijon,5.0,1.0
+574,H,Lorient,Bordeaux,4.0,1.0
+575,H,Lens,Nimes,2.0,1.0
+576,H,Nice,Montpellier,3.0,1.0
+577,A,Metz,Paris SG,1.0,3.0
+578,A,St Etienne,Brest,1.0,2.0
+579,A,Reims,Marseille,1.0,3.0
+580,A,Nantes,Lyon,1.0,2.0
+581,A,Bordeaux,Monaco,0.0,3.0
+582,D,Reims,Metz,0.0,0.0
+583,D,Nimes,Strasbourg,1.0,1.0
+584,H,Dijon,Nice,2.0,0.0
+585,D,Brest,Lens,1.0,1.0
+586,H,Paris SG,St Etienne,3.0,2.0
+587,H,Marseille,Lorient,3.0,2.0
+588,A,Angers,Rennes,0.0,3.0
+589,D,Lille,Montpellier,1.0,1.0
+590,H,Lyon,Angers,3.0,0.0
+591,H,Monaco,Dijon,3.0,0.0
+592,H,St Etienne,Bordeaux,4.0,1.0
+593,D,Nice,Reims,0.0,0.0
+594,H,Lens,Lorient,4.0,1.0
+595,D,Brest,Nimes,1.0,1.0
+596,H,Rennes,Nantes,1.0,0.0
+597,D,Montpellier,Marseille,3.0,3.0
+598,A,Strasbourg,Paris SG,1.0,4.0
+599,A,Metz,Lille,0.0,2.0
+600,H,Marseille,Dijon,2.0,0.0
+601,A,Nimes,St Etienne,0.0,2.0
+602,D,Reims,Rennes,2.0,2.0
+603,A,Nantes,Nice,1.0,2.0
+604,H,Lorient,Brest,1.0,0.0
+605,A,Bordeaux,Strasbourg,2.0,3.0
+606,D,Angers,Montpellier,1.0,1.0
+607,D,Lens,Lyon,1.0,1.0
+608,A,Paris SG,Lille,0.0,1.0
+609,H,Monaco,Metz,4.0,0.0
+610,A,Lyon,Paris SG,2.0,4.0
+611,A,Lille,Nimes,1.0,2.0
+612,D,Nantes,Lorient,1.0,1.0
+613,H,Montpellier,Bordeaux,3.0,1.0
+614,A,Dijon,Reims,0.0,1.0
+615,D,Brest,Angers,0.0,0.0
+616,A,Strasbourg,Lens,1.0,2.0
+617,H,Nice,Marseille,3.0,0.0
+618,A,Metz,Rennes,1.0,3.0
+619,A,St Etienne,Monaco,0.0,4.0
+620,A,Paris SG,Nantes,1.0,2.0
+621,D,Monaco,Lille,0.0,0.0
+622,H,Rennes,Strasbourg,1.0,0.0
+623,D,Lorient,Nice,1.0,1.0
+624,D,Lens,Metz,2.0,2.0
+625,A,Dijon,Bordeaux,1.0,3.0
+626,D,Nimes,Montpellier,1.0,1.0
+627,H,Marseille,Brest,3.0,1.0
+628,A,Angers,St Etienne,0.0,1.0
+629,D,Reims,Lyon,1.0,1.0
+630,H,Marseille,Rennes,1.0,0.0
+631,H,Strasbourg,Monaco,1.0,0.0
+632,A,Nantes,Reims,1.0,2.0
+633,D,Montpellier,Lorient,1.0,1.0
+634,H,Lille,Marseille,2.0,0.0
+635,A,Bordeaux,Paris SG,0.0,1.0
+636,A,St Etienne,Lens,2.0,3.0
+637,H,Nice,Nimes,2.0,1.0
+638,A,Metz,Angers,0.0,1.0
+639,H,Lyon,Rennes,1.0,0.0
+640,H,Brest,Dijon,3.0,1.0
+641,D,Marseille,Lyon,1.0,1.0
+642,D,Lille,Strasbourg,1.0,1.0
+643,D,Reims,Montpellier,0.0,0.0
+644,D,Nimes,Nantes,1.0,1.0
+645,H,Lorient,St Etienne,2.0,1.0
+646,D,Angers,Lens,2.0,2.0
+647,H,Monaco,Brest,2.0,0.0
+648,A,Dijon,Paris SG,0.0,4.0
+649,A,Bordeaux,Metz,1.0,2.0
+650,A,Rennes,Nice,1.0,2.0
+651,H,Nimes,Lorient,1.0,0.0
+652,A,Paris SG,Monaco,0.0,2.0
+653,A,Lorient,Lille,1.0,4.0
+654,D,Strasbourg,Angers,0.0,0.0
+655,H,Nimes,Bordeaux,2.0,0.0
+656,A,Nice,Metz,1.0,2.0
+657,H,Lens,Dijon,2.0,1.0
+658,H,Montpellier,Rennes,2.0,1.0
+659,D,Nantes,Marseille,1.0,1.0
+660,D,St Etienne,Reims,1.0,1.0
+661,A,Brest,Lyon,2.0,3.0
+662,H,Marseille,Nice,3.0,2.0
+663,D,Bordeaux,Marseille,0.0,0.0
+664,D,Lille,Brest,0.0,0.0
+665,A,Rennes,St Etienne,0.0,2.0
+666,A,Metz,Strasbourg,1.0,2.0
+667,A,Dijon,Nimes,0.0,2.0
+668,A,Angers,Nantes,1.0,3.0
+669,D,Monaco,Lorient,2.0,2.0
+670,A,Lyon,Montpellier,1.0,2.0
+671,D,Reims,Lens,1.0,1.0
+672,H,Paris SG,Nice,2.0,1.0
+673,A,Marseille,Paris SG,0.0,2.0
+674,A,Nantes,Lille,0.0,2.0
+675,H,St Etienne,Metz,1.0,0.0
+676,A,Nimes,Monaco,3.0,4.0
+677,H,Nice,Angers,3.0,0.0
+678,H,Montpellier,Dijon,4.0,2.0
+679,H,Brest,Bordeaux,2.0,1.0
+680,D,Lens,Rennes,0.0,0.0
+681,H,Lyon,Strasbourg,3.0,0.0
+682,H,Lorient,Reims,1.0,0.0
+683,D,St Etienne,Nantes,1.0,1.0
+684,H,Paris SG,Nimes,3.0,0.0
+685,H,Monaco,Nice,2.0,1.0
+686,D,Lens,Marseille,2.0,2.0
+687,A,Dijon,Lyon,0.0,1.0
+688,D,Strasbourg,Brest,2.0,2.0
+689,D,Rennes,Lorient,1.0,1.0
+690,D,Reims,Angers,0.0,0.0
+691,D,Metz,Montpellier,1.0,1.0
+692,A,Bordeaux,Lille,0.0,3.0
+693,A,Nantes,Monaco,1.0,2.0
+694,H,Lille,Dijon,1.0,0.0
+695,A,Strasbourg,Reims,0.0,1.0
+696,H,Lorient,Paris SG,3.0,2.0
+697,A,Brest,Metz,2.0,4.0
+698,H,Angers,Nimes,3.0,1.0
+699,A,Nice,St Etienne,0.0,1.0
+700,A,Montpellier,Lens,1.0,2.0
+701,H,Lyon,Bordeaux,2.0,1.0
+702,H,Lorient,Dijon,3.0,2.0
+703,A,St Etienne,Lyon,0.0,5.0
+704,A,Rennes,Lille,0.0,1.0
+705,H,Reims,Brest,1.0,0.0
+706,H,Metz,Nantes,2.0,0.0
+707,D,Dijon,Strasbourg,1.0,1.0
+708,H,Bordeaux,Angers,2.0,1.0
+709,H,Monaco,Marseille,3.0,1.0
+710,A,Lens,Nice,0.0,1.0
+711,H,Paris SG,Montpellier,4.0,0.0
+712,A,Marseille,Lens,0.0,1.0
+713,A,Lyon,Metz,0.0,1.0
+714,H,Lille,Reims,2.0,1.0
+715,H,Strasbourg,St Etienne,1.0,0.0
+716,A,Nice,Bordeaux,0.0,3.0
+717,D,Nantes,Lens,1.0,1.0
+718,A,Brest,Rennes,1.0,2.0
+719,A,Angers,Paris SG,0.0,1.0
+720,A,Marseille,Nimes,1.0,2.0
+721,A,Montpellier,Monaco,2.0,3.0
+722,D,Rennes,Lyon,2.0,2.0
+723,H,Reims,St Etienne,3.0,1.0
+724,H,Paris SG,Brest,3.0,0.0
+725,A,Nimes,Lille,0.0,1.0
+726,D,Montpellier,Nantes,1.0,1.0
+727,H,Monaco,Angers,3.0,0.0
+728,D,Metz,Nice,1.0,1.0
+729,A,Lens,Strasbourg,0.0,1.0
+730,D,Dijon,Marseille,0.0,0.0
+731,H,Bordeaux,Lorient,2.0,1.0
+732,D,St Etienne,Paris SG,1.0,1.0
+733,D,Reims,Dijon,0.0,0.0
+734,H,Marseille,Montpellier,3.0,1.0
+735,H,Lyon,Lens,3.0,2.0
+736,A,Lille,Angers,1.0,2.0
+737,H,Strasbourg,Nimes,5.0,0.0
+738,D,Nantes,Rennes,0.0,0.0
+739,D,Metz,Bordeaux,0.0,0.0
+740,A,Lorient,Monaco,2.0,5.0
+741,H,Brest,Nice,2.0,0.0
+742,H,Paris SG,Strasbourg,4.0,0.0
+743,A,Montpellier,Lille,2.0,3.0
+744,D,Monaco,St Etienne,2.0,2.0
+745,H,Lyon,Nantes,3.0,0.0
+746,H,Angers,Marseille,2.0,1.0
+747,H,Rennes,Metz,1.0,0.0
+748,A,Nimes,Dijon,1.0,3.0
+749,D,Nice,Lorient,2.0,2.0
+750,H,Lens,Brest,2.0,1.0
+751,A,Bordeaux,Reims,1.0,3.0
+752,D,Lille,Paris SG,0.0,0.0
+753,A,Lorient,Rennes,0.0,3.0
+754,A,Strasbourg,Bordeaux,0.0,2.0
+755,D,St Etienne,Nimes,2.0,2.0
+756,D,Nantes,Angers,1.0,1.0
+757,A,Dijon,Monaco,0.0,1.0
+758,D,Brest,Montpellier,2.0,2.0
+759,A,Nice,Lyon,1.0,4.0
+760,D,Marseille,Reims,1.0,1.0
+761,H,Metz,Lens,2.0,0.0
+762,H,Rennes,Marseille,2.0,1.0
+763,H,Paris SG,Lorient,2.0,0.0
+764,A,Monaco,Lens,0.0,3.0
+765,D,Lyon,Brest,2.0,2.0
+766,A,Bordeaux,St Etienne,1.0,2.0
+767,H,Reims,Nantes,3.0,2.0
+768,A,Nimes,Nice,0.0,2.0
+769,A,Montpellier,Metz,0.0,2.0
+770,A,Dijon,Lille,0.0,2.0
+771,A,Angers,Strasbourg,0.0,2.0
+772,A,Paris SG,Lyon,0.0,1.0
+773,H,Lille,Bordeaux,2.0,1.0
+774,D,Strasbourg,Metz,2.0,2.0
+775,D,Nantes,Dijon,1.0,1.0
+776,H,Lorient,Nimes,3.0,0.0
+777,H,Brest,Reims,2.0,1.0
+778,A,Nice,Rennes,0.0,1.0
+779,A,Lens,Montpellier,2.0,3.0
+780,H,Marseille,Monaco,2.0,1.0
+781,D,St Etienne,Angers,0.0,0.0
+782,A,Metz,Lyon,1.0,3.0
+783,D,Reims,Nice,0.0,0.0
+784,A,Nantes,Strasbourg,0.0,4.0
+785,D,Dijon,St Etienne,0.0,0.0
+786,H,Bordeaux,Brest,1.0,0.0
+787,H,Angers,Lorient,2.0,0.0
+788,H,Lille,Monaco,2.0,1.0
+789,A,Montpellier,Paris SG,1.0,3.0
+790,A,Rennes,Lens,0.0,2.0
+791,A,Nimes,Marseille,0.0,2.0
+792,D,St Etienne,Lille,1.0,1.0
+793,A,Nice,Dijon,1.0,3.0
+794,H,Monaco,Nimes,3.0,0.0
+795,A,Metz,Brest,0.0,2.0
+796,A,Lorient,Montpellier,0.0,1.0
+797,A,Lens,Angers,1.0,3.0
+798,H,Lyon,Reims,3.0,0.0
+799,D,Paris SG,Bordeaux,2.0,2.0
+800,H,Marseille,Nantes,3.0,1.0
+801,D,Strasbourg,Rennes,1.0,1.0
+802,D,Lens,Nantes,1.0,1.0
+803,H,Lille,Lorient,4.0,0.0
+804,A,Angers,Lyon,0.0,1.0
+805,A,Reims,Nimes,0.0,1.0
+806,H,Montpellier,Strasbourg,4.0,3.0
+807,A,Dijon,Lens,0.0,1.0
+808,D,Nantes,Metz,1.0,1.0
+809,H,Brest,St Etienne,4.0,1.0
+810,H,Monaco,Paris SG,3.0,2.0
+811,A,Rennes,Bordeaux,0.0,1.0
+812,H,Lyon,St Etienne,2.0,1.0
+813,A,Nice,Monaco,1.0,2.0
+814,A,Nimes,Angers,1.0,5.0
+815,D,Metz,Dijon,1.0,1.0
+816,A,Lorient,Nantes,0.0,2.0
+817,D,Lens,Reims,4.0,4.0
+818,H,Brest,Lille,3.0,2.0
+819,H,Paris SG,Rennes,3.0,0.0
+820,A,Bordeaux,Montpellier,0.0,2.0
+821,A,Strasbourg,Marseille,0.0,1.0
+822,D,Lille,Lyon,1.0,1.0
+823,H,Monaco,Bordeaux,4.0,0.0
+824,H,Reims,Strasbourg,2.0,1.0
+825,A,Nimes,Metz,0.0,1.0
+826,D,Dijon,Lorient,0.0,0.0
+827,A,Angers,Nice,0.0,3.0
+828,A,St Etienne,Montpellier,0.0,1.0
+829,A,Nantes,Paris SG,0.0,3.0
+830,H,Rennes,Brest,2.0,1.0
+831,H,Lyon,Monaco,4.0,1.0
+832,D,Nice,Lille,1.0,1.0
+833,A,Montpellier,Reims,0.0,4.0
+834,H,Metz,St Etienne,2.0,0.0
+835,A,Brest,Strasbourg,0.0,3.0
+836,H,Bordeaux,Nimes,2.0,0.0
+837,H,Paris SG,Dijon,4.0,0.0
+838,A,Lorient,Marseille,0.0,1.0
+839,A,Rennes,Angers,1.0,2.0
+840,H,Lille,Lens,4.0,0.0
+841,A,St Etienne,Nice,1.0,3.0
+842,H,Nantes,Brest,3.0,1.0
+843,D,Monaco,Montpellier,1.0,1.0
+844,D,Angers,Metz,1.0,1.0
+845,A,Strasbourg,Lyon,2.0,3.0
+846,H,Marseille,Bordeaux,3.0,1.0
+847,A,Reims,Lorient,1.0,3.0
+848,A,Nimes,Paris SG,0.0,4.0
+849,D,Dijon,Rennes,1.0,1.0
+850,D,Lyon,Marseille,1.0,1.0
+851,D,Rennes,Reims,2.0,2.0
+852,A,Strasbourg,Lille,0.0,3.0
+853,H,Metz,Lorient,3.0,1.0
+854,H,Brest,Monaco,1.0,0.0
+855,H,Bordeaux,Dijon,3.0,0.0
+856,A,Montpellier,Nimes,0.0,1.0
+857,H,Nice,Nantes,2.0,1.0
+858,H,Lens,St Etienne,2.0,0.0
+859,H,Paris SG,Angers,6.0,1.0
+860,A,Reims,Paris SG,0.0,2.0
+861,D,Lorient,Lyon,1.0,1.0
+862,D,Nimes,Lens,1.0,1.0
+863,H,Monaco,Strasbourg,3.0,2.0
+864,D,Dijon,Montpellier,2.0,2.0
+865,H,Angers,Brest,3.0,2.0
+866,D,Bordeaux,Nice,0.0,0.0
+867,D,Marseille,Metz,1.0,1.0
+868,A,St Etienne,Rennes,0.0,3.0
+869,H,Lille,Nantes,2.0,0.0
+870,D,Marseille,Lille,1.0,1.0
+871,D,Nantes,St Etienne,2.0,2.0
+872,H,Strasbourg,Dijon,1.0,0.0
+873,H,Montpellier,Angers,4.0,1.0
+874,H,Metz,Reims,2.0,1.0
+875,H,Brest,Lorient,3.0,2.0
+876,A,Nice,Paris SG,0.0,3.0
+877,H,Rennes,Monaco,2.0,1.0
+878,H,Lens,Bordeaux,2.0,1.0
+879,D,Lyon,Nimes,0.0,0.0
+880,A,Marseille,St Etienne,0.0,2.0
+881,H,Paris SG,Metz,1.0,0.0
+882,H,Montpellier,Lyon,2.0,1.0
+883,A,Paris SG,Marseille,0.0,1.0
+884,H,Monaco,Nantes,2.0,1.0
+885,A,Nimes,Rennes,2.0,4.0
+886,A,Lorient,Lens,2.0,3.0
+887,A,Dijon,Brest,0.0,2.0
+888,H,Angers,Reims,1.0,0.0
+889,H,Lille,Metz,1.0,0.0
+890,H,St Etienne,Strasbourg,2.0,0.0
+891,H,Montpellier,Nice,3.0,1.0
+892,D,Bordeaux,Lyon,0.0,0.0
+893,H,Lens,Paris SG,1.0,0.0
+894,A,Brest,Marseille,2.0,3.0
+895,H,St Etienne,Lorient,2.0,0.0
+896,H,Nantes,Nimes,2.0,1.0
+897,A,Metz,Monaco,0.0,1.0
+898,A,Angers,Bordeaux,0.0,2.0
+899,A,Reims,Lille,0.0,1.0
+900,A,Strasbourg,Nice,0.0,2.0
+901,H,Rennes,Montpellier,2.0,1.0
+902,H,Lyon,Dijon,4.0,1.0
+903,H,Nice,Lens,2.0,1.0
+904,H,Nimes,Brest,4.0,0.0
+905,H,Lorient,Strasbourg,3.0,1.0
+906,D,Monaco,Reims,2.0,2.0
+907,D,Lille,Rennes,1.0,1.0
+908,A,Dijon,Angers,0.0,1.0
+909,D,Bordeaux,Nantes,0.0,0.0
+910,H,Lille,Lyon,1.0,0.0
+911,H,Rennes,Montpellier,5.0,0.0
+912,D,St Etienne,Bordeaux,1.0,1.0
+913,H,Reims,Brest,1.0,0.0
+914,H,Nice,Monaco,2.0,1.0
+915,H,Metz,Nimes,2.0,1.0
+916,H,Dijon,Toulouse,2.0,1.0
+917,H,Angers,Nantes,2.0,0.0
+918,D,Marseille,Amiens,2.0,2.0
+919,H,Lyon,St Etienne,2.0,0.0
+920,D,Bordeaux,Nice,1.0,1.0
+921,A,Nantes,Lille,0.0,1.0
+922,A,Toulouse,Rennes,0.0,2.0
+923,H,Montpellier,Strasbourg,3.0,0.0
+924,D,Monaco,Reims,1.0,1.0
+925,A,Brest,Angers,0.0,1.0
+926,A,Amiens,Metz,0.0,1.0
+927,H,Paris SG,Dijon,4.0,0.0
+928,A,Nimes,Marseille,2.0,3.0
+929,H,Paris SG,Bordeaux,4.0,3.0
+930,H,Rennes,Nimes,2.0,1.0
+931,D,St Etienne,Reims,1.0,1.0
+932,D,Strasbourg,Amiens,0.0,0.0
+933,H,Lille,Toulouse,3.0,0.0
+934,D,Dijon,Monaco,1.0,1.0
+935,H,Angers,Montpellier,1.0,0.0
+936,A,Marseille,Nantes,1.0,3.0
+937,A,Metz,Lyon,0.0,2.0
+938,D,Nice,Brest,2.0,2.0
+939,A,Lille,Marseille,1.0,2.0
+940,H,Reims,Rennes,1.0,0.0
+941,H,Brest,St Etienne,3.0,2.0
+942,D,Lyon,Strasbourg,1.0,1.0
+943,A,Toulouse,Nice,0.0,2.0
+944,H,Nimes,Angers,1.0,0.0
+945,D,Nantes,Metz,0.0,0.0
+946,D,Bordeaux,Dijon,2.0,2.0
+947,D,Amiens,Paris SG,4.0,4.0
+948,H,Monaco,Montpellier,1.0,0.0
+949,H,Paris SG,Lyon,4.0,2.0
+950,H,Strasbourg,Reims,3.0,0.0
+951,H,Montpellier,St Etienne,1.0,0.0
+952,D,Rennes,Brest,0.0,0.0
+953,A,Nice,Nimes,1.0,3.0
+954,A,Metz,Bordeaux,1.0,2.0
+955,D,Dijon,Nantes,3.0,3.0
+956,A,Amiens,Monaco,1.0,2.0
+957,H,Marseille,Toulouse,1.0,0.0
+958,A,Angers,Lille,0.0,2.0
+959,A,St Etienne,Marseille,0.0,2.0
+960,A,Toulouse,Strasbourg,0.0,1.0
+961,D,Reims,Nice,1.0,1.0
+962,H,Nimes,Dijon,2.0,0.0
+963,D,Montpellier,Metz,1.0,1.0
+964,D,Lyon,Amiens,0.0,0.0
+965,D,Brest,Bordeaux,1.0,1.0
+966,A,Nantes,Paris SG,1.0,2.0
+967,H,Monaco,Angers,1.0,0.0
+968,H,Lille,Rennes,1.0,0.0
+969,D,Bordeaux,Marseille,0.0,0.0
+970,H,Metz,St Etienne,3.0,1.0
+971,H,Nice,Lyon,2.0,1.0
+972,A,Strasbourg,Lille,1.0,2.0
+973,H,Nimes,Monaco,3.0,1.0
+974,H,Dijon,Brest,3.0,0.0
+975,A,Angers,Reims,1.0,4.0
+976,D,Amiens,Toulouse,0.0,0.0
+977,H,Paris SG,Montpellier,5.0,0.0
+978,H,Rennes,Nantes,3.0,2.0
+979,A,Lille,Paris SG,0.0,2.0
+980,A,Nantes,Bordeaux,0.0,1.0
+981,H,Lyon,Toulouse,3.0,0.0
+982,H,St Etienne,Nimes,2.0,1.0
+983,A,Reims,Metz,0.0,1.0
+984,H,Montpellier,Dijon,2.0,1.0
+985,A,Monaco,Strasbourg,1.0,3.0
+986,H,Brest,Amiens,2.0,1.0
+987,D,Marseille,Angers,0.0,0.0
+988,D,Nice,Rennes,1.0,1.0
+989,A,Monaco,Paris SG,1.0,4.0
+990,A,Nimes,Rennes,0.0,1.0
+991,D,Amiens,Reims,1.0,1.0
+992,D,Paris SG,Monaco,3.0,3.0
+993,H,Dijon,Lille,1.0,0.0
+994,A,St Etienne,Nantes,0.0,2.0
+995,A,Toulouse,Brest,2.0,5.0
+996,H,Nimes,Reims,2.0,0.0
+997,H,Metz,Strasbourg,1.0,0.0
+998,D,Angers,Nice,1.0,1.0
+999,A,Amiens,Montpellier,1.0,2.0
+1000,A,Bordeaux,Lyon,1.0,2.0
+1001,A,Rennes,Marseille,0.0,1.0
+1002,H,Strasbourg,St Etienne,2.0,1.0
+1003,H,Rennes,Bordeaux,1.0,0.0
+1004,D,Reims,Lyon,1.0,1.0
+1005,H,Paris SG,Amiens,4.0,1.0
+1006,H,Nice,Toulouse,3.0,0.0
+1007,A,Nantes,Angers,1.0,2.0
+1008,H,Montpellier,Brest,4.0,0.0
+1009,H,Monaco,Lille,5.0,1.0
+1010,H,Marseille,Nimes,3.0,1.0
+1011,D,Dijon,Metz,2.0,2.0
+1012,A,St Etienne,Paris SG,0.0,4.0
+1013,A,Lyon,Rennes,0.0,1.0
+1014,A,Bordeaux,Strasbourg,0.0,1.0
+1015,A,Toulouse,Reims,0.0,1.0
+1016,A,Nimes,Nantes,0.0,1.0
+1017,D,Brest,Nice,0.0,0.0
+1018,D,Angers,Monaco,0.0,0.0
+1019,D,Amiens,Dijon,1.0,1.0
+1020,D,Metz,Marseille,1.0,1.0
+1021,H,Lille,Montpellier,2.0,1.0
+1022,H,Marseille,Bordeaux,3.0,1.0
+1023,H,Nantes,Dijon,1.0,0.0
+1024,H,Reims,St Etienne,3.0,1.0
+1025,H,Strasbourg,Toulouse,4.0,2.0
+1026,H,Rennes,Angers,2.0,1.0
+1027,H,Nice,Metz,4.0,1.0
+1028,H,Monaco,Amiens,3.0,0.0
+1029,A,Montpellier,Paris SG,1.0,3.0
+1030,A,Nimes,Lyon,0.0,4.0
+1031,H,Lille,Brest,1.0,0.0
+1032,H,Paris SG,Nantes,2.0,0.0
+1033,A,Toulouse,Monaco,1.0,2.0
+1034,H,St Etienne,Nice,4.0,1.0
+1035,A,Metz,Rennes,0.0,1.0
+1036,D,Dijon,Montpellier,2.0,2.0
+1037,A,Lyon,Lille,0.0,1.0
+1038,H,Brest,Strasbourg,5.0,0.0
+1039,H,Bordeaux,Nimes,6.0,0.0
+1040,A,Angers,Marseille,0.0,2.0
+1041,H,Rennes,St Etienne,2.0,1.0
+1042,H,Nantes,Toulouse,2.0,1.0
+1043,D,Reims,Bordeaux,1.0,1.0
+1044,D,Nimes,Metz,1.0,1.0
+1045,H,Nice,Angers,3.0,1.0
+1046,H,Montpellier,Amiens,4.0,2.0
+1047,H,Lille,Dijon,1.0,0.0
+1048,A,Strasbourg,Lyon,1.0,2.0
+1049,H,Marseille,Brest,2.0,1.0
+1050,A,Toulouse,Marseille,0.0,2.0
+1051,D,St Etienne,Montpellier,0.0,0.0
+1052,H,Bordeaux,Monaco,2.0,1.0
+1053,D,Metz,Reims,1.0,1.0
+1054,H,Dijon,Rennes,2.0,1.0
+1055,D,Brest,Nantes,1.0,1.0
+1056,H,Angers,Nimes,1.0,0.0
+1057,A,Amiens,Strasbourg,0.0,4.0
+1058,H,Lyon,Nice,2.0,1.0
+1059,H,Paris SG,Lille,2.0,0.0
+1060,H,Marseille,Lyon,2.0,1.0
+1061,A,Nantes,St Etienne,2.0,3.0
+1062,H,Montpellier,Toulouse,3.0,0.0
+1063,H,Rennes,Amiens,3.0,1.0
+1064,H,Strasbourg,Nimes,4.0,1.0
+1065,D,Reims,Angers,0.0,0.0
+1066,H,Monaco,Dijon,1.0,0.0
+1067,D,Lille,Metz,0.0,0.0
+1068,A,Brest,Paris SG,1.0,2.0
+1069,D,Nice,Bordeaux,1.0,1.0
+1070,H,St Etienne,Monaco,1.0,0.0
+1071,H,Nice,Reims,2.0,0.0
+1072,H,Bordeaux,Nantes,2.0,0.0
+1073,A,Toulouse,Lyon,2.0,3.0
+1074,D,Metz,Montpellier,2.0,2.0
+1075,H,Angers,Strasbourg,1.0,0.0
+1076,H,Amiens,Brest,1.0,0.0
+1077,H,Marseille,Lille,2.0,1.0
+1078,H,Dijon,Paris SG,2.0,1.0
+1079,H,Paris SG,Marseille,4.0,0.0
+1080,D,St Etienne,Amiens,2.0,2.0
+1081,H,Rennes,Toulouse,3.0,2.0
+1082,H,Strasbourg,Nice,1.0,0.0
+1083,D,Reims,Nimes,0.0,0.0
+1084,D,Montpellier,Angers,0.0,0.0
+1085,H,Lyon,Metz,2.0,0.0
+1086,H,Brest,Dijon,2.0,0.0
+1087,H,Lille,Bordeaux,3.0,0.0
+1088,A,Nantes,Monaco,0.0,1.0
+1089,H,Marseille,Strasbourg,2.0,0.0
+1090,H,Monaco,Rennes,3.0,2.0
+1091,A,Bordeaux,St Etienne,0.0,1.0
+1092,H,Toulouse,Lille,2.0,1.0
+1093,H,Reims,Montpellier,1.0,0.0
+1094,D,Nimes,Amiens,1.0,1.0
+1095,H,Metz,Nantes,1.0,0.0
+1096,A,Angers,Brest,0.0,1.0
+1097,D,Lyon,Dijon,0.0,0.0
+1098,A,Nice,Paris SG,1.0,4.0
+1099,H,St Etienne,Lyon,1.0,0.0
+1100,A,Rennes,Reims,0.0,1.0
+1101,D,Lille,Nimes,2.0,2.0
+1102,A,Toulouse,Bordeaux,1.0,3.0
+1103,H,Nantes,Nice,1.0,0.0
+1104,H,Montpellier,Monaco,3.0,1.0
+1105,H,Dijon,Strasbourg,1.0,0.0
+1106,H,Brest,Metz,2.0,0.0
+1107,H,Paris SG,Angers,4.0,0.0
+1108,H,Amiens,Marseille,3.0,1.0
+1109,D,Marseille,Rennes,1.0,1.0
+1110,A,Nimes,St Etienne,0.0,1.0
+1111,H,Strasbourg,Montpellier,1.0,0.0
+1112,A,Reims,Dijon,1.0,2.0
+1113,D,Nice,Lille,1.0,1.0
+1114,H,Monaco,Brest,4.0,1.0
+1115,D,Metz,Toulouse,2.0,2.0
+1116,D,Angers,Amiens,1.0,1.0
+1117,A,Bordeaux,Paris SG,0.0,1.0
+1118,A,Lyon,Nantes,0.0,1.0
+1119,A,Paris SG,Reims,0.0,2.0
+1120,A,Toulouse,Angers,0.0,2.0
+1121,A,St Etienne,Metz,0.0,1.0
+1122,H,Nantes,Rennes,1.0,0.0
+1123,H,Montpellier,Nimes,1.0,0.0
+1124,H,Lille,Strasbourg,2.0,0.0
+1125,D,Brest,Lyon,2.0,2.0
+1126,A,Amiens,Bordeaux,1.0,3.0
+1127,H,Monaco,Nice,3.0,1.0
+1128,D,Dijon,Marseille,0.0,0.0
+1129,A,Lyon,Paris SG,0.0,1.0
+1130,H,Angers,St Etienne,4.0,1.0
+1131,D,Rennes,Lille,1.0,1.0
+1132,D,Reims,Monaco,0.0,0.0
+1133,H,Nimes,Toulouse,1.0,0.0
+1134,H,Nice,Dijon,2.0,1.0
+1135,A,Metz,Amiens,1.0,2.0
+1136,D,Bordeaux,Brest,2.0,2.0
+1137,D,Marseille,Montpellier,1.0,1.0
+1138,H,Strasbourg,Nantes,2.0,1.0
+1139,A,Monaco,Marseille,3.0,4.0
+1140,D,St Etienne,Toulouse,2.0,2.0
+1141,H,Nantes,Reims,1.0,0.0
+1142,H,Montpellier,Nice,2.0,1.0
+1143,D,Dijon,Nimes,0.0,0.0
+1144,D,Brest,Rennes,0.0,0.0
+1145,H,Bordeaux,Metz,2.0,0.0
+1146,H,Paris SG,Strasbourg,1.0,0.0
+1147,D,Amiens,Lyon,2.0,2.0
+1148,H,Lille,Angers,2.0,1.0
+1149,H,Marseille,St Etienne,1.0,0.0
+1150,D,Strasbourg,Monaco,2.0,2.0
+1151,A,Rennes,Nice,1.0,2.0
+1152,H,Reims,Lille,2.0,0.0
+1153,H,Toulouse,Amiens,2.0,0.0
+1154,H,Nimes,Brest,3.0,0.0
+1155,H,Nantes,Montpellier,1.0,0.0
+1156,H,Angers,Dijon,2.0,0.0
+1157,D,Lyon,Bordeaux,1.0,1.0
+1158,A,Metz,Paris SG,0.0,2.0
+1159,A,Nice,Marseille,1.0,2.0
+1160,H,Lille,St Etienne,3.0,0.0
+1161,H,Montpellier,Lyon,1.0,0.0
+1162,H,Paris SG,Toulouse,4.0,0.0
+1163,A,Strasbourg,Rennes,0.0,2.0
+1164,D,Monaco,Nimes,2.0,2.0
+1165,A,Dijon,Bordeaux,0.0,2.0
+1166,H,Brest,Reims,1.0,0.0
+1167,H,Angers,Metz,3.0,0.0
+1168,A,Amiens,Nantes,1.0,2.0
+1169,H,Rennes,Paris SG,2.0,1.0
+1170,D,Reims,Strasbourg,0.0,0.0
+1171,D,St Etienne,Brest,1.0,1.0
+1172,H,Toulouse,Dijon,1.0,0.0
+1173,A,Nimes,Nice,1.0,2.0
+1174,H,Metz,Monaco,3.0,0.0
+1175,D,Bordeaux,Montpellier,1.0,1.0
+1176,H,Amiens,Lille,1.0,0.0
+1177,D,Nantes,Marseille,0.0,0.0
+1178,H,Lyon,Angers,6.0,0.0
+1179,H,Paris SG,Nimes,3.0,0.0
+1180,D,Strasbourg,Metz,1.0,1.0
+1181,H,Lille,Nantes,2.0,1.0
+1182,H,Nice,Amiens,2.0,1.0
+1183,A,Montpellier,Rennes,0.0,1.0
+1184,A,Dijon,St Etienne,1.0,2.0
+1185,D,Brest,Toulouse,1.0,1.0
+1186,H,Angers,Bordeaux,3.0,1.0
+1187,A,Marseille,Reims,0.0,2.0
+1188,A,Monaco,Lyon,0.0,3.0
+1189,H,Rennes,Lille,3.0,1.0
+1190,H,Reims,Paris SG,3.0,1.0
+1191,A,Nimes,Lyon,2.0,3.0
+1192,H,Nice,Monaco,2.0,0.0
+1193,A,Nantes,Strasbourg,0.0,1.0
+1194,H,Marseille,Montpellier,1.0,0.0
+1195,H,Dijon,Toulouse,2.0,1.0
+1196,A,Caen,Bordeaux,0.0,1.0
+1197,D,Angers,St Etienne,1.0,1.0
+1198,H,Amiens,Guingamp,2.0,1.0
+1199,A,Toulouse,Marseille,2.0,5.0
+1200,A,Strasbourg,Rennes,0.0,2.0
+1201,H,St Etienne,Nice,3.0,0.0
+1202,H,Paris SG,Dijon,4.0,0.0
+1203,D,Montpellier,Nantes,1.0,1.0
+1204,H,Monaco,Amiens,2.0,0.0
+1205,H,Lyon,Caen,4.0,0.0
+1206,H,Lille,Angers,5.0,0.0
+1207,D,Guingamp,Nimes,2.0,2.0
+1208,A,Bordeaux,Reims,0.0,1.0
+1209,D,Rennes,Guingamp,1.0,1.0
+1210,A,Marseille,Lyon,0.0,3.0
+1211,H,Lille,Bordeaux,1.0,0.0
+1212,H,Nimes,Monaco,1.0,0.0
+1213,D,Nice,Nantes,1.0,1.0
+1214,H,Dijon,Strasbourg,2.0,1.0
+1215,H,Caen,Reims,3.0,2.0
+1216,A,Angers,Paris SG,1.0,2.0
+1217,D,Amiens,Toulouse,0.0,0.0
+1218,A,St Etienne,Montpellier,0.0,1.0
+1219,D,Toulouse,Rennes,2.0,2.0
+1220,H,Nantes,Dijon,3.0,0.0
+1221,D,Montpellier,Amiens,1.0,1.0
+1222,A,Monaco,St Etienne,2.0,3.0
+1223,D,Lyon,Lille,2.0,2.0
+1224,A,Reims,Nimes,0.0,3.0
+1225,D,Paris SG,Nice,1.0,1.0
+1226,D,Guingamp,Caen,0.0,0.0
+1227,A,Bordeaux,Angers,0.0,1.0
+1228,D,Strasbourg,Marseille,1.0,1.0
+1229,D,Rennes,Monaco,2.0,2.0
+1230,H,Montpellier,Paris SG,3.0,2.0
+1231,H,St Etienne,Toulouse,2.0,0.0
+1232,H,Nice,Guingamp,3.0,0.0
+1233,A,Marseille,Nantes,1.0,2.0
+1234,H,Lille,Nimes,5.0,0.0
+1235,H,Caen,Dijon,1.0,0.0
+1236,D,Angers,Reims,1.0,1.0
+1237,D,Amiens,Strasbourg,0.0,0.0
+1238,A,Bordeaux,Lyon,2.0,3.0
+1239,D,Toulouse,Lille,0.0,0.0
+1240,A,Reims,St Etienne,0.0,2.0
+1241,H,Paris SG,Monaco,3.0,1.0
+1242,H,Nantes,Amiens,3.0,2.0
+1243,A,Strasbourg,Montpellier,1.0,3.0
+1244,H,Nimes,Bordeaux,2.0,1.0
+1245,A,Nice,Caen,0.0,1.0
+1246,A,Guingamp,Marseille,1.0,3.0
+1247,H,Lyon,Angers,2.0,1.0
+1248,H,Dijon,Rennes,3.0,2.0
+1249,H,Nantes,Paris SG,3.0,2.0
+1250,H,St Etienne,Bordeaux,3.0,0.0
+1251,D,Rennes,Nice,0.0,0.0
+1252,H,Montpellier,Toulouse,2.0,1.0
+1253,H,Lille,Paris SG,5.0,1.0
+1254,D,Strasbourg,Guingamp,3.0,3.0
+1255,D,Monaco,Reims,0.0,0.0
+1256,H,Marseille,Nimes,2.0,1.0
+1257,A,Caen,Angers,0.0,1.0
+1258,H,Nantes,Lyon,2.0,1.0
+1259,D,Dijon,Amiens,0.0,0.0
+1260,H,Nimes,Rennes,3.0,1.0
+1261,H,Toulouse,Nantes,1.0,0.0
+1262,D,Reims,Lille,1.0,1.0
+1263,D,Paris SG,Strasbourg,2.0,2.0
+1264,H,Nice,Montpellier,1.0,0.0
+1265,H,Nimes,Caen,2.0,0.0
+1266,A,Lyon,Dijon,1.0,3.0
+1267,D,Guingamp,Monaco,1.0,1.0
+1268,D,Angers,Rennes,3.0,3.0
+1269,D,Amiens,St Etienne,2.0,2.0
+1270,H,Bordeaux,Marseille,2.0,0.0
+1271,H,Strasbourg,Reims,4.0,0.0
+1272,H,Montpellier,Guingamp,2.0,0.0
+1273,H,St Etienne,Nimes,2.0,1.0
+1274,A,Toulouse,Paris SG,0.0,1.0
+1275,A,Nantes,Lille,2.0,3.0
+1276,A,Monaco,Caen,0.0,1.0
+1277,A,Dijon,Nice,0.0,1.0
+1278,D,Amiens,Bordeaux,0.0,0.0
+1279,D,Marseille,Angers,2.0,2.0
+1280,A,Rennes,Lyon,0.0,1.0
+1281,H,Reims,Nantes,1.0,0.0
+1282,H,Paris SG,Marseille,3.0,1.0
+1283,H,Lyon,Montpellier,3.0,2.0
+1284,D,Bordeaux,Rennes,1.0,1.0
+1285,D,Nimes,Strasbourg,2.0,2.0
+1286,H,Guingamp,Dijon,1.0,0.0
+1287,A,Caen,St Etienne,0.0,5.0
+1288,D,Angers,Amiens,0.0,0.0
+1289,D,Nice,Toulouse,1.0,1.0
+1290,A,Lille,Monaco,0.0,1.0
+1291,A,Dijon,Paris SG,0.0,4.0
+1292,H,Toulouse,Guingamp,1.0,0.0
+1293,A,St Etienne,Lille,0.0,1.0
+1294,H,Rennes,Caen,3.0,1.0
+1295,D,Montpellier,Angers,2.0,2.0
+1296,H,Marseille,Nice,1.0,0.0
+1297,D,Strasbourg,Lyon,2.0,2.0
+1298,D,Monaco,Bordeaux,1.0,1.0
+1299,D,Dijon,Reims,1.0,1.0
+1300,H,Amiens,Nimes,2.0,1.0
+1301,A,Bordeaux,Montpellier,1.0,2.0
+1302,H,Nice,Strasbourg,1.0,0.0
+1303,H,Marseille,St Etienne,2.0,0.0
+1304,H,Lyon,Toulouse,5.0,1.0
+1305,H,Lille,Dijon,1.0,0.0
+1306,D,Guingamp,Nantes,0.0,0.0
+1307,D,Reims,Amiens,2.0,2.0
+1308,A,Caen,Paris SG,1.0,2.0
+1309,D,Angers,Monaco,2.0,2.0
+1310,D,Toulouse,Caen,1.0,1.0
+1311,D,Rennes,Marseille,1.0,1.0
+1312,H,Nantes,Bordeaux,1.0,0.0
+1313,A,Montpellier,Reims,2.0,4.0
+1314,H,Monaco,Lyon,2.0,0.0
+1315,H,Paris SG,Nimes,3.0,0.0
+1316,H,Guingamp,Angers,1.0,0.0
+1317,H,Amiens,Nice,1.0,0.0
+1318,D,Strasbourg,Lille,1.0,1.0
+1319,A,Dijon,St Etienne,0.0,1.0
+1320,H,Paris SG,Montpellier,5.0,1.0
+1321,D,Bordeaux,Guingamp,0.0,0.0
+1322,A,St Etienne,Paris SG,0.0,1.0
+1323,H,Reims,Rennes,2.0,0.0
+1324,D,Lille,Montpellier,0.0,0.0
+1325,D,Caen,Strasbourg,0.0,0.0
+1326,H,Bordeaux,Toulouse,2.0,1.0
+1327,H,Monaco,Nantes,1.0,0.0
+1328,H,Marseille,Amiens,2.0,0.0
+1329,H,Angers,Nice,3.0,0.0
+1330,H,Nimes,Dijon,2.0,0.0
+1331,H,Lyon,Guingamp,2.0,1.0
+1332,H,St Etienne,Strasbourg,2.0,1.0
+1333,A,Caen,Nantes,0.0,1.0
+1334,D,Toulouse,Reims,1.0,1.0
+1335,H,Rennes,St Etienne,3.0,0.0
+1336,H,Nice,Lyon,1.0,0.0
+1337,A,Nantes,Nimes,2.0,4.0
+1338,D,Montpellier,Monaco,2.0,2.0
+1339,A,Guingamp,Lille,0.0,2.0
+1340,A,Strasbourg,Angers,1.0,2.0
+1341,H,Paris SG,Bordeaux,1.0,0.0
+1342,H,Amiens,Caen,1.0,0.0
+1343,A,Dijon,Marseille,1.0,2.0
+1344,H,Marseille,Bordeaux,1.0,0.0
+1345,D,Nimes,Montpellier,1.0,1.0
+1346,H,Lyon,Paris SG,2.0,1.0
+1347,H,Rennes,Amiens,1.0,0.0
+1348,H,Reims,Marseille,2.0,1.0
+1349,H,Monaco,Toulouse,2.0,1.0
+1350,H,Angers,Dijon,1.0,0.0
+1351,H,Lille,Nice,4.0,0.0
+1352,D,Nantes,St Etienne,1.0,1.0
+1353,D,Toulouse,Angers,0.0,0.0
+1354,H,Paris SG,Rennes,4.0,1.0
+1355,H,Montpellier,Caen,2.0,0.0
+1356,A,Amiens,Lyon,0.0,1.0
+1357,H,Strasbourg,Bordeaux,1.0,0.0
+1358,H,Nice,Nimes,2.0,0.0
+1359,A,Guingamp,Reims,0.0,1.0
+1360,H,Dijon,Monaco,2.0,0.0
+1361,A,Marseille,Lille,1.0,2.0
+1362,H,Nimes,Angers,3.0,1.0
+1363,A,St Etienne,Lyon,1.0,2.0
+1364,D,Rennes,Montpellier,0.0,0.0
+1365,A,Caen,Marseille,0.0,1.0
+1366,H,Bordeaux,Dijon,1.0,0.0
+1367,H,Angers,Nantes,1.0,0.0
+1368,D,Reims,Nice,1.0,1.0
+1369,H,Paris SG,Guingamp,9.0,0.0
+1370,A,Nimes,Toulouse,0.0,1.0
+1371,A,Monaco,Strasbourg,1.0,5.0
+1372,H,Lille,Amiens,2.0,1.0
+1373,D,Toulouse,Lyon,2.0,2.0
+1374,H,St Etienne,Marseille,2.0,1.0
+1375,H,Nimes,Nantes,1.0,0.0
+1376,D,Monaco,Nice,1.0,1.0
+1377,H,Guingamp,Rennes,2.0,1.0
+1378,A,Angers,Bordeaux,1.0,2.0
+1379,A,Toulouse,Strasbourg,1.0,2.0
+1380,A,Nantes,Rennes,0.0,1.0
+1381,D,Marseille,Monaco,1.0,1.0
+1382,D,Dijon,Montpellier,1.0,1.0
+1383,H,Nice,Bordeaux,1.0,0.0
+1384,A,Guingamp,St Etienne,0.0,1.0
+1385,A,Amiens,Paris SG,0.0,3.0
+1386,D,Lyon,Reims,1.0,1.0
+1387,A,Caen,Lille,1.0,3.0
+1388,H,Nantes,Montpellier,2.0,0.0
+1389,D,Amiens,Angers,0.0,0.0
+1390,D,Bordeaux,Amiens,1.0,1.0
+1391,H,Strasbourg,Nice,2.0,0.0
+1392,H,St Etienne,Dijon,3.0,0.0
+1393,H,Rennes,Nimes,4.0,0.0
+1394,D,Reims,Caen,2.0,2.0
+1395,H,Paris SG,Nantes,1.0,0.0
+1396,D,Montpellier,Lyon,1.0,1.0
+1397,A,Monaco,Guingamp,0.0,2.0
+1398,A,Lille,Toulouse,1.0,2.0
+1399,D,Angers,Marseille,1.0,1.0
+1400,H,Caen,Toulouse,2.0,1.0
+1401,A,Nimes,Lille,2.0,3.0
+1402,D,Nice,St Etienne,1.0,1.0
+1403,H,Lyon,Monaco,3.0,0.0
+1404,H,Reims,Strasbourg,2.0,1.0
+1405,D,Strasbourg,Caen,2.0,2.0
+1406,D,Lille,Reims,1.0,1.0
+1407,H,Rennes,Dijon,2.0,0.0
+1408,A,Guingamp,Amiens,1.0,2.0
+1409,D,Strasbourg,Paris SG,1.0,1.0
+1410,A,Reims,Toulouse,0.0,1.0
+1411,H,Nantes,Marseille,3.0,2.0
+1412,A,Lyon,Rennes,0.0,2.0
+1413,H,Dijon,Guingamp,2.0,1.0
+1414,A,Caen,Nimes,1.0,2.0
+1415,H,Bordeaux,St Etienne,3.0,2.0
+1416,D,Nice,Angers,0.0,0.0
+1417,A,Montpellier,Lille,0.0,1.0
+1418,A,Amiens,Monaco,0.0,2.0
+1419,D,Toulouse,Dijon,2.0,2.0
+1420,A,Rennes,Strasbourg,1.0,4.0
+1421,D,Marseille,Reims,0.0,0.0
+1422,D,Bordeaux,Paris SG,2.0,2.0
+1423,H,Nimes,Amiens,3.0,0.0
+1424,A,Monaco,Montpellier,1.0,2.0
+1425,D,Lille,Lyon,2.0,2.0
+1426,D,Guingamp,Nice,0.0,0.0
+1427,D,Angers,Caen,1.0,1.0
+1428,H,St Etienne,Nantes,3.0,0.0
+1429,H,Nice,Lille,2.0,0.0
+1430,D,Montpellier,Rennes,2.0,2.0
+1431,A,Amiens,Marseille,1.0,3.0
+1432,A,Strasbourg,Nimes,0.0,1.0
+1433,H,Reims,Guingamp,2.0,1.0
+1434,H,Paris SG,Toulouse,1.0,0.0
+1435,D,Nantes,Angers,1.0,1.0
+1436,D,Dijon,Bordeaux,0.0,0.0
+1437,A,Caen,Monaco,0.0,1.0
+1438,H,Lyon,St Etienne,1.0,0.0
+1439,D,Rennes,Nantes,1.0,1.0
+1440,A,Monaco,Paris SG,0.0,4.0
+1441,H,Marseille,Dijon,2.0,0.0
+1442,D,Bordeaux,Caen,0.0,0.0
+1443,A,Toulouse,Amiens,0.0,1.0
+1444,H,St Etienne,Reims,2.0,0.0
+1445,A,Nimes,Nice,0.0,1.0
+1446,A,Guingamp,Lyon,2.0,4.0
+1447,H,Angers,Montpellier,1.0,0.0
+1448,D,Lille,Strasbourg,0.0,0.0
+1449,H,St Etienne,Angers,4.0,3.0
+1450,H,Nantes,Guingamp,5.0,0.0
+1451,H,Montpellier,Marseille,3.0,0.0
+1452,D,Strasbourg,Toulouse,1.0,1.0
+1453,H,Reims,Monaco,1.0,0.0
+1454,H,Nice,Amiens,1.0,0.0
+1455,D,Lyon,Bordeaux,1.0,1.0
+1456,A,Dijon,Nimes,0.0,4.0
+1457,A,Caen,Rennes,1.0,2.0
+1458,H,Paris SG,Lille,2.0,1.0
+1459,A,Rennes,Reims,0.0,2.0
+1460,A,Marseille,Paris SG,0.0,2.0
+1461,A,Bordeaux,Nice,0.0,1.0
+1462,A,Toulouse,Montpellier,0.0,3.0
+1463,D,Monaco,Dijon,2.0,2.0
+1464,H,Lille,Caen,1.0,0.0
+1465,D,Guingamp,Strasbourg,1.0,1.0
+1466,A,Angers,Lyon,1.0,2.0
+1467,A,Amiens,Nantes,1.0,2.0
+1468,D,Nimes,St Etienne,1.0,1.0
+1469,D,St Etienne,Rennes,1.0,1.0
+1470,A,Nice,Marseille,0.0,1.0
+1471,H,Montpellier,Bordeaux,2.0,0.0
+1472,H,Strasbourg,Monaco,2.0,1.0
+1473,D,Reims,Angers,1.0,1.0
+1474,H,Paris SG,Amiens,5.0,0.0
+1475,H,Nantes,Toulouse,4.0,0.0
+1476,A,Dijon,Lille,1.0,2.0
+1477,D,Caen,Guingamp,0.0,0.0
+1478,H,Lyon,Nimes,2.0,0.0
+1479,H,Paris SG,Lyon,5.0,0.0
+1480,A,Monaco,Rennes,1.0,2.0
+1481,H,Marseille,Caen,2.0,0.0
+1482,H,Bordeaux,Nantes,3.0,0.0
+1483,D,Nimes,Reims,0.0,0.0
+1484,H,Lille,St Etienne,3.0,1.0
+1485,D,Guingamp,Montpellier,1.0,1.0
+1486,D,Angers,Strasbourg,2.0,2.0
+1487,H,Amiens,Dijon,1.0,0.0
+1488,D,Toulouse,Nice,1.0,1.0
+1489,D,Rennes,Toulouse,1.0,1.0
+1490,H,Montpellier,Nimes,3.0,0.0
+1491,H,Lille,Marseille,3.0,0.0
+1492,H,Strasbourg,Dijon,3.0,0.0
+1493,D,Reims,Bordeaux,0.0,0.0
+1494,A,Nice,Paris SG,0.0,3.0
+1495,D,Lyon,Nantes,1.0,1.0
+1496,H,Caen,Amiens,1.0,0.0
+1497,A,Angers,Guingamp,0.0,1.0
+1498,H,St Etienne,Monaco,2.0,0.0
+1499,H,Paris SG,Reims,4.0,1.0
+1500,D,Nimes,Guingamp,0.0,0.0
+1501,H,Marseille,Strasbourg,3.0,2.0
+1502,A,Dijon,Lyon,0.0,3.0
+1503,D,Caen,Montpellier,2.0,2.0
+1504,H,Bordeaux,Lille,1.0,0.0
+1505,H,Amiens,Rennes,2.0,1.0
+1506,A,Toulouse,St Etienne,2.0,3.0
+1507,A,Nantes,Nice,1.0,2.0
+1508,A,Monaco,Angers,0.0,1.0
+1509,A,Rennes,Paris SG,1.0,3.0
+1510,H,Lyon,Marseille,4.0,2.0
+1511,A,Guingamp,Bordeaux,1.0,3.0
+1512,H,Strasbourg,Amiens,3.0,1.0
+1513,H,St Etienne,Caen,2.0,1.0
+1514,D,Reims,Dijon,0.0,0.0
+1515,H,Montpellier,Nice,1.0,0.0
+1516,H,Lille,Nantes,2.0,1.0
+1517,D,Angers,Toulouse,0.0,0.0
+1518,D,Monaco,Nimes,1.0,1.0
+1519,D,Nantes,Reims,0.0,0.0
+1520,H,Marseille,Guingamp,4.0,0.0
+1521,D,Bordeaux,Nimes,3.0,3.0
+1522,D,Toulouse,Monaco,1.0,1.0
+1523,D,Montpellier,Strasbourg,1.0,1.0
+1524,A,Dijon,Angers,1.0,3.0
+1525,D,Caen,Lyon,2.0,2.0
+1526,A,Amiens,Lille,2.0,3.0
+1527,H,Paris SG,St Etienne,4.0,0.0
+1528,H,Nice,Rennes,2.0,1.0
+1529,D,St Etienne,Amiens,0.0,0.0
+1530,H,Rennes,Bordeaux,2.0,0.0
+1531,A,Monaco,Marseille,2.0,3.0
+1532,A,Strasbourg,Nantes,2.0,3.0
+1533,A,Reims,Montpellier,0.0,1.0
+1534,A,Nimes,Paris SG,2.0,4.0
+1535,A,Guingamp,Toulouse,1.0,2.0
+1536,A,Dijon,Caen,0.0,2.0
+1537,H,Angers,Lille,1.0,0.0
+1538,A,Lyon,Nice,0.0,1.0
+1539,D,Marseille,Rennes,2.0,2.0
+1540,H,Lille,Guingamp,3.0,0.0
+1541,H,Bordeaux,Monaco,2.0,1.0
+1542,H,Toulouse,Nimes,1.0,0.0
+1543,H,Paris SG,Angers,3.0,1.0
+1544,A,Nice,Dijon,0.0,4.0
+1545,D,Nantes,Caen,1.0,1.0
+1546,D,Montpellier,St Etienne,0.0,0.0
+1547,H,Amiens,Reims,4.0,1.0
+1548,H,Lyon,Strasbourg,2.0,0.0
+1549,H,Toulouse,Bordeaux,2.0,1.0
+1550,D,Strasbourg,St Etienne,1.0,1.0
+1551,H,Nimes,Marseille,3.0,1.0
+1552,H,Rennes,Angers,1.0,0.0
+1553,D,Monaco,Lille,0.0,0.0
+1554,A,Guingamp,Paris SG,1.0,3.0
+1555,H,Dijon,Nantes,2.0,0.0
+1556,D,Caen,Nice,1.0,1.0
+1557,A,Amiens,Montpellier,1.0,2.0
+1558,H,Reims,Lyon,1.0,0.0
+1559,H,Paris SG,Caen,3.0,0.0
+1560,H,Lyon,Amiens,2.0,0.0
+1561,A,Bordeaux,Strasbourg,0.0,2.0
+1562,H,St Etienne,Guingamp,2.0,1.0
+1563,A,Nice,Reims,0.0,1.0
+1564,A,Nantes,Monaco,1.0,3.0
+1565,A,Montpellier,Dijon,1.0,2.0
+1566,H,Lille,Rennes,3.0,1.0
+1567,A,Angers,Nimes,3.0,4.0
+1568,H,Marseille,Toulouse,4.0,0.0
+1569,A,Troyes,Monaco,0.0,3.0
+1570,H,Toulouse,Guingamp,2.0,1.0
+1571,H,St Etienne,Lille,5.0,0.0
+1572,D,Rennes,Montpellier,1.0,1.0
+1573,H,Nantes,Strasbourg,1.0,0.0
+1574,A,Metz,Bordeaux,0.0,4.0
+1575,H,Marseille,Amiens,2.0,1.0
+1576,H,Lyon,Nice,3.0,2.0
+1577,H,Dijon,Angers,2.0,1.0
+1578,D,Caen,Paris SG,0.0,0.0
+1579,H,Strasbourg,Lyon,3.0,2.0
+1580,A,Paris SG,Rennes,0.0,2.0
+1581,H,Nice,Caen,4.0,1.0
+1582,D,Montpellier,Troyes,1.0,1.0
+1583,H,Monaco,St Etienne,1.0,0.0
+1584,H,Lille,Dijon,2.0,1.0
+1585,H,Bordeaux,Toulouse,4.0,2.0
+1586,A,Angers,Nantes,0.0,2.0
+1587,H,Amiens,Metz,2.0,0.0
+1588,D,Guingamp,Marseille,3.0,3.0
+1589,A,Toulouse,Lille,2.0,3.0
+1590,A,St Etienne,Bordeaux,1.0,3.0
+1591,H,Rennes,Strasbourg,2.0,1.0
+1592,A,Nantes,Montpellier,0.0,2.0
+1593,A,Metz,Angers,1.0,2.0
+1594,H,Marseille,Nice,2.0,1.0
+1595,H,Lyon,Troyes,3.0,0.0
+1596,H,Dijon,Guingamp,3.0,1.0
+1597,A,Caen,Monaco,1.0,2.0
+1598,D,Amiens,Paris SG,2.0,2.0
+1599,H,Rennes,Toulouse,2.0,1.0
+1600,D,Paris SG,Guingamp,2.0,2.0
+1601,D,Angers,Marseille,1.0,1.0
+1602,H,Troyes,Caen,3.0,1.0
+1603,D,Strasbourg,Nice,1.0,1.0
+1604,D,Monaco,Amiens,0.0,0.0
+1605,H,Lyon,Nantes,2.0,0.0
+1606,H,Lille,Metz,3.0,1.0
+1607,H,Bordeaux,Dijon,3.0,1.0
+1608,A,Montpellier,St Etienne,0.0,1.0
+1609,D,Caen,Toulouse,0.0,0.0
+1610,H,St Etienne,Troyes,2.0,1.0
+1611,H,Nice,Montpellier,1.0,0.0
+1612,A,Bordeaux,Paris SG,0.0,1.0
+1613,H,Toulouse,Angers,2.0,0.0
+1614,D,Metz,Caen,1.0,1.0
+1615,H,Marseille,Lille,5.0,1.0
+1616,H,Guingamp,Monaco,3.0,1.0
+1617,H,Amiens,Strasbourg,3.0,1.0
+1618,D,Nantes,Rennes,1.0,1.0
+1619,A,Dijon,Lyon,2.0,5.0
+1620,A,Troyes,Marseille,2.0,3.0
+1621,H,Paris SG,Monaco,7.0,1.0
+1622,A,Montpellier,Bordeaux,1.0,3.0
+1623,A,Strasbourg,St Etienne,0.0,1.0
+1624,A,Rennes,Metz,1.0,2.0
+1625,D,Nantes,Dijon,1.0,1.0
+1626,H,Lyon,Amiens,3.0,0.0
+1627,D,Lille,Guingamp,2.0,2.0
+1628,D,Angers,Nice,1.0,1.0
+1629,D,Nice,Rennes,1.0,1.0
+1630,A,Metz,Lyon,0.0,5.0
+1631,D,Marseille,Montpellier,0.0,0.0
+1632,A,Toulouse,Dijon,0.0,1.0
+1633,H,Monaco,Nantes,2.0,1.0
+1634,H,Guingamp,Troyes,4.0,0.0
+1635,H,Bordeaux,Lille,2.0,1.0
+1636,D,Angers,Strasbourg,1.0,1.0
+1637,H,Amiens,Caen,3.0,0.0
+1638,D,St Etienne,Paris SG,1.0,1.0
+1639,D,Rennes,Monaco,1.0,1.0
+1640,A,Troyes,Nice,0.0,2.0
+1641,D,Strasbourg,Metz,2.0,2.0
+1642,A,Nantes,St Etienne,0.0,3.0
+1643,H,Lyon,Toulouse,2.0,0.0
+1644,A,Lille,Amiens,0.0,1.0
+1645,H,Guingamp,Bordeaux,2.0,1.0
+1646,A,Caen,Montpellier,1.0,3.0
+1647,A,Dijon,Marseille,1.0,3.0
+1648,H,St Etienne,Guingamp,2.0,0.0
+1649,A,Nice,Paris SG,1.0,2.0
+1650,D,Metz,Nantes,1.0,1.0
+1651,A,Marseille,Lyon,2.0,3.0
+1652,D,Toulouse,Strasbourg,2.0,2.0
+1653,D,Montpellier,Dijon,2.0,2.0
+1654,A,Bordeaux,Rennes,0.0,2.0
+1655,H,Angers,Caen,3.0,0.0
+1656,D,Amiens,Troyes,1.0,1.0
+1657,H,Monaco,Lille,2.0,1.0
+1658,H,Paris SG,Angers,2.0,1.0
+1659,A,Toulouse,Marseille,1.0,2.0
+1660,H,Lyon,Caen,1.0,0.0
+1661,A,Guingamp,Nice,2.0,5.0
+1662,D,Rennes,St Etienne,1.0,1.0
+1663,H,Paris SG,Metz,5.0,0.0
+1664,H,Nantes,Troyes,1.0,0.0
+1665,D,Lille,Montpellier,1.0,1.0
+1666,D,Dijon,Amiens,1.0,1.0
+1667,D,Bordeaux,Angers,0.0,0.0
+1668,A,Strasbourg,Monaco,1.0,3.0
+1669,D,Montpellier,Lyon,1.0,1.0
+1670,D,Marseille,Nantes,1.0,1.0
+1671,H,Caen,Strasbourg,2.0,0.0
+1672,A,Troyes,Paris SG,0.0,2.0
+1673,D,St Etienne,Dijon,2.0,2.0
+1674,D,Metz,Toulouse,1.0,1.0
+1675,H,Angers,Guingamp,3.0,0.0
+1676,A,Amiens,Rennes,0.0,2.0
+1677,H,Nice,Lille,2.0,1.0
+1678,H,Monaco,Bordeaux,2.0,1.0
+1679,H,Paris SG,Marseille,3.0,0.0
+1680,D,Lyon,St Etienne,1.0,1.0
+1681,D,Bordeaux,Nice,0.0,0.0
+1682,D,Toulouse,Monaco,3.0,3.0
+1683,H,Rennes,Troyes,2.0,0.0
+1684,A,Nantes,Amiens,0.0,1.0
+1685,A,Lille,Angers,1.0,2.0
+1686,D,Guingamp,Metz,2.0,2.0
+1687,H,Dijon,Caen,2.0,0.0
+1688,D,Strasbourg,Montpellier,0.0,0.0
+1689,D,Troyes,Dijon,0.0,0.0
+1690,D,Nice,Nantes,1.0,1.0
+1691,H,Marseille,Bordeaux,1.0,0.0
+1692,D,Lille,Lyon,2.0,2.0
+1693,H,Troyes,Metz,1.0,0.0
+1694,H,Paris SG,Strasbourg,5.0,2.0
+1695,D,Montpellier,Guingamp,1.0,1.0
+1696,D,Caen,Rennes,2.0,2.0
+1697,A,Angers,St Etienne,0.0,1.0
+1698,D,Amiens,Toulouse,0.0,0.0
+1699,H,Monaco,Dijon,4.0,0.0
+1700,H,Strasbourg,Troyes,2.0,1.0
+1701,D,Nantes,Lille,2.0,2.0
+1702,A,Lyon,Rennes,0.0,2.0
+1703,A,Toulouse,Paris SG,0.0,1.0
+1704,A,Metz,Montpellier,0.0,1.0
+1705,D,Guingamp,Caen,0.0,0.0
+1706,H,Dijon,Nice,3.0,2.0
+1707,H,Bordeaux,Amiens,3.0,2.0
+1708,A,Angers,Monaco,0.0,4.0
+1709,D,St Etienne,Marseille,2.0,2.0
+1710,A,Rennes,Guingamp,0.0,1.0
+1711,H,Monaco,Lyon,3.0,2.0
+1712,H,Caen,Nantes,3.0,2.0
+1713,A,Strasbourg,Bordeaux,0.0,2.0
+1714,A,Nice,Toulouse,0.0,1.0
+1715,H,Montpellier,Angers,2.0,1.0
+1716,A,Lille,Paris SG,0.0,3.0
+1717,A,Amiens,St Etienne,0.0,2.0
+1718,H,Marseille,Metz,6.0,3.0
+1719,D,Marseille,Monaco,2.0,2.0
+1720,H,Lille,Strasbourg,2.0,1.0
+1721,H,Bordeaux,Lyon,3.0,1.0
+1722,H,Toulouse,Troyes,1.0,0.0
+1723,H,St Etienne,Caen,2.0,1.0
+1724,H,Paris SG,Montpellier,4.0,0.0
+1725,H,Metz,Nice,2.0,1.0
+1726,A,Guingamp,Nantes,0.0,3.0
+1727,H,Angers,Amiens,1.0,0.0
+1728,H,Dijon,Rennes,2.0,1.0
+1729,H,Nice,St Etienne,1.0,0.0
+1730,H,Monaco,Metz,3.0,1.0
+1731,H,Lyon,Paris SG,2.0,1.0
+1732,H,Troyes,Lille,1.0,0.0
+1733,H,Strasbourg,Dijon,3.0,2.0
+1734,H,Rennes,Angers,1.0,0.0
+1735,A,Nantes,Bordeaux,0.0,1.0
+1736,H,Montpellier,Toulouse,2.0,1.0
+1737,H,Amiens,Guingamp,3.0,1.0
+1738,A,Caen,Marseille,0.0,2.0
+1739,D,Toulouse,Nantes,1.0,1.0
+1740,H,Paris SG,Dijon,8.0,0.0
+1741,H,Metz,St Etienne,3.0,0.0
+1742,A,Lille,Rennes,1.0,2.0
+1743,A,Guingamp,Lyon,0.0,2.0
+1744,H,Angers,Troyes,3.0,1.0
+1745,D,Amiens,Montpellier,1.0,1.0
+1746,D,Monaco,Nice,2.0,2.0
+1747,H,Marseille,Strasbourg,2.0,0.0
+1748,A,Bordeaux,Caen,0.0,2.0
+1749,H,St Etienne,Toulouse,2.0,0.0
+1750,A,Nantes,Paris SG,0.0,1.0
+1751,D,Lyon,Angers,1.0,1.0
+1752,A,Troyes,Bordeaux,0.0,1.0
+1753,A,Rennes,Marseille,0.0,3.0
+1754,H,Nice,Amiens,1.0,0.0
+1755,D,Montpellier,Monaco,0.0,0.0
+1756,D,Dijon,Metz,1.0,1.0
+1757,A,Caen,Lille,0.0,1.0
+1758,A,Strasbourg,Guingamp,0.0,2.0
+1759,A,Toulouse,Lyon,1.0,2.0
+1760,H,Paris SG,Caen,3.0,1.0
+1761,H,Monaco,Rennes,2.0,1.0
+1762,H,Metz,Strasbourg,3.0,0.0
+1763,H,Marseille,Troyes,3.0,1.0
+1764,D,Lille,Nice,1.0,1.0
+1765,H,Guingamp,St Etienne,2.0,1.0
+1766,A,Bordeaux,Montpellier,0.0,2.0
+1767,H,Angers,Dijon,2.0,1.0
+1768,A,Amiens,Nantes,0.0,1.0
+1769,H,Nice,Bordeaux,1.0,0.0
+1770,H,Nantes,Angers,1.0,0.0
+1771,H,Lyon,Marseille,2.0,0.0
+1772,H,Troyes,Amiens,1.0,0.0
+1773,H,Strasbourg,Toulouse,2.0,1.0
+1774,A,Rennes,Paris SG,1.0,4.0
+1775,A,Montpellier,Metz,1.0,3.0
+1776,H,Dijon,Lille,3.0,0.0
+1777,D,Caen,Guingamp,0.0,0.0
+1778,A,St Etienne,Monaco,0.0,4.0
+1779,A,Nantes,Nice,1.0,2.0
+1780,H,Marseille,St Etienne,3.0,0.0
+1781,A,Amiens,Lyon,1.0,2.0
+1782,H,Toulouse,Caen,2.0,0.0
+1783,H,Paris SG,Lille,3.0,1.0
+1784,H,Monaco,Troyes,3.0,2.0
+1785,D,Metz,Rennes,1.0,1.0
+1786,H,Guingamp,Dijon,4.0,0.0
+1787,D,Angers,Montpellier,1.0,1.0
+1788,A,Bordeaux,Strasbourg,0.0,3.0
+1789,D,St Etienne,Nantes,1.0,1.0
+1790,D,Montpellier,Marseille,1.0,1.0
+1791,A,Caen,Lyon,1.0,2.0
+1792,A,Troyes,Guingamp,0.0,1.0
+1793,H,Strasbourg,Paris SG,2.0,1.0
+1794,H,Rennes,Amiens,2.0,0.0
+1795,H,Nice,Metz,3.0,1.0
+1796,H,Monaco,Angers,1.0,0.0
+1797,H,Lille,Toulouse,1.0,0.0
+1798,H,Dijon,Bordeaux,3.0,2.0
+1799,A,Toulouse,Nice,1.0,2.0
+1800,H,Paris SG,Troyes,2.0,0.0
+1801,H,Nantes,Monaco,1.0,0.0
+1802,A,Metz,Marseille,0.0,3.0
+1803,A,Lyon,Lille,1.0,2.0
+1804,D,Guingamp,Montpellier,0.0,0.0
+1805,A,Angers,Rennes,1.0,2.0
+1806,D,Strasbourg,Caen,0.0,0.0
+1807,H,Bordeaux,St Etienne,3.0,0.0
+1808,H,Amiens,Dijon,2.0,1.0
+1809,A,Nice,Lyon,0.0,5.0
+1810,A,Monaco,Paris SG,1.0,2.0
+1811,H,Marseille,Guingamp,1.0,0.0
+1812,H,Troyes,Angers,3.0,0.0
+1813,H,Rennes,Nantes,2.0,1.0
+1814,H,Montpellier,Lille,3.0,0.0
+1815,A,Metz,Amiens,0.0,2.0
+1816,H,Dijon,Toulouse,3.0,1.0
+1817,H,Caen,Bordeaux,1.0,0.0
+1818,D,St Etienne,Strasbourg,2.0,2.0
+1819,H,Amiens,Lille,3.0,0.0
+1820,D,Lyon,Montpellier,0.0,0.0
+1821,D,Caen,Nice,1.0,1.0
+1822,D,Bordeaux,Marseille,1.0,1.0
+1823,D,Toulouse,Metz,0.0,0.0
+1824,H,Strasbourg,Rennes,2.0,1.0
+1825,H,Paris SG,Nantes,4.0,1.0
+1826,D,Guingamp,Angers,1.0,1.0
+1827,H,Dijon,Troyes,3.0,1.0
+1828,H,Lille,St Etienne,3.0,1.0
+1829,D,Amiens,Monaco,1.0,1.0
+1830,A,St Etienne,Lyon,0.0,5.0
+1831,H,Nice,Dijon,1.0,0.0
+1832,A,Metz,Lille,0.0,3.0
+1833,H,Marseille,Caen,5.0,0.0
+1834,H,Troyes,Strasbourg,3.0,0.0
+1835,H,Nantes,Toulouse,2.0,1.0
+1836,D,Montpellier,Amiens,1.0,1.0
+1837,H,Monaco,Guingamp,6.0,0.0
+1838,A,Angers,Paris SG,0.0,5.0
+1839,H,Rennes,Bordeaux,1.0,0.0
+1840,D,Toulouse,St Etienne,0.0,0.0
+1841,H,Lyon,Metz,2.0,0.0
+1842,A,Lille,Marseille,0.0,1.0
+1843,D,Strasbourg,Angers,2.0,2.0
+1844,A,Montpellier,Rennes,0.0,1.0
+1845,D,Guingamp,Amiens,1.0,1.0
+1846,H,Dijon,Nantes,1.0,0.0
+1847,H,Caen,Troyes,1.0,0.0
+1848,A,Bordeaux,Monaco,0.0,2.0
+1849,H,Paris SG,Nice,3.0,0.0
+1850,A,Troyes,Lyon,0.0,5.0
+1851,A,Nice,Strasbourg,1.0,2.0
+1852,D,Marseille,Paris SG,2.0,2.0
+1853,H,Rennes,Lille,1.0,0.0
+1854,H,Nantes,Guingamp,2.0,1.0
+1855,H,Monaco,Caen,2.0,0.0
+1856,A,Metz,Dijon,1.0,2.0
+1857,A,Angers,Toulouse,0.0,1.0
+1858,H,Amiens,Bordeaux,1.0,0.0
+1859,A,St Etienne,Montpellier,0.0,1.0
+1860,D,Strasbourg,Marseille,3.0,3.0
+1861,H,Montpellier,Nice,2.0,0.0
+1862,D,Bordeaux,Nantes,1.0,1.0
+1863,H,Toulouse,Amiens,1.0,0.0
+1864,H,St Etienne,Metz,3.0,1.0
+1865,D,Lille,Troyes,2.0,2.0
+1866,H,Guingamp,Rennes,2.0,0.0
+1867,A,Dijon,Paris SG,1.0,2.0
+1868,A,Caen,Angers,0.0,2.0
+1869,H,Lyon,Monaco,3.0,2.0
+1870,H,Troyes,St Etienne,2.0,1.0
+1871,A,Nice,Marseille,2.0,4.0
+1872,D,Angers,Lyon,3.0,3.0
+1873,A,Rennes,Caen,0.0,1.0
+1874,H,Paris SG,Bordeaux,6.0,2.0
+1875,H,Nantes,Metz,1.0,0.0
+1876,D,Guingamp,Toulouse,1.0,1.0
+1877,D,Dijon,Strasbourg,1.0,1.0
+1878,D,Monaco,Montpellier,1.0,1.0
+1879,A,Strasbourg,Nantes,1.0,2.0
+1880,D,St Etienne,Rennes,2.0,2.0
+1881,H,Marseille,Toulouse,2.0,0.0
+1882,D,Montpellier,Paris SG,0.0,0.0
+1883,A,Metz,Troyes,0.0,1.0
+1884,D,Lyon,Dijon,3.0,3.0
+1885,H,Caen,Amiens,1.0,0.0
+1886,H,Bordeaux,Guingamp,3.0,1.0
+1887,D,Nice,Angers,2.0,2.0
+1888,A,Lille,Monaco,0.0,4.0
+1889,A,Rennes,Nice,0.0,1.0
+1890,H,Paris SG,Lyon,2.0,0.0
+1891,A,Angers,Metz,0.0,1.0
+1892,A,Amiens,Marseille,0.0,2.0
+1893,A,Troyes,Montpellier,0.0,1.0
+1894,H,Nantes,Caen,1.0,0.0
+1895,H,Monaco,Strasbourg,3.0,0.0
+1896,H,Guingamp,Lille,1.0,0.0
+1897,A,Dijon,St Etienne,0.0,1.0
+1898,A,Toulouse,Bordeaux,0.0,1.0
+1899,D,St Etienne,Angers,1.0,1.0
+1900,A,Marseille,Rennes,1.0,3.0
+1901,H,Lyon,Guingamp,2.0,1.0
+1902,D,Troyes,Toulouse,0.0,0.0
+1903,A,Strasbourg,Amiens,0.0,1.0
+1904,H,Nice,Monaco,4.0,0.0
+1905,A,Montpellier,Nantes,0.0,1.0
+1906,H,Caen,Dijon,2.0,1.0
+1907,A,Metz,Paris SG,1.0,5.0
+1908,D,Lille,Bordeaux,0.0,0.0
+1909,H,Monaco,Marseille,6.0,1.0
+1910,H,Guingamp,Strasbourg,2.0,0.0
+1911,D,Angers,Lille,1.0,1.0
+1912,H,Toulouse,Rennes,3.0,2.0
+1913,D,Nantes,Lyon,0.0,0.0
+1914,H,Dijon,Montpellier,2.0,1.0
+1915,H,Caen,Metz,1.0,0.0
+1916,H,Bordeaux,Troyes,2.0,1.0
+1917,H,Amiens,Nice,3.0,0.0
+1918,H,Paris SG,St Etienne,3.0,0.0
+1919,H,Paris SG,Toulouse,6.0,2.0
+1920,D,Marseille,Angers,1.0,1.0
+1921,A,Lille,Caen,0.0,2.0
+1922,A,Troyes,Nantes,0.0,1.0
+1923,H,St Etienne,Amiens,3.0,0.0
+1924,D,Rennes,Dijon,2.0,2.0
+1925,H,Nice,Guingamp,2.0,0.0
+1926,D,Montpellier,Strasbourg,1.0,1.0
+1927,D,Lyon,Bordeaux,3.0,3.0
+1928,A,Metz,Monaco,0.0,1.0
+1929,H,Strasbourg,Lille,3.0,0.0
+1930,A,Guingamp,Paris SG,0.0,3.0
+1931,A,Dijon,Monaco,1.0,4.0
+1932,H,Toulouse,Montpellier,1.0,0.0
+1933,A,Nantes,Marseille,0.0,1.0
+1934,A,Caen,St Etienne,0.0,1.0
+1935,H,Bordeaux,Metz,2.0,0.0
+1936,A,Amiens,Angers,0.0,2.0
+1937,A,Rennes,Lyon,1.0,2.0
+1938,A,Nice,Troyes,1.0,2.0
+1939,H,Marseille,Dijon,3.0,0.0
+1940,H,Lille,Nantes,3.0,0.0
+1941,D,Angers,Bordeaux,2.0,2.0
+1942,D,Troyes,Rennes,1.0,1.0
+1943,H,St Etienne,Nice,1.0,0.0
+1944,H,Paris SG,Amiens,2.0,0.0
+1945,H,Montpellier,Caen,1.0,0.0
+1946,A,Metz,Guingamp,1.0,3.0
+1947,H,Lyon,Strasbourg,4.0,0.0
+1948,H,Monaco,Toulouse,3.0,2.0
+1949,D,Toulouse,Dijon,0.0,0.0
+1950,A,Rennes,Monaco,2.0,3.0
+1951,D,Paris SG,Caen,1.0,1.0
+1952,H,Nancy,St Etienne,3.0,1.0
+1953,H,Marseille,Bastia,1.0,0.0
+1954,D,Lyon,Nice,3.0,3.0
+1955,D,Lorient,Bordeaux,1.0,1.0
+1956,H,Lille,Nantes,3.0,0.0
+1957,H,Guingamp,Metz,1.0,0.0
+1958,H,Angers,Montpellier,2.0,0.0
+1959,H,Monaco,St Etienne,2.0,0.0
+1960,A,St Etienne,Paris SG,0.0,5.0
+1961,A,Nice,Angers,0.0,2.0
+1962,H,Nantes,Guingamp,4.0,1.0
+1963,A,Montpellier,Lyon,1.0,3.0
+1964,H,Monaco,Lille,4.0,0.0
+1965,D,Metz,Toulouse,1.0,1.0
+1966,H,Dijon,Nancy,2.0,0.0
+1967,A,Caen,Rennes,0.0,1.0
+1968,D,Bordeaux,Marseille,1.0,1.0
+1969,H,Bastia,Lorient,2.0,0.0
+1970,H,Rennes,Montpellier,1.0,0.0
+1971,H,Marseille,Nice,2.0,1.0
+1972,H,Lyon,Nantes,3.0,2.0
+1973,A,Toulouse,Caen,0.0,1.0
+1974,H,Paris SG,Bastia,5.0,0.0
+1975,A,Nancy,Monaco,0.0,3.0
+1976,D,Lorient,Angers,1.0,1.0
+1977,A,Lille,Metz,0.0,2.0
+1978,H,Guingamp,Dijon,4.0,0.0
+1979,D,St Etienne,Bordeaux,2.0,2.0
+1980,H,Nice,Paris SG,3.0,1.0
+1981,D,Dijon,Bordeaux,0.0,0.0
+1982,A,Caen,Marseille,1.0,5.0
+1983,H,Nantes,Lorient,1.0,0.0
+1984,A,Montpellier,Lille,0.0,3.0
+1985,H,Monaco,Toulouse,3.0,1.0
+1986,H,Metz,Nancy,2.0,1.0
+1987,A,Guingamp,St Etienne,0.0,2.0
+1988,H,Bastia,Rennes,1.0,0.0
+1989,A,Angers,Lyon,1.0,2.0
+1990,D,Toulouse,Nice,1.0,1.0
+1991,D,St Etienne,Rennes,1.0,1.0
+1992,A,Lyon,Monaco,1.0,2.0
+1993,H,Paris SG,Montpellier,2.0,0.0
+1994,H,Lorient,Metz,5.0,1.0
+1995,H,Lille,Guingamp,3.0,0.0
+1996,H,Dijon,Angers,3.0,2.0
+1997,A,Caen,Nantes,0.0,2.0
+1998,H,Bordeaux,Bastia,2.0,0.0
+1999,D,Nancy,Marseille,0.0,0.0
+2000,A,Metz,Paris SG,2.0,3.0
+2001,A,Nantes,Bordeaux,0.0,1.0
+2002,H,Marseille,St Etienne,4.0,0.0
+2003,A,Bastia,Lyon,0.0,3.0
+2004,H,Rennes,Lille,2.0,0.0
+2005,H,Nice,Nancy,3.0,1.0
+2006,H,Montpellier,Lorient,2.0,0.0
+2007,H,Monaco,Dijon,2.0,1.0
+2008,D,Metz,Caen,2.0,2.0
+2009,H,Guingamp,Toulouse,2.0,1.0
+2010,A,Angers,Paris SG,0.0,2.0
+2011,D,Toulouse,Marseille,0.0,0.0
+2012,D,St Etienne,Nantes,1.0,1.0
+2013,H,Paris SG,Guingamp,4.0,0.0
+2014,H,Nancy,Rennes,3.0,0.0
+2015,A,Lyon,Lorient,1.0,4.0
+2016,A,Dijon,Bastia,1.0,2.0
+2017,A,Caen,Montpellier,0.0,2.0
+2018,H,Bordeaux,Metz,3.0,0.0
+2019,A,Angers,Monaco,0.0,1.0
+2020,A,Lille,Nice,1.0,2.0
+2021,A,Metz,Lyon,0.0,3.0
+2022,D,Rennes,Lyon,1.0,1.0
+2023,H,Nice,Bordeaux,2.0,1.0
+2024,H,Nantes,Angers,2.0,1.0
+2025,A,Montpellier,Toulouse,0.0,1.0
+2026,H,Lorient,Caen,1.0,0.0
+2027,D,Marseille,Dijon,1.0,1.0
+2028,A,Bastia,Lille,0.0,1.0
+2029,H,Guingamp,Nancy,1.0,0.0
+2030,H,Paris SG,Lyon,2.0,1.0
+2031,A,Dijon,St Etienne,0.0,1.0
+2032,A,Caen,Monaco,0.0,3.0
+2033,D,Toulouse,Rennes,0.0,0.0
+2034,D,Nantes,Nice,1.0,1.0
+2035,A,Nancy,Lorient,2.0,3.0
+2036,H,Bordeaux,Montpellier,5.0,1.0
+2037,H,Angers,Guingamp,3.0,0.0
+2038,H,Metz,Bastia,1.0,0.0
+2039,D,Lille,Marseille,0.0,0.0
+2040,D,St Etienne,Metz,2.0,2.0
+2041,H,Lyon,Toulouse,4.0,0.0
+2042,A,Lorient,Paris SG,1.0,2.0
+2043,D,Rennes,Dijon,1.0,1.0
+2044,A,Nancy,Lille,1.0,2.0
+2045,A,Montpellier,Nantes,2.0,3.0
+2046,H,Monaco,Bordeaux,2.0,1.0
+2047,H,Guingamp,Bastia,5.0,0.0
+2048,D,Nice,Caen,2.0,2.0
+2049,H,Marseille,Angers,3.0,0.0
+2050,D,Toulouse,Lille,1.0,1.0
+2051,H,Monaco,Nantes,4.0,0.0
+2052,A,Lorient,Marseille,1.0,4.0
+2053,H,Paris SG,Nancy,1.0,0.0
+2054,D,Montpellier,Guingamp,1.0,1.0
+2055,D,Metz,Rennes,1.0,1.0
+2056,A,Dijon,Nice,0.0,1.0
+2057,A,Caen,Angers,2.0,3.0
+2058,D,Bastia,St Etienne,0.0,0.0
+2059,D,Bordeaux,Lyon,1.0,1.0
+2060,D,Bastia,Nantes,2.0,2.0
+2061,A,St Etienne,Caen,0.0,1.0
+2062,A,Marseille,Paris SG,1.0,5.0
+2063,H,Lyon,Metz,5.0,0.0
+2064,H,Rennes,Lorient,1.0,0.0
+2065,D,Nancy,Toulouse,0.0,0.0
+2066,A,Lille,Bordeaux,2.0,3.0
+2067,A,Guingamp,Monaco,1.0,2.0
+2068,H,Angers,Bastia,3.0,0.0
+2069,H,Nice,Montpellier,2.0,1.0
+2070,H,Nantes,Dijon,3.0,1.0
+2071,H,Caen,Nancy,1.0,0.0
+2072,D,Paris SG,Toulouse,0.0,0.0
+2073,H,Montpellier,St Etienne,2.0,1.0
+2074,H,Lyon,Dijon,4.0,2.0
+2075,H,Bordeaux,Guingamp,3.0,0.0
+2076,D,Metz,Nantes,1.0,1.0
+2077,H,Marseille,Rennes,2.0,0.0
+2078,A,Lorient,Nice,0.0,1.0
+2079,A,Caen,Lille,0.0,1.0
+2080,H,Angers,Nancy,1.0,0.0
+2081,D,Bastia,Monaco,1.0,1.0
+2082,H,St Etienne,Lorient,4.0,0.0
+2083,D,Rennes,Nice,2.0,2.0
+2084,H,Nantes,Marseille,3.0,2.0
+2085,H,Toulouse,Bastia,4.0,1.0
+2086,A,Nancy,Montpellier,0.0,3.0
+2087,H,Monaco,Metz,5.0,0.0
+2088,A,Lille,Angers,1.0,2.0
+2089,H,Guingamp,Lyon,2.0,1.0
+2090,H,Dijon,Caen,2.0,0.0
+2091,A,Bordeaux,Paris SG,0.0,3.0
+2092,H,Nice,St Etienne,1.0,0.0
+2093,H,Metz,Dijon,2.0,1.0
+2094,H,Marseille,Guingamp,2.0,0.0
+2095,H,Lyon,Nancy,4.0,0.0
+2096,D,Lorient,Toulouse,1.0,1.0
+2097,D,Angers,Rennes,0.0,0.0
+2098,H,Paris SG,Lille,2.0,1.0
+2099,A,Montpellier,Monaco,1.0,2.0
+2100,A,Caen,Bordeaux,0.0,4.0
+2101,H,Toulouse,Angers,4.0,0.0
+2102,H,St Etienne,Lyon,2.0,0.0
+2103,A,Nantes,Nancy,0.0,2.0
+2104,H,Montpellier,Bastia,2.0,1.0
+2105,H,Monaco,Nice,3.0,0.0
+2106,A,Lille,Lorient,0.0,1.0
+2107,A,Guingamp,Caen,0.0,1.0
+2108,A,Dijon,Paris SG,1.0,3.0
+2109,D,Bordeaux,Rennes,1.0,1.0
+2110,H,Metz,Marseille,1.0,0.0
+2111,A,Toulouse,St Etienne,0.0,3.0
+2112,D,Paris SG,Monaco,1.0,1.0
+2113,H,Nice,Guingamp,3.0,1.0
+2114,D,Rennes,Nantes,1.0,1.0
+2115,A,Nancy,Bordeaux,0.0,2.0
+2116,A,Lyon,Lille,1.0,2.0
+2117,A,Lorient,Dijon,2.0,3.0
+2118,D,Bastia,Caen,1.0,1.0
+2119,H,Angers,Metz,2.0,1.0
+2120,H,Marseille,Montpellier,5.0,1.0
+2121,H,St Etienne,Angers,2.0,1.0
+2122,H,Monaco,Lorient,4.0,0.0
+2123,H,Lyon,Marseille,3.0,1.0
+2124,A,Nantes,Paris SG,0.0,2.0
+2125,H,Metz,Montpellier,2.0,0.0
+2126,D,Guingamp,Rennes,1.0,1.0
+2127,D,Dijon,Lille,0.0,0.0
+2128,H,Bordeaux,Toulouse,1.0,0.0
+2129,D,Bastia,Nice,1.0,1.0
+2130,H,Nantes,Caen,1.0,0.0
+2131,D,Nice,Metz,0.0,0.0
+2132,A,Marseille,Monaco,1.0,4.0
+2133,H,Caen,Lyon,3.0,2.0
+2134,A,Toulouse,Nantes,0.0,1.0
+2135,A,Rennes,Paris SG,0.0,1.0
+2136,H,Nancy,Bastia,1.0,0.0
+2137,D,Montpellier,Dijon,1.0,1.0
+2138,H,Lorient,Guingamp,3.0,1.0
+2139,D,Angers,Bordeaux,1.0,1.0
+2140,D,Lille,St Etienne,1.0,1.0
+2141,D,St Etienne,Nancy,0.0,0.0
+2142,H,Paris SG,Lorient,5.0,0.0
+2143,H,Nantes,Montpellier,1.0,0.0
+2144,H,Monaco,Caen,2.0,1.0
+2145,D,Metz,Guingamp,2.0,2.0
+2146,H,Lyon,Angers,2.0,0.0
+2147,D,Lille,Rennes,1.0,1.0
+2148,H,Dijon,Toulouse,2.0,0.0
+2149,D,Bordeaux,Nice,0.0,0.0
+2150,A,Bastia,Marseille,1.0,2.0
+2151,H,Nice,Dijon,2.0,1.0
+2152,A,Monaco,Lyon,1.0,3.0
+2153,H,Marseille,Lille,2.0,0.0
+2154,H,Caen,Metz,3.0,0.0
+2155,D,Toulouse,Nancy,1.0,1.0
+2156,A,Rennes,Bastia,1.0,2.0
+2157,H,Montpellier,Bordeaux,4.0,0.0
+2158,H,Lorient,St Etienne,2.0,1.0
+2159,H,Guingamp,Paris SG,2.0,1.0
+2160,A,Angers,Nantes,0.0,2.0
+2161,H,St Etienne,Guingamp,1.0,0.0
+2162,D,Paris SG,Nice,2.0,2.0
+2163,H,Lyon,Rennes,1.0,0.0
+2164,H,Toulouse,Lorient,3.0,2.0
+2165,H,Nancy,Angers,2.0,0.0
+2166,H,Lille,Montpellier,2.0,1.0
+2167,A,Dijon,Marseille,1.0,2.0
+2168,A,Bordeaux,Monaco,0.0,4.0
+2169,H,Bastia,Metz,2.0,0.0
+2170,H,Rennes,St Etienne,2.0,0.0
+2171,H,Nice,Toulouse,3.0,0.0
+2172,H,Marseille,Nancy,3.0,0.0
+2173,H,Montpellier,Paris SG,3.0,0.0
+2174,H,Monaco,Bastia,5.0,0.0
+2175,H,Guingamp,Nantes,2.0,0.0
+2176,A,Bordeaux,Lille,0.0,1.0
+2177,D,Angers,Lorient,2.0,2.0
+2178,D,Caen,Dijon,3.0,3.0
+2179,H,Toulouse,Montpellier,1.0,0.0
+2180,D,St Etienne,Marseille,0.0,0.0
+2181,H,Paris SG,Angers,2.0,0.0
+2182,A,Nantes,Lyon,0.0,6.0
+2183,H,Nancy,Metz,4.0,0.0
+2184,A,Guingamp,Nice,0.0,1.0
+2185,D,Bastia,Bordeaux,1.0,1.0
+2186,H,Lorient,Rennes,2.0,1.0
+2187,H,Lille,Caen,4.0,2.0
+2188,D,Dijon,Monaco,1.0,1.0
+2189,D,Nice,Bastia,1.0,1.0
+2190,A,Lyon,Paris SG,1.0,2.0
+2191,A,Angers,St Etienne,1.0,2.0
+2192,D,Nantes,Lille,0.0,0.0
+2193,D,Montpellier,Nancy,0.0,0.0
+2194,H,Monaco,Marseille,4.0,0.0
+2195,D,Metz,Lorient,3.0,3.0
+2196,D,Caen,Guingamp,1.0,1.0
+2197,H,Bordeaux,Dijon,3.0,2.0
+2198,H,Rennes,Toulouse,1.0,0.0
+2199,A,St Etienne,Nice,0.0,1.0
+2200,H,Marseille,Caen,1.0,0.0
+2201,D,Guingamp,Bordeaux,1.0,1.0
+2202,A,Toulouse,Metz,1.0,2.0
+2203,D,Rennes,Angers,1.0,1.0
+2204,H,Paris SG,Nantes,2.0,0.0
+2205,H,Nancy,Dijon,1.0,0.0
+2206,D,Bastia,Montpellier,1.0,1.0
+2207,A,Lorient,Monaco,0.0,3.0
+2208,A,Lille,Lyon,0.0,1.0
+2209,H,Paris SG,Rennes,4.0,0.0
+2210,D,Metz,St Etienne,0.0,0.0
+2211,H,Caen,Nice,1.0,0.0
+2212,D,Nantes,Toulouse,1.0,1.0
+2213,H,Monaco,Nancy,6.0,0.0
+2214,H,Lyon,Bastia,2.0,1.0
+2215,D,Dijon,Guingamp,3.0,3.0
+2216,H,Bordeaux,Lorient,2.0,1.0
+2217,H,Angers,Lille,1.0,0.0
+2218,H,Montpellier,Marseille,3.0,1.0
+2219,H,Rennes,Metz,1.0,0.0
+2220,H,Nice,Nantes,4.0,1.0
+2221,D,Marseille,Bordeaux,0.0,0.0
+2222,A,Toulouse,Lyon,1.0,2.0
+2223,D,St Etienne,Monaco,1.0,1.0
+2224,H,Nancy,Caen,2.0,0.0
+2225,D,Lorient,Montpellier,2.0,2.0
+2226,H,Guingamp,Angers,1.0,0.0
+2227,D,Bastia,Dijon,0.0,0.0
+2228,A,Lille,Paris SG,0.0,1.0
+2229,D,Paris SG,Marseille,0.0,0.0
+2230,A,Metz,Nice,2.0,4.0
+2231,A,Caen,St Etienne,0.0,2.0
+2232,A,Nantes,Rennes,1.0,2.0
+2233,A,Lyon,Guingamp,1.0,3.0
+2234,H,Lille,Bastia,2.0,1.0
+2235,H,Dijon,Lorient,1.0,0.0
+2236,D,Bordeaux,Nancy,1.0,1.0
+2237,D,Angers,Toulouse,0.0,0.0
+2238,H,Monaco,Montpellier,6.0,2.0
+2239,D,St Etienne,Dijon,1.0,1.0
+2240,D,Rennes,Bordeaux,1.0,1.0
+2241,H,Marseille,Metz,1.0,0.0
+2242,A,Nancy,Paris SG,1.0,2.0
+2243,H,Montpellier,Caen,3.0,2.0
+2244,A,Lorient,Nantes,1.0,2.0
+2245,H,Guingamp,Lille,1.0,0.0
+2246,A,Bastia,Angers,1.0,2.0
+2247,H,Toulouse,Monaco,3.0,1.0
+2248,H,Nice,Lyon,2.0,0.0
+2249,H,Nice,Lorient,2.0,1.0
+2250,H,Lyon,St Etienne,2.0,0.0
+2251,D,Angers,Marseille,1.0,1.0
+2252,H,Paris SG,Bordeaux,2.0,0.0
+2253,H,Nantes,Bastia,1.0,0.0
+2254,A,Metz,Monaco,0.0,7.0
+2255,H,Lille,Nancy,1.0,0.0
+2256,D,Dijon,Montpellier,3.0,3.0
+2257,H,Caen,Toulouse,1.0,0.0
+2258,H,Rennes,Guingamp,1.0,0.0
+2259,H,St Etienne,Lille,3.0,1.0
+2260,A,Nancy,Nice,0.0,1.0
+2261,H,Marseille,Nantes,2.0,1.0
+2262,A,Montpellier,Metz,0.0,1.0
+2263,H,Monaco,Angers,2.0,1.0
+2264,H,Lorient,Lyon,1.0,0.0
+2265,H,Dijon,Rennes,3.0,0.0
+2266,D,Bordeaux,Caen,0.0,0.0
+2267,H,Bastia,Guingamp,1.0,0.0
+2268,H,Toulouse,Paris SG,2.0,0.0
+2269,H,Rennes,Marseille,3.0,2.0
+2270,H,Nice,Monaco,4.0,0.0
+2271,D,Nantes,St Etienne,0.0,0.0
+2272,A,Metz,Bordeaux,0.0,3.0
+2273,H,Lyon,Montpellier,5.0,1.0
+2274,H,Guingamp,Lorient,1.0,0.0
+2275,D,Bastia,Nancy,0.0,0.0
+2276,H,Angers,Caen,2.0,1.0
+2277,H,Paris SG,Dijon,3.0,0.0
+2278,A,Lille,Toulouse,1.0,2.0
+2279,H,St Etienne,Bastia,1.0,0.0
+2280,D,Montpellier,Nice,1.0,1.0
+2281,D,Marseille,Lyon,0.0,0.0
+2282,H,Toulouse,Guingamp,2.0,1.0
+2283,D,Nancy,Nantes,1.0,1.0
+2284,H,Monaco,Rennes,3.0,0.0
+2285,H,Lorient,Lille,1.0,0.0
+2286,D,Dijon,Metz,0.0,0.0
+2287,A,Bordeaux,Angers,0.0,1.0
+2288,A,Caen,Paris SG,0.0,6.0
+2289,H,Rennes,Caen,2.0,0.0
+2290,H,Nice,Marseille,3.0,2.0
+2291,A,Nantes,Metz,0.0,3.0
+2292,A,Lyon,Bordeaux,1.0,3.0
+2293,A,Lorient,Nancy,0.0,2.0
+2294,A,Lille,Monaco,1.0,4.0
+2295,D,Guingamp,Montpellier,1.0,1.0
+2296,H,Bastia,Toulouse,2.0,1.0
+2297,H,Angers,Dijon,3.0,1.0
+2298,D,Paris SG,St Etienne,1.0,1.0
+2299,D,St Etienne,Toulouse,0.0,0.0
+2300,H,Monaco,Paris SG,3.0,1.0
+2301,H,Bordeaux,Nantes,1.0,0.0
+2302,D,Nice,Lille,1.0,1.0
+2303,A,Nancy,Guingamp,0.0,2.0
+2304,D,Montpellier,Rennes,1.0,1.0
+2305,H,Metz,Angers,2.0,0.0
+2306,H,Dijon,Lyon,4.0,2.0
+2307,H,Caen,Bastia,2.0,0.0
+2308,H,Marseille,Lorient,2.0,0.0
+2309,H,St Etienne,Montpellier,3.0,1.0
+2310,H,Paris SG,Metz,3.0,0.0
+2311,H,Guingamp,Marseille,2.0,1.0
+2312,H,Toulouse,Bordeaux,4.0,1.0
+2313,H,Rennes,Nancy,2.0,0.0
+2314,A,Nantes,Monaco,0.0,1.0
+2315,A,Lorient,Bastia,0.0,3.0
+2316,H,Lille,Dijon,1.0,0.0
+2317,A,Angers,Nice,0.0,1.0
+2318,H,Lyon,Caen,2.0,0.0
+2319,H,Nice,Rennes,1.0,0.0
+2320,A,Nancy,Lyon,0.0,3.0
+2321,D,Marseille,Toulouse,0.0,0.0
+2322,H,Montpellier,Angers,1.0,0.0
+2323,H,Metz,Lille,3.0,2.0
+2324,A,Dijon,Nantes,0.0,1.0
+2325,H,Caen,Lorient,3.0,2.0
+2326,H,Bordeaux,St Etienne,3.0,2.0
+2327,D,Monaco,Guingamp,2.0,2.0
+2328,A,Bastia,Paris SG,0.0,1.0
+2329,,,,,
+2330,D,Troyes,Marseille,1.0,1.0
+2331,A,St Etienne,Lille,0.0,1.0
+2332,A,Rennes,Bastia,1.0,2.0
+2333,H,Reims,Lyon,4.0,1.0
+2334,H,Paris SG,Nantes,4.0,0.0
+2335,H,Monaco,Montpellier,2.0,0.0
+2336,H,Lorient,Ajaccio GFCO,1.0,0.0
+2337,A,Guingamp,Nice,2.0,3.0
+2338,H,Caen,Bordeaux,1.0,0.0
+2339,A,Angers,Toulouse,2.0,3.0
+2340,D,Bordeaux,Paris SG,1.0,1.0
+2341,H,Toulouse,Troyes,1.0,0.0
+2342,H,Nice,St Etienne,2.0,0.0
+2343,A,Nantes,Caen,1.0,2.0
+2344,H,Montpellier,Rennes,2.0,0.0
+2345,H,Marseille,Reims,1.0,0.0
+2346,H,Lyon,Monaco,6.0,1.0
+2347,D,Lille,Guingamp,0.0,0.0
+2348,H,Bordeaux,Lorient,3.0,0.0
+2349,H,Bastia,Angers,1.0,0.0
+2350,A,Ajaccio GFCO,Paris SG,0.0,4.0
+2351,A,Angers,Marseille,0.0,1.0
+2352,A,Troyes,Bordeaux,2.0,4.0
+2353,D,St Etienne,Toulouse,0.0,0.0
+2354,A,Reims,Montpellier,2.0,3.0
+2355,H,Nantes,Nice,1.0,0.0
+2356,H,Monaco,Guingamp,3.0,2.0
+2357,H,Lyon,Ajaccio GFCO,2.0,1.0
+2358,A,Lorient,Lille,0.0,1.0
+2359,D,Caen,Bastia,0.0,0.0
+2360,H,Paris SG,Rennes,4.0,0.0
+2361,D,Lille,Angers,0.0,0.0
+2362,H,St Etienne,Lorient,2.0,0.0
+2363,D,Rennes,Monaco,1.0,1.0
+2364,H,Montpellier,Troyes,4.0,1.0
+2365,D,Marseille,Nantes,1.0,1.0
+2366,D,Guingamp,Caen,1.0,1.0
+2367,H,Ajaccio GFCO,Bastia,3.0,2.0
+2368,A,Toulouse,Lyon,2.0,3.0
+2369,H,Nice,Reims,2.0,0.0
+2370,A,Rennes,Guingamp,0.0,3.0
+2371,A,Nantes,Montpellier,0.0,2.0
+2372,H,Monaco,Marseille,2.0,1.0
+2373,H,Troyes,Reims,2.0,1.0
+2374,H,Paris SG,Caen,6.0,0.0
+2375,D,Lorient,Toulouse,1.0,1.0
+2376,A,Bordeaux,Angers,1.0,3.0
+2377,A,Bastia,St Etienne,0.0,1.0
+2378,A,Ajaccio GFCO,Lille,2.0,4.0
+2379,D,Lyon,Nice,1.0,1.0
+2380,H,Nice,Rennes,3.0,0.0
+2381,D,Marseille,Bordeaux,0.0,0.0
+2382,H,Lille,Monaco,4.0,1.0
+2383,H,Toulouse,Bastia,4.0,0.0
+2384,H,St Etienne,Troyes,1.0,0.0
+2385,H,Reims,Nantes,2.0,1.0
+2386,A,Guingamp,Paris SG,0.0,2.0
+2387,A,Caen,Lorient,1.0,2.0
+2388,D,Angers,Ajaccio GFCO,0.0,0.0
+2389,A,Montpellier,Lyon,0.0,2.0
+2390,A,Nantes,Lille,0.0,3.0
+2391,A,Lorient,Lyon,1.0,3.0
+2392,H,Bastia,Marseille,2.0,1.0
+2393,A,Troyes,Angers,0.0,1.0
+2394,H,Toulouse,Caen,2.0,0.0
+2395,H,Rennes,Reims,3.0,1.0
+2396,H,Paris SG,Nice,4.0,1.0
+2397,D,Guingamp,Montpellier,2.0,2.0
+2398,A,Ajaccio GFCO,St Etienne,0.0,2.0
+2399,A,Monaco,Bordeaux,1.0,2.0
+2400,A,Paris SG,Monaco,0.0,2.0
+2401,H,Nice,Ajaccio GFCO,3.0,0.0
+2402,D,Bordeaux,Bastia,1.0,1.0
+2403,H,St Etienne,Montpellier,3.0,0.0
+2404,A,Reims,Guingamp,0.0,1.0
+2405,H,Lyon,Nantes,2.0,0.0
+2406,H,Lille,Toulouse,1.0,0.0
+2407,H,Caen,Troyes,2.0,1.0
+2408,H,Angers,Lorient,5.0,1.0
+2409,A,Marseille,Rennes,2.0,5.0
+2410,A,Troyes,Paris SG,0.0,9.0
+2411,D,Rennes,Lyon,2.0,2.0
+2412,H,Nantes,Angers,2.0,0.0
+2413,H,Toulouse,Bordeaux,4.0,0.0
+2414,A,Montpellier,Nice,0.0,2.0
+2415,D,Lorient,Marseille,1.0,1.0
+2416,H,Guingamp,St Etienne,2.0,0.0
+2417,A,Bastia,Lille,1.0,2.0
+2418,H,Ajaccio GFCO,Caen,1.0,0.0
+2419,D,Monaco,Reims,2.0,2.0
+2420,D,Bastia,Nantes,0.0,0.0
+2421,D,Ajaccio GFCO,Marseille,1.0,1.0
+2422,H,Rennes,Nantes,4.0,1.0
+2423,D,Marseille,Toulouse,1.0,1.0
+2424,H,Lyon,Guingamp,5.0,1.0
+2425,D,Paris SG,Montpellier,0.0,0.0
+2426,H,Nice,Troyes,2.0,1.0
+2427,H,Lille,Reims,2.0,0.0
+2428,D,Bordeaux,Ajaccio GFCO,1.0,1.0
+2429,D,Bastia,Lorient,0.0,0.0
+2430,D,Angers,St Etienne,0.0,0.0
+2431,D,Caen,Monaco,2.0,2.0
+2432,A,St Etienne,Caen,1.0,2.0
+2433,D,Nantes,Monaco,0.0,0.0
+2434,H,Lyon,Paris SG,2.0,1.0
+2435,A,Troyes,Lorient,0.0,1.0
+2436,A,Toulouse,Rennes,1.0,2.0
+2437,H,Reims,Bordeaux,4.0,1.0
+2438,H,Montpellier,Lille,3.0,0.0
+2439,D,Guingamp,Angers,2.0,2.0
+2440,A,Nice,Bastia,0.0,2.0
+2441,D,Marseille,St Etienne,1.0,1.0
+2442,H,Lille,Lyon,1.0,0.0
+2443,H,Caen,Rennes,1.0,0.0
+2444,D,Toulouse,Ajaccio GFCO,1.0,1.0
+2445,H,Paris SG,Reims,4.0,1.0
+2446,H,Monaco,Troyes,3.0,1.0
+2447,H,Lorient,Guingamp,4.0,3.0
+2448,A,Angers,Montpellier,2.0,3.0
+2449,D,Bordeaux,Nice,0.0,0.0
+2450,D,St Etienne,Monaco,1.0,1.0
+2451,D,Nice,Marseille,1.0,1.0
+2452,H,Lyon,Caen,4.0,1.0
+2453,A,Reims,Bastia,0.0,1.0
+2454,D,Paris SG,Lille,0.0,0.0
+2455,H,Nantes,Lorient,2.0,1.0
+2456,H,Montpellier,Toulouse,2.0,0.0
+2457,A,Guingamp,Bordeaux,2.0,4.0
+2458,A,Ajaccio GFCO,Troyes,2.0,3.0
+2459,H,Rennes,Angers,1.0,0.0
+2460,A,Marseille,Paris SG,1.0,2.0
+2461,D,Lille,Rennes,1.0,1.0
+2462,A,Bordeaux,St Etienne,1.0,4.0
+2463,D,Toulouse,Nantes,0.0,0.0
+2464,H,Monaco,Nice,1.0,0.0
+2465,D,Lorient,Montpellier,1.0,1.0
+2466,A,Caen,Reims,0.0,2.0
+2467,H,Bastia,Troyes,2.0,0.0
+2468,A,Angers,Lyon,0.0,3.0
+2469,D,Ajaccio GFCO,Guingamp,0.0,0.0
+2470,A,Rennes,St Etienne,0.0,1.0
+2471,H,Reims,Angers,2.0,1.0
+2472,H,Paris SG,Lorient,3.0,1.0
+2473,H,Nice,Toulouse,1.0,0.0
+2474,H,Nantes,Ajaccio GFCO,3.0,1.0
+2475,H,Lyon,Bordeaux,3.0,0.0
+2476,H,Lille,Caen,1.0,0.0
+2477,H,Guingamp,Troyes,4.0,0.0
+2478,A,Montpellier,Marseille,0.0,1.0
+2479,H,Monaco,Bastia,2.0,0.0
+2480,A,St Etienne,Paris SG,0.0,2.0
+2481,H,Caen,Nice,2.0,0.0
+2482,H,Bordeaux,Rennes,4.0,0.0
+2483,A,Troyes,Nantes,0.0,1.0
+2484,A,Toulouse,Guingamp,1.0,2.0
+2485,H,Lorient,Reims,2.0,0.0
+2486,H,Bastia,Lyon,1.0,0.0
+2487,H,Angers,Monaco,3.0,0.0
+2488,A,Ajaccio GFCO,Montpellier,0.0,4.0
+2489,D,Marseille,Lille,1.0,1.0
+2490,D,Reims,St Etienne,1.0,1.0
+2491,H,Monaco,Toulouse,4.0,0.0
+2492,D,Lyon,Marseille,1.0,1.0
+2493,H,Paris SG,Angers,5.0,1.0
+2494,H,Nice,Lorient,2.0,1.0
+2495,D,Nantes,Bordeaux,2.0,2.0
+2496,A,Montpellier,Caen,1.0,2.0
+2497,A,Lille,Troyes,1.0,3.0
+2498,H,Guingamp,Bastia,1.0,0.0
+2499,H,Rennes,Ajaccio GFCO,1.0,0.0
+2500,H,St Etienne,Lyon,1.0,0.0
+2501,A,Lorient,Monaco,0.0,2.0
+2502,A,Caen,Marseille,1.0,3.0
+2503,A,Troyes,Rennes,2.0,4.0
+2504,A,Toulouse,Paris SG,0.0,1.0
+2505,D,Guingamp,Nantes,2.0,2.0
+2506,H,Bordeaux,Lille,1.0,0.0
+2507,H,Bastia,Montpellier,1.0,0.0
+2508,D,Ajaccio GFCO,Reims,2.0,2.0
+2509,H,Nice,Angers,2.0,1.0
+2510,H,Nantes,St Etienne,2.0,1.0
+2511,D,Marseille,Guingamp,0.0,0.0
+2512,D,Lille,Nice,1.0,1.0
+2513,D,Rennes,Lorient,2.0,2.0
+2514,A,Reims,Toulouse,1.0,3.0
+2515,A,Montpellier,Bordeaux,0.0,1.0
+2516,D,Monaco,Ajaccio GFCO,2.0,2.0
+2517,H,Lyon,Troyes,4.0,1.0
+2518,H,Angers,Caen,2.0,0.0
+2519,H,Paris SG,Bastia,2.0,0.0
+2520,H,St Etienne,Angers,1.0,0.0
+2521,D,Bordeaux,Marseille,1.0,1.0
+2522,H,Ajaccio GFCO,Lyon,2.0,1.0
+2523,D,Troyes,Monaco,0.0,0.0
+2524,D,Toulouse,Lille,1.0,1.0
+2525,D,Lorient,Nantes,0.0,0.0
+2526,A,Guingamp,Rennes,0.0,2.0
+2527,A,Caen,Paris SG,0.0,3.0
+2528,H,Bastia,Reims,2.0,0.0
+2529,H,Nice,Montpellier,1.0,0.0
+2530,H,Paris SG,Lyon,5.0,1.0
+2531,H,Monaco,St Etienne,1.0,0.0
+2532,D,Marseille,Ajaccio GFCO,1.0,1.0
+2533,D,Angers,Bordeaux,1.0,1.0
+2534,D,Troyes,Bastia,1.0,1.0
+2535,D,Reims,Nice,1.0,1.0
+2536,D,Nantes,Toulouse,1.0,1.0
+2537,H,Montpellier,Guingamp,2.0,1.0
+2538,H,Lille,Lorient,3.0,0.0
+2539,D,Rennes,Caen,1.0,1.0
+2540,D,St Etienne,Rennes,1.0,1.0
+2541,D,Marseille,Montpellier,2.0,2.0
+2542,H,Bordeaux,Guingamp,1.0,0.0
+2543,A,Toulouse,Lorient,2.0,3.0
+2544,D,Reims,Troyes,1.0,1.0
+2545,A,Lyon,Angers,0.0,2.0
+2546,A,Caen,Lille,1.0,2.0
+2547,A,Bastia,Monaco,1.0,2.0
+2548,D,Ajaccio GFCO,Nantes,1.0,1.0
+2549,A,Nice,Paris SG,0.0,3.0
+2550,A,Rennes,Marseille,0.0,1.0
+2551,A,Troyes,Toulouse,0.0,3.0
+2552,A,Montpellier,Ajaccio GFCO,0.0,2.0
+2553,D,Monaco,Caen,1.0,1.0
+2554,H,Lille,St Etienne,1.0,0.0
+2555,A,Guingamp,Reims,1.0,2.0
+2556,H,Bastia,Bordeaux,1.0,0.0
+2557,D,Nantes,Lyon,0.0,0.0
+2558,D,Lorient,Nice,0.0,0.0
+2559,D,Angers,Paris SG,0.0,0.0
+2560,H,St Etienne,Guingamp,3.0,0.0
+2561,D,Marseille,Monaco,3.0,3.0
+2562,A,Bordeaux,Caen,1.0,4.0
+2563,H,Toulouse,Nice,2.0,0.0
+2564,D,Reims,Rennes,2.0,2.0
+2565,H,Paris SG,Troyes,4.0,1.0
+2566,D,Nantes,Bastia,0.0,0.0
+2567,H,Angers,Lille,2.0,0.0
+2568,D,Ajaccio GFCO,Lorient,1.0,1.0
+2569,A,Lyon,Montpellier,2.0,4.0
+2570,A,St Etienne,Marseille,0.0,2.0
+2571,D,Rennes,Bordeaux,2.0,2.0
+2572,D,Caen,Angers,0.0,0.0
+2573,A,Bastia,Ajaccio GFCO,1.0,2.0
+2574,D,Troyes,Lille,1.0,1.0
+2575,H,Montpellier,Reims,3.0,1.0
+2576,H,Monaco,Nantes,1.0,0.0
+2577,A,Lorient,Paris SG,1.0,2.0
+2578,H,Guingamp,Toulouse,2.0,0.0
+2579,H,Nice,Lyon,3.0,0.0
+2580,A,Marseille,Nice,0.0,1.0
+2581,H,Lyon,St Etienne,3.0,0.0
+2582,H,Bordeaux,Monaco,3.0,1.0
+2583,A,Reims,Ajaccio GFCO,1.0,2.0
+2584,H,Paris SG,Toulouse,5.0,0.0
+2585,H,Montpellier,Nantes,2.0,1.0
+2586,H,Lorient,Troyes,4.0,1.0
+2587,D,Lille,Bastia,1.0,1.0
+2588,H,Caen,Guingamp,2.0,1.0
+2589,A,Angers,Rennes,0.0,2.0
+2590,A,Nice,Nantes,1.0,2.0
+2591,D,Nice,Lille,0.0,0.0
+2592,A,Nantes,Marseille,0.0,1.0
+2593,H,Monaco,Angers,1.0,0.0
+2594,A,Troyes,Lyon,0.0,1.0
+2595,D,Toulouse,Montpellier,1.0,1.0
+2596,H,St Etienne,Reims,3.0,0.0
+2597,D,Guingamp,Lorient,2.0,2.0
+2598,H,Bastia,Caen,1.0,0.0
+2599,H,Ajaccio GFCO,Bordeaux,2.0,0.0
+2600,A,Rennes,Paris SG,0.0,1.0
+2601,A,Reims,Monaco,0.0,1.0
+2602,H,Paris SG,St Etienne,4.0,1.0
+2603,A,Lille,Marseille,1.0,2.0
+2604,H,Bordeaux,Troyes,1.0,0.0
+2605,H,Montpellier,Bastia,2.0,0.0
+2606,D,Lorient,Rennes,1.0,1.0
+2607,D,Angers,Guingamp,0.0,0.0
+2608,H,Ajaccio GFCO,Nice,3.0,1.0
+2609,H,Lyon,Toulouse,3.0,0.0
+2610,A,Caen,Nantes,0.0,2.0
+2611,A,Rennes,Nice,1.0,4.0
+2612,D,Marseille,Lorient,1.0,1.0
+2613,D,Bordeaux,Montpellier,0.0,0.0
+2614,A,Toulouse,Angers,1.0,2.0
+2615,H,St Etienne,Ajaccio GFCO,2.0,0.0
+2616,A,Reims,Caen,0.0,1.0
+2617,H,Nantes,Troyes,3.0,0.0
+2618,D,Guingamp,Lille,1.0,1.0
+2619,A,Bastia,Paris SG,0.0,2.0
+2620,D,Monaco,Lyon,1.0,1.0
+2621,H,Paris SG,Marseille,2.0,1.0
+2622,D,Monaco,Rennes,1.0,1.0
+2623,H,Lorient,Bordeaux,3.0,2.0
+2624,H,Caen,St Etienne,1.0,0.0
+2625,A,Troyes,Guingamp,0.0,1.0
+2626,H,Lyon,Reims,1.0,0.0
+2627,H,Angers,Bastia,1.0,0.0
+2628,D,Ajaccio GFCO,Toulouse,2.0,2.0
+2629,H,Lille,Montpellier,2.0,0.0
+2630,A,Lille,Nantes,0.0,1.0
+2631,A,St Etienne,Nice,1.0,4.0
+2632,H,Montpellier,Lorient,2.0,1.0
+2633,A,Marseille,Angers,1.0,2.0
+2634,D,Guingamp,Monaco,3.0,3.0
+2635,D,Rennes,Troyes,1.0,1.0
+2636,A,Nantes,Paris SG,1.0,4.0
+2637,H,Caen,Ajaccio GFCO,2.0,0.0
+2638,H,Bordeaux,Lyon,3.0,1.0
+2639,H,Bastia,Toulouse,3.0,0.0
+2640,H,Reims,Lille,1.0,0.0
+2641,A,Montpellier,Monaco,2.0,3.0
+2642,A,Troyes,St Etienne,0.0,1.0
+2643,D,Toulouse,Marseille,1.0,1.0
+2644,H,Nice,Bordeaux,6.0,1.0
+2645,H,Lyon,Bastia,2.0,0.0
+2646,H,Lorient,Caen,2.0,0.0
+2647,D,Ajaccio GFCO,Rennes,1.0,1.0
+2648,H,Paris SG,Guingamp,3.0,0.0
+2649,D,Angers,Reims,0.0,0.0
+2650,H,St Etienne,Nantes,2.0,0.0
+2651,A,Monaco,Lorient,2.0,3.0
+2652,D,Marseille,Lyon,1.0,1.0
+2653,D,Bordeaux,Toulouse,1.0,1.0
+2654,D,Reims,Paris SG,1.0,1.0
+2655,H,Guingamp,Ajaccio GFCO,2.0,1.0
+2656,H,Caen,Montpellier,2.0,1.0
+2657,A,Bastia,Nice,1.0,3.0
+2658,H,Angers,Troyes,1.0,0.0
+2659,D,Rennes,Lille,1.0,1.0
+2660,A,Nantes,Rennes,0.0,2.0
+2661,H,Marseille,Bastia,4.0,1.0
+2662,A,Ajaccio GFCO,Monaco,0.0,1.0
+2663,A,Troyes,Caen,1.0,3.0
+2664,D,Toulouse,Reims,2.0,2.0
+2665,A,Nice,Guingamp,0.0,1.0
+2666,A,Montpellier,St Etienne,1.0,2.0
+2667,D,Lyon,Lille,0.0,0.0
+2668,H,Lorient,Angers,3.0,1.0
+2669,D,Paris SG,Bordeaux,2.0,2.0
+2670,H,St Etienne,Bastia,2.0,1.0
+2671,A,Monaco,Paris SG,0.0,3.0
+2672,H,Bordeaux,Nantes,2.0,0.0
+2673,D,Troyes,Montpellier,0.0,0.0
+2674,H,Rennes,Toulouse,3.0,1.0
+2675,H,Reims,Lorient,4.0,1.0
+2676,H,Lille,Ajaccio GFCO,1.0,0.0
+2677,A,Caen,Lyon,0.0,4.0
+2678,D,Angers,Nice,1.0,1.0
+2679,H,Guingamp,Marseille,2.0,0.0
+2680,H,Marseille,Troyes,6.0,0.0
+2681,A,Lorient,St Etienne,0.0,1.0
+2682,D,Lille,Bordeaux,0.0,0.0
+2683,D,Toulouse,Monaco,1.0,1.0
+2684,H,Nice,Caen,2.0,1.0
+2685,H,Nantes,Reims,1.0,0.0
+2686,A,Lyon,Rennes,1.0,2.0
+2687,H,Bastia,Guingamp,3.0,0.0
+2688,A,Ajaccio GFCO,Angers,0.0,2.0
+2689,A,Montpellier,Paris SG,0.0,1.0
+2690,H,Reims,Marseille,1.0,0.0
+2691,H,Paris SG,Ajaccio GFCO,2.0,0.0
+2692,D,Lorient,Bastia,1.0,1.0
+2693,D,Troyes,Nice,3.0,3.0
+2694,D,St Etienne,Bordeaux,1.0,1.0
+2695,H,Rennes,Montpellier,1.0,0.0
+2696,A,Guingamp,Lyon,0.0,1.0
+2697,H,Caen,Toulouse,1.0,0.0
+2698,D,Angers,Nantes,0.0,0.0
+2699,D,Monaco,Lille,0.0,0.0
+2700,H,Toulouse,St Etienne,2.0,1.0
+2701,D,Lyon,Lorient,0.0,0.0
+2702,A,Bordeaux,Reims,1.0,2.0
+2703,D,Troyes,Ajaccio GFCO,0.0,0.0
+2704,A,Nice,Monaco,1.0,2.0
+2705,H,Nantes,Guingamp,1.0,0.0
+2706,A,Montpellier,Angers,0.0,2.0
+2707,A,Marseille,Caen,0.0,1.0
+2708,H,Bastia,Rennes,2.0,1.0
+2709,A,Lille,Paris SG,0.0,1.0
+2710,A,Toulouse,Nice,2.0,3.0
+2711,H,St Etienne,Guingamp,2.0,1.0
+2712,A,Rennes,Lyon,0.0,1.0
+2713,H,Paris SG,Reims,3.0,2.0
+2714,A,Metz,Lille,1.0,4.0
+2715,H,Marseille,Bastia,3.0,0.0
+2716,A,Lorient,Monaco,0.0,1.0
+2717,H,Lens,Nantes,1.0,0.0
+2718,H,Caen,Evian Thonon Gaillard,3.0,2.0
+2719,H,Bordeaux,Montpellier,2.0,1.0
+2720,H,Reims,Rennes,1.0,0.0
+2721,H,Nice,Lens,2.0,1.0
+2722,D,Nantes,Lorient,1.0,1.0
+2723,A,Montpellier,Paris SG,1.0,2.0
+2724,H,Monaco,Metz,2.0,0.0
+2725,D,Lyon,Bordeaux,1.0,1.0
+2726,A,Lille,Marseille,0.0,4.0
+2727,H,Guingamp,Toulouse,2.0,1.0
+2728,A,Evian Thonon Gaillard,St Etienne,1.0,2.0
+2729,D,Bastia,Caen,1.0,1.0
+2730,H,St Etienne,Nice,5.0,0.0
+2731,H,Marseille,Monaco,2.0,1.0
+2732,A,Lens,Montpellier,0.0,1.0
+2733,H,Toulouse,Lille,3.0,2.0
+2734,A,Rennes,Bastia,0.0,1.0
+2735,A,Metz,Lorient,0.0,4.0
+2736,A,Evian Thonon Gaillard,Reims,2.0,3.0
+2737,H,Caen,Lyon,3.0,0.0
+2738,H,Bordeaux,Nantes,2.0,1.0
+2739,H,Paris SG,Guingamp,6.0,0.0
+2740,A,Nantes,Paris SG,0.0,2.0
+2741,H,Monaco,Toulouse,4.0,1.0
+2742,H,Lille,Lens,3.0,1.0
+2743,D,Nice,Caen,1.0,1.0
+2744,D,Montpellier,Rennes,0.0,0.0
+2745,H,Lyon,Evian Thonon Gaillard,2.0,0.0
+2746,D,Lorient,Bordeaux,0.0,0.0
+2747,H,Guingamp,Reims,2.0,0.0
+2748,H,Bastia,St Etienne,1.0,0.0
+2749,A,Metz,Marseille,0.0,2.0
+2750,H,Paris SG,Metz,3.0,1.0
+2751,H,St Etienne,Montpellier,1.0,0.0
+2752,A,Reims,Lyon,2.0,4.0
+2753,A,Lens,Monaco,0.0,3.0
+2754,D,Toulouse,Nantes,1.0,1.0
+2755,H,Rennes,Nice,2.0,1.0
+2756,H,Paris SG,Lille,6.0,1.0
+2757,A,Evian Thonon Gaillard,Bastia,1.0,2.0
+2758,A,Caen,Guingamp,0.0,2.0
+2759,D,Bordeaux,Metz,1.0,1.0
+2760,A,Marseille,Lorient,3.0,5.0
+2761,H,Montpellier,Caen,1.0,0.0
+2762,D,Lyon,St Etienne,2.0,2.0
+2763,H,Lille,Bordeaux,2.0,0.0
+2764,A,Nice,Paris SG,1.0,3.0
+2765,D,Monaco,Rennes,1.0,1.0
+2766,H,Metz,Lens,3.0,1.0
+2767,A,Lorient,Toulouse,0.0,1.0
+2768,D,Guingamp,Evian Thonon Gaillard,1.0,1.0
+2769,A,Bastia,Reims,1.0,2.0
+2770,H,Nantes,Marseille,1.0,0.0
+2771,H,Lyon,Bastia,2.0,0.0
+2772,H,Toulouse,Montpellier,1.0,0.0
+2773,H,St Etienne,Nantes,1.0,0.0
+2774,H,Rennes,Guingamp,1.0,0.0
+2775,A,Reims,Nice,0.0,1.0
+2776,D,Lens,Lorient,0.0,0.0
+2777,A,Evian Thonon Gaillard,Lille,0.0,1.0
+2778,H,Bordeaux,Marseille,1.0,0.0
+2779,A,Caen,Monaco,0.0,3.0
+2780,D,Monaco,Montpellier,0.0,0.0
+2781,A,Nantes,Caen,1.0,2.0
+2782,A,Marseille,Paris SG,2.0,3.0
+2783,H,Bordeaux,Lens,2.0,1.0
+2784,D,Nice,Evian Thonon Gaillard,2.0,2.0
+2785,H,Montpellier,Bastia,3.0,1.0
+2786,H,Metz,Toulouse,3.0,2.0
+2787,A,Lorient,Rennes,0.0,3.0
+2788,H,Lille,Reims,3.0,1.0
+2789,A,Guingamp,Lyon,1.0,3.0
+2790,D,Monaco,St Etienne,1.0,1.0
+2791,H,St Etienne,Lille,2.0,0.0
+2792,A,Reims,Monaco,1.0,3.0
+2793,A,Lens,Marseille,0.0,4.0
+2794,H,Toulouse,Bordeaux,2.0,1.0
+2795,D,Rennes,Nantes,0.0,0.0
+2796,A,Lyon,Nice,1.0,2.0
+2797,H,Evian Thonon Gaillard,Montpellier,1.0,0.0
+2798,D,Caen,Metz,0.0,0.0
+2799,D,Bastia,Guingamp,0.0,0.0
+2800,H,Paris SG,Lorient,3.0,1.0
+2801,D,Marseille,Lyon,0.0,0.0
+2802,H,Lille,Rennes,3.0,0.0
+2803,H,Bordeaux,Paris SG,3.0,2.0
+2804,H,Nantes,Evian Thonon Gaillard,2.0,1.0
+2805,H,Montpellier,Reims,3.0,1.0
+2806,A,Metz,St Etienne,2.0,3.0
+2807,H,Lorient,Caen,2.0,1.0
+2808,H,Lens,Toulouse,1.0,0.0
+2809,A,Nice,Guingamp,1.0,2.0
+2810,H,Monaco,Bastia,3.0,0.0
+2811,H,St Etienne,Lorient,2.0,0.0
+2812,A,Montpellier,Lyon,1.0,5.0
+2813,A,Guingamp,Lille,0.0,1.0
+2814,H,Rennes,Metz,1.0,0.0
+2815,H,Reims,Nantes,3.0,1.0
+2816,H,Paris SG,Lens,4.0,1.0
+2817,A,Evian Thonon Gaillard,Monaco,1.0,3.0
+2818,A,Caen,Bordeaux,1.0,2.0
+2819,H,Bastia,Nice,2.0,1.0
+2820,A,Toulouse,Marseille,1.0,6.0
+2821,H,Evian Thonon Gaillard,Lorient,1.0,0.0
+2822,H,Nantes,Guingamp,1.0,0.0
+2823,H,Montpellier,Nice,2.0,1.0
+2824,D,Monaco,Paris SG,0.0,0.0
+2825,D,Toulouse,St Etienne,1.0,1.0
+2826,A,Metz,Evian Thonon Gaillard,1.0,2.0
+2827,H,Lorient,Bastia,2.0,0.0
+2828,H,Lille,Lyon,2.0,1.0
+2829,A,Lens,Rennes,0.0,1.0
+2830,D,Bordeaux,Reims,1.0,1.0
+2831,A,Marseille,Caen,2.0,3.0
+2832,D,St Etienne,Marseille,2.0,2.0
+2833,D,Reims,Metz,0.0,0.0
+2834,H,Lyon,Nantes,1.0,0.0
+2835,A,Guingamp,Montpellier,0.0,2.0
+2836,D,Rennes,Bordeaux,1.0,1.0
+2837,H,Paris SG,Toulouse,3.0,1.0
+2838,H,Caen,Lens,4.0,1.0
+2839,H,Bastia,Lille,2.0,1.0
+2840,A,Nice,Monaco,0.0,1.0
+2841,A,Metz,Guingamp,0.0,2.0
+2842,D,Lorient,Lyon,1.0,1.0
+2843,H,Bordeaux,St Etienne,1.0,0.0
+2844,H,Toulouse,Rennes,2.0,1.0
+2845,D,Paris SG,Caen,2.0,2.0
+2846,A,Nantes,Bastia,0.0,2.0
+2847,D,Lille,Nice,0.0,0.0
+2848,A,Lens,Evian Thonon Gaillard,0.0,2.0
+2849,D,Marseille,Reims,2.0,2.0
+2850,D,Nice,Nantes,0.0,0.0
+2851,D,Lyon,Paris SG,1.0,1.0
+2852,H,Guingamp,Monaco,1.0,0.0
+2853,D,Rennes,Marseille,1.0,1.0
+2854,A,Reims,Lorient,1.0,3.0
+2855,A,Montpellier,Lille,1.0,2.0
+2856,A,Evian Thonon Gaillard,Bordeaux,0.0,1.0
+2857,H,Caen,Toulouse,2.0,0.0
+2858,H,Bastia,Metz,2.0,0.0
+2859,D,St Etienne,Lens,3.0,3.0
+2860,D,Monaco,Lyon,0.0,0.0
+2861,H,Caen,St Etienne,1.0,0.0
+2862,D,Bordeaux,Guingamp,1.0,1.0
+2863,H,Toulouse,Reims,1.0,0.0
+2864,D,Nantes,Lille,1.0,1.0
+2865,D,Metz,Nice,0.0,0.0
+2866,H,Marseille,Evian Thonon Gaillard,1.0,0.0
+2867,D,Lorient,Montpellier,0.0,0.0
+2868,D,Lens,Bastia,1.0,1.0
+2869,H,Paris SG,Rennes,1.0,0.0
+2870,A,St Etienne,Paris SG,0.0,1.0
+2871,A,Rennes,Caen,1.0,4.0
+2872,D,Reims,Lens,0.0,0.0
+2873,H,Lyon,Metz,2.0,0.0
+2874,H,Evian Thonon Gaillard,Toulouse,1.0,0.0
+2875,H,Montpellier,Nantes,4.0,0.0
+2876,A,Lille,Monaco,0.0,1.0
+2877,H,Guingamp,Lorient,3.0,2.0
+2878,D,Bastia,Bordeaux,0.0,0.0
+2879,H,Nice,Marseille,2.0,1.0
+2880,D,Rennes,St Etienne,0.0,0.0
+2881,H,Paris SG,Evian Thonon Gaillard,4.0,2.0
+2882,H,Marseille,Guingamp,2.0,1.0
+2883,D,Toulouse,Bastia,1.0,1.0
+2884,H,Monaco,Nantes,1.0,0.0
+2885,A,Metz,Montpellier,2.0,3.0
+2886,H,Lorient,Lille,1.0,0.0
+2887,A,Lens,Lyon,0.0,2.0
+2888,H,Caen,Reims,4.0,1.0
+2889,A,Bordeaux,Nice,1.0,2.0
+2890,D,Nantes,Metz,0.0,0.0
+2891,D,Monaco,Bordeaux,0.0,0.0
+2892,H,Lyon,Toulouse,3.0,0.0
+2893,A,Reims,St Etienne,1.0,2.0
+2894,H,Nice,Lorient,3.0,1.0
+2895,H,Lille,Caen,1.0,0.0
+2896,H,Guingamp,Lens,2.0,0.0
+2897,D,Evian Thonon Gaillard,Rennes,1.0,1.0
+2898,H,Bastia,Paris SG,4.0,2.0
+2899,H,Montpellier,Marseille,2.0,1.0
+2900,H,Lille,Evian Thonon Gaillard,1.0,0.0
+2901,H,St Etienne,Evian Thonon Gaillard,3.0,0.0
+2902,H,Marseille,Lille,2.0,1.0
+2903,A,Bordeaux,Lyon,0.0,5.0
+2904,D,Toulouse,Guingamp,1.0,1.0
+2905,A,Rennes,Reims,1.0,3.0
+2906,D,Paris SG,Montpellier,0.0,0.0
+2907,A,Metz,Monaco,0.0,1.0
+2908,A,Lorient,Nantes,1.0,2.0
+2909,D,Caen,Bastia,1.0,1.0
+2910,H,Lens,Nice,2.0,0.0
+2911,D,Nice,St Etienne,0.0,0.0
+2912,H,Monaco,Marseille,1.0,0.0
+2913,H,Lille,Toulouse,3.0,0.0
+2914,H,Guingamp,Paris SG,1.0,0.0
+2915,H,Reims,Evian Thonon Gaillard,3.0,2.0
+2916,H,Nantes,Bordeaux,2.0,1.0
+2917,D,Montpellier,Lens,3.0,3.0
+2918,H,Lorient,Metz,3.0,1.0
+2919,H,Bastia,Rennes,2.0,0.0
+2920,H,Lyon,Caen,3.0,0.0
+2921,A,Reims,Guingamp,2.0,3.0
+2922,H,Marseille,Metz,3.0,1.0
+2923,D,Lens,Lille,1.0,1.0
+2924,A,Evian Thonon Gaillard,Lyon,2.0,3.0
+2925,H,St Etienne,Bastia,1.0,0.0
+2926,A,Rennes,Montpellier,0.0,4.0
+2927,H,Paris SG,Nantes,2.0,1.0
+2928,A,Caen,Nice,2.0,3.0
+2929,H,Bordeaux,Lorient,3.0,2.0
+2930,A,Toulouse,Monaco,0.0,2.0
+2931,H,Lyon,Reims,2.0,1.0
+2932,A,Nice,Rennes,1.0,2.0
+2933,A,Montpellier,St Etienne,0.0,2.0
+2934,D,Metz,Bordeaux,0.0,0.0
+2935,D,Lille,Paris SG,1.0,1.0
+2936,H,Guingamp,Caen,5.0,1.0
+2937,A,Bastia,Evian Thonon Gaillard,1.0,2.0
+2938,A,Nantes,Toulouse,1.0,2.0
+2939,H,Monaco,Lens,2.0,0.0
+2940,D,Lorient,Marseille,1.0,1.0
+2941,H,St Etienne,Lyon,3.0,0.0
+2942,H,Evian Thonon Gaillard,Guingamp,2.0,0.0
+2943,H,Bordeaux,Lille,1.0,0.0
+2944,A,Toulouse,Lorient,2.0,3.0
+2945,H,Rennes,Monaco,2.0,0.0
+2946,H,Reims,Bastia,2.0,1.0
+2947,H,Paris SG,Nice,1.0,0.0
+2948,H,Lens,Metz,2.0,0.0
+2949,D,Caen,Montpellier,1.0,1.0
+2950,H,Marseille,Nantes,2.0,0.0
+2951,D,Nantes,St Etienne,0.0,0.0
+2952,H,Montpellier,Toulouse,2.0,0.0
+2953,H,Marseille,Bordeaux,3.0,1.0
+2954,D,Nice,Reims,0.0,0.0
+2955,D,Monaco,Caen,2.0,2.0
+2956,H,Lorient,Lens,1.0,0.0
+2957,A,Guingamp,Rennes,0.0,1.0
+2958,D,Bastia,Lyon,0.0,0.0
+2959,A,Metz,Paris SG,2.0,3.0
+2960,D,St Etienne,Monaco,1.0,1.0
+2961,H,Reims,Lille,2.0,0.0
+2962,H,Paris SG,Marseille,2.0,0.0
+2963,H,Lyon,Guingamp,3.0,1.0
+2964,H,Toulouse,Metz,3.0,0.0
+2965,A,Lens,Bordeaux,1.0,2.0
+2966,H,Evian Thonon Gaillard,Nice,1.0,0.0
+2967,A,Caen,Nantes,1.0,2.0
+2968,H,Bastia,Montpellier,2.0,0.0
+2969,H,Rennes,Lorient,1.0,0.0
+2970,D,Nantes,Rennes,1.0,1.0
+2971,H,Marseille,Lens,2.0,1.0
+2972,H,Bordeaux,Toulouse,2.0,1.0
+2973,A,Nice,Lyon,1.0,3.0
+2974,H,Montpellier,Evian Thonon Gaillard,2.0,0.0
+2975,H,Metz,Caen,3.0,2.0
+2976,A,Lorient,Paris SG,1.0,2.0
+2977,D,Lille,St Etienne,1.0,1.0
+2978,H,Guingamp,Bastia,1.0,0.0
+2979,D,Monaco,Reims,1.0,1.0
+2980,H,St Etienne,Metz,1.0,0.0
+2981,H,Rennes,Lille,2.0,0.0
+2982,H,Lyon,Marseille,1.0,0.0
+2983,A,Guingamp,Nice,2.0,7.0
+2984,H,Reims,Montpellier,1.0,0.0
+2985,H,Paris SG,Bordeaux,3.0,0.0
+2986,A,Evian Thonon Gaillard,Nantes,0.0,2.0
+2987,H,Caen,Lorient,2.0,1.0
+2988,A,Bastia,Monaco,1.0,3.0
+2989,A,Toulouse,Lens,0.0,2.0
+2990,H,Marseille,Toulouse,2.0,0.0
+2991,H,Lyon,Montpellier,5.0,1.0
+2992,D,Bordeaux,Caen,1.0,1.0
+2993,A,Nice,Bastia,0.0,1.0
+2994,D,Nantes,Reims,1.0,1.0
+2995,H,Monaco,Evian Thonon Gaillard,2.0,0.0
+2996,D,Metz,Rennes,0.0,0.0
+2997,A,Lorient,St Etienne,0.0,1.0
+2998,A,Lille,Guingamp,1.0,2.0
+2999,A,Lens,Paris SG,1.0,3.0
+3000,A,St Etienne,Toulouse,0.0,1.0
+3001,D,Paris SG,Monaco,1.0,1.0
+3002,H,Lyon,Lille,3.0,0.0
+3003,A,Guingamp,Nantes,0.0,1.0
+3004,H,Rennes,Lens,2.0,0.0
+3005,D,Nice,Montpellier,1.0,1.0
+3006,H,Evian Thonon Gaillard,Metz,3.0,0.0
+3007,A,Caen,Marseille,1.0,2.0
+3008,A,Bastia,Lorient,0.0,2.0
+3009,H,Reims,Bordeaux,1.0,0.0
+3010,D,Nantes,Lyon,1.0,1.0
+3011,H,Marseille,St Etienne,2.0,1.0
+3012,D,Lens,Caen,0.0,0.0
+3013,H,Bordeaux,Rennes,2.0,1.0
+3014,D,Toulouse,Paris SG,1.0,1.0
+3015,H,Montpellier,Guingamp,2.0,1.0
+3016,A,Monaco,Nice,0.0,1.0
+3017,H,Metz,Reims,3.0,0.0
+3018,A,Lorient,Evian Thonon Gaillard,0.0,2.0
+3019,H,Lille,Bastia,1.0,0.0
+3020,D,St Etienne,Bordeaux,1.0,1.0
+3021,H,Nice,Lille,1.0,0.0
+3022,A,Montpellier,Monaco,0.0,1.0
+3023,H,Lyon,Lorient,4.0,0.0
+3024,A,Guingamp,Metz,0.0,1.0
+3025,H,Evian Thonon Gaillard,Lens,2.0,1.0
+3026,A,Caen,Paris SG,0.0,2.0
+3027,D,Bastia,Nantes,0.0,0.0
+3028,A,Rennes,Toulouse,0.0,3.0
+3029,A,Reims,Marseille,0.0,5.0
+3030,D,Paris SG,Lyon,1.0,1.0
+3031,H,Monaco,Guingamp,1.0,0.0
+3032,D,Lille,Montpellier,0.0,0.0
+3033,A,Lens,St Etienne,0.0,1.0
+3034,D,Toulouse,Caen,3.0,3.0
+3035,H,Nantes,Nice,2.0,1.0
+3036,H,Metz,Bastia,3.0,1.0
+3037,H,Marseille,Rennes,3.0,0.0
+3038,A,Lorient,Reims,0.0,1.0
+3039,H,Bordeaux,Evian Thonon Gaillard,2.0,1.0
+3040,H,Lille,Nantes,2.0,0.0
+3041,H,Guingamp,Bordeaux,2.0,1.0
+3042,A,Evian Thonon Gaillard,Marseille,1.0,3.0
+3043,H,St Etienne,Caen,1.0,0.0
+3044,D,Rennes,Paris SG,1.0,1.0
+3045,H,Reims,Toulouse,2.0,0.0
+3046,H,Nice,Metz,1.0,0.0
+3047,H,Montpellier,Lorient,1.0,0.0
+3048,D,Bastia,Lens,1.0,1.0
+3049,H,Lyon,Monaco,2.0,1.0
+3050,H,Paris SG,St Etienne,5.0,0.0
+3051,H,Metz,Lyon,2.0,1.0
+3052,D,Bordeaux,Bastia,1.0,1.0
+3053,H,Toulouse,Evian Thonon Gaillard,1.0,0.0
+3054,H,Nantes,Montpellier,1.0,0.0
+3055,D,Monaco,Lille,1.0,1.0
+3056,H,Lorient,Guingamp,4.0,0.0
+3057,H,Lens,Reims,4.0,2.0
+3058,A,Caen,Rennes,0.0,1.0
+3059,H,Marseille,Nice,4.0,0.0
+3060,D,St Etienne,Rennes,0.0,0.0
+3061,A,Nantes,Monaco,0.0,1.0
+3062,A,Lyon,Lens,0.0,1.0
+3063,A,Reims,Caen,0.0,2.0
+3064,A,Nice,Bordeaux,1.0,3.0
+3065,H,Montpellier,Metz,2.0,0.0
+3066,H,Lille,Lorient,2.0,0.0
+3067,A,Guingamp,Marseille,0.0,1.0
+3068,H,Bastia,Toulouse,1.0,0.0
+3069,D,Evian Thonon Gaillard,Paris SG,0.0,0.0
+3070,H,St Etienne,Reims,3.0,1.0
+3071,A,Marseille,Montpellier,0.0,2.0
+3072,H,Bordeaux,Monaco,4.0,1.0
+3073,H,Toulouse,Lyon,2.0,1.0
+3074,H,Rennes,Evian Thonon Gaillard,6.0,2.0
+3075,H,Paris SG,Bastia,2.0,0.0
+3076,D,Metz,Nantes,1.0,1.0
+3077,D,Lorient,Nice,0.0,0.0
+3078,A,Lens,Guingamp,0.0,1.0
+3079,A,Caen,Lille,0.0,1.0
+3080,A,Monaco,Lorient,1.0,2.0
+3081,H,Lyon,Rennes,2.0,0.0
+3082,H,Nice,Toulouse,3.0,2.0
+3083,H,Nantes,Lens,1.0,0.0
+3084,A,Montpellier,Bordeaux,0.0,1.0
+3085,D,Lille,Metz,0.0,0.0
+3086,A,Guingamp,St Etienne,0.0,2.0
+3087,A,Evian Thonon Gaillard,Caen,0.0,3.0
+3088,D,Bastia,Marseille,3.0,3.0
+3089,D,Reims,Paris SG,2.0,2.0
+3090,,,,,
+3091,H,Toulouse,Valenciennes,3.0,1.0
+3092,H,St Etienne,Ajaccio,3.0,1.0
+3093,A,Sochaux,Evian Thonon Gaillard,0.0,3.0
+3094,A,Reims,Rennes,1.0,3.0
+3095,H,Paris SG,Montpellier,4.0,0.0
+3096,A,Nice,Lyon,0.0,1.0
+3097,D,Monaco,Bordeaux,1.0,1.0
+3098,H,Marseille,Guingamp,1.0,0.0
+3099,A,Lorient,Lille,1.0,4.0
+3100,D,Bastia,Nantes,0.0,0.0
+3101,A,Valenciennes,Monaco,1.0,2.0
+3102,A,Rennes,Sochaux,1.0,2.0
+3103,A,Nantes,St Etienne,1.0,3.0
+3104,A,Montpellier,Bastia,0.0,2.0
+3105,A,Lyon,Lorient,0.0,1.0
+3106,A,Lille,Paris SG,1.0,3.0
+3107,H,Guingamp,Toulouse,2.0,0.0
+3108,H,Evian Thonon Gaillard,Nice,2.0,0.0
+3109,D,Bordeaux,Marseille,1.0,1.0
+3110,H,Ajaccio,Reims,2.0,1.0
+3111,A,Paris SG,Rennes,1.0,2.0
+3112,D,Monaco,Guingamp,1.0,1.0
+3113,A,Valenciennes,Bordeaux,0.0,1.0
+3114,D,Toulouse,Nantes,1.0,1.0
+3115,H,St Etienne,Montpellier,2.0,0.0
+3116,H,Sochaux,Nice,2.0,0.0
+3117,H,Reims,Evian Thonon Gaillard,1.0,0.0
+3118,H,Marseille,Lyon,4.0,2.0
+3119,H,Lorient,Ajaccio,1.0,0.0
+3120,D,Bastia,Lille,1.0,1.0
+3121,D,Sochaux,Paris SG,1.0,1.0
+3122,H,Lyon,Bastia,4.0,1.0
+3123,H,Lille,Bordeaux,2.0,1.0
+3124,D,Rennes,Lorient,1.0,1.0
+3125,H,Nice,Reims,1.0,0.0
+3126,H,Montpellier,Toulouse,2.0,1.0
+3127,H,Guingamp,Valenciennes,1.0,0.0
+3128,A,Evian Thonon Gaillard,St Etienne,1.0,2.0
+3129,A,Ajaccio,Monaco,1.0,4.0
+3130,D,Nantes,Marseille,1.0,1.0
+3131,D,Toulouse,Lyon,0.0,0.0
+3132,H,Paris SG,Evian Thonon Gaillard,1.0,0.0
+3133,A,Valenciennes,Nantes,2.0,6.0
+3134,A,Reims,Sochaux,0.0,1.0
+3135,H,Monaco,Nice,1.0,0.0
+3136,D,Marseille,Lille,0.0,0.0
+3137,D,Lorient,Montpellier,4.0,4.0
+3138,H,Bordeaux,Guingamp,5.0,1.0
+3139,H,Bastia,Ajaccio,2.0,1.0
+3140,D,St Etienne,Rennes,0.0,0.0
+3141,D,Reims,St Etienne,2.0,2.0
+3142,H,Nantes,Guingamp,1.0,0.0
+3143,H,Lyon,Paris SG,1.0,0.0
+3144,H,Sochaux,Toulouse,2.0,0.0
+3145,A,Rennes,Monaco,0.0,1.0
+3146,A,Nice,Lorient,1.0,2.0
+3147,H,Lille,Valenciennes,1.0,0.0
+3148,H,Evian Thonon Gaillard,Bastia,2.0,1.0
+3149,D,Ajaccio,Bordeaux,1.0,1.0
+3150,A,Montpellier,Marseille,2.0,3.0
+3151,A,Valenciennes,Lyon,1.0,2.0
+3152,D,St Etienne,Nice,1.0,1.0
+3153,H,Monaco,Nantes,3.0,1.0
+3154,A,Toulouse,Lille,1.0,2.0
+3155,H,Paris SG,Reims,3.0,0.0
+3156,D,Lorient,Evian Thonon Gaillard,1.0,1.0
+3157,A,Guingamp,Montpellier,1.0,2.0
+3158,D,Bordeaux,Rennes,2.0,2.0
+3159,D,Bastia,Sochaux,2.0,2.0
+3160,H,Marseille,Ajaccio,3.0,1.0
+3161,H,Rennes,Bastia,3.0,0.0
+3162,A,Lyon,St Etienne,1.0,2.0
+3163,H,Lille,Guingamp,1.0,0.0
+3164,D,Sochaux,Marseille,1.0,1.0
+3165,D,Reims,Lorient,1.0,1.0
+3166,D,Nantes,Bordeaux,0.0,0.0
+3167,D,Montpellier,Valenciennes,0.0,0.0
+3168,H,Evian Thonon Gaillard,Monaco,1.0,0.0
+3169,D,Ajaccio,Toulouse,2.0,2.0
+3170,A,Nice,Paris SG,0.0,1.0
+3171,H,St Etienne,Sochaux,3.0,1.0
+3172,D,Monaco,Lille,1.0,1.0
+3173,A,Guingamp,Lyon,0.0,1.0
+3174,A,Valenciennes,Ajaccio,2.0,3.0
+3175,D,Toulouse,Evian Thonon Gaillard,1.0,1.0
+3176,H,Nantes,Montpellier,2.0,1.0
+3177,A,Marseille,Rennes,0.0,1.0
+3178,D,Bordeaux,Nice,1.0,1.0
+3179,H,Bastia,Reims,2.0,0.0
+3180,A,Lorient,Paris SG,0.0,1.0
+3181,H,Paris SG,St Etienne,2.0,0.0
+3182,D,Montpellier,Bordeaux,1.0,1.0
+3183,A,Lyon,Monaco,2.0,3.0
+3184,H,Sochaux,Lorient,2.0,0.0
+3185,A,Rennes,Toulouse,2.0,3.0
+3186,H,Nice,Bastia,2.0,0.0
+3187,D,Lille,Nantes,0.0,0.0
+3188,A,Evian Thonon Gaillard,Valenciennes,0.0,1.0
+3189,A,Ajaccio,Guingamp,1.0,2.0
+3190,D,Reims,Marseille,1.0,1.0
+3191,H,Lorient,St Etienne,1.0,0.0
+3192,H,Lille,Montpellier,2.0,0.0
+3193,A,Bordeaux,Lyon,1.0,2.0
+3194,H,Valenciennes,Rennes,2.0,1.0
+3195,H,Toulouse,Reims,3.0,2.0
+3196,D,Nantes,Ajaccio,2.0,2.0
+3197,H,Monaco,Sochaux,2.0,1.0
+3198,A,Guingamp,Evian Thonon Gaillard,0.0,1.0
+3199,A,Bastia,Paris SG,0.0,3.0
+3200,A,Marseille,Nice,0.0,1.0
+3201,H,Paris SG,Marseille,2.0,0.0
+3202,D,Lyon,Montpellier,0.0,0.0
+3203,A,Ajaccio,Lille,2.0,3.0
+3204,H,St Etienne,Monaco,2.0,0.0
+3205,H,Sochaux,Bordeaux,2.0,0.0
+3206,A,Rennes,Guingamp,0.0,2.0
+3207,H,Reims,Valenciennes,3.0,1.0
+3208,A,Nice,Toulouse,0.0,2.0
+3209,D,Lorient,Bastia,1.0,1.0
+3210,H,Evian Thonon Gaillard,Nantes,2.0,0.0
+3211,H,Bordeaux,Lorient,3.0,2.0
+3212,A,Toulouse,Paris SG,2.0,4.0
+3213,A,Nantes,Rennes,0.0,3.0
+3214,D,Lille,Lyon,0.0,0.0
+3215,D,Valenciennes,Sochaux,2.0,2.0
+3216,H,Montpellier,Ajaccio,2.0,0.0
+3217,H,Marseille,Lorient,1.0,0.0
+3218,H,Guingamp,Nice,1.0,0.0
+3219,H,Bordeaux,Evian Thonon Gaillard,2.0,1.0
+3220,A,Bastia,St Etienne,0.0,2.0
+3221,H,Monaco,Reims,3.0,2.0
+3222,D,St Etienne,Marseille,1.0,1.0
+3223,H,Lyon,Ajaccio,3.0,1.0
+3224,D,Evian Thonon Gaillard,Lille,2.0,2.0
+3225,H,Sochaux,Guingamp,1.0,0.0
+3226,D,Rennes,Montpellier,2.0,2.0
+3227,H,Reims,Bordeaux,1.0,0.0
+3228,D,Nice,Nantes,0.0,0.0
+3229,A,Lorient,Toulouse,1.0,3.0
+3230,A,Bastia,Monaco,0.0,2.0
+3231,H,Paris SG,Valenciennes,3.0,0.0
+3232,A,Toulouse,Bastia,1.0,3.0
+3233,A,Nantes,Lyon,1.0,2.0
+3234,D,Monaco,Paris SG,1.0,1.0
+3235,H,Valenciennes,Nice,2.0,1.0
+3236,D,Montpellier,Evian Thonon Gaillard,1.0,1.0
+3237,H,Marseille,Bastia,3.0,0.0
+3238,H,Lille,Sochaux,2.0,0.0
+3239,A,Guingamp,Reims,1.0,2.0
+3240,H,Ajaccio,Rennes,3.0,1.0
+3241,D,Toulouse,St Etienne,0.0,0.0
+3242,H,Rennes,Lyon,2.0,0.0
+3243,H,Nice,Lille,1.0,0.0
+3244,D,Marseille,Toulouse,2.0,2.0
+3245,H,St Etienne,Valenciennes,3.0,0.0
+3246,H,Sochaux,Nantes,1.0,0.0
+3247,A,Reims,Montpellier,2.0,4.0
+3248,D,Lorient,Monaco,2.0,2.0
+3249,D,Evian Thonon Gaillard,Ajaccio,1.0,1.0
+3250,H,Bastia,Guingamp,3.0,2.0
+3251,H,Paris SG,Bordeaux,2.0,0.0
+3252,H,Marseille,Valenciennes,2.0,1.0
+3253,H,Monaco,Marseille,2.0,0.0
+3254,H,Lyon,Evian Thonon Gaillard,3.0,0.0
+3255,H,Bordeaux,St Etienne,2.0,0.0
+3256,D,Valenciennes,Lorient,1.0,1.0
+3257,D,Nantes,Reims,0.0,0.0
+3258,H,Montpellier,Nice,3.0,1.0
+3259,D,Guingamp,Paris SG,1.0,1.0
+3260,D,Ajaccio,Sochaux,1.0,1.0
+3261,D,Lille,Rennes,1.0,1.0
+3262,A,Toulouse,Monaco,0.0,2.0
+3263,A,Reims,Lyon,0.0,2.0
+3264,H,Paris SG,Nantes,5.0,0.0
+3265,A,Sochaux,Montpellier,0.0,2.0
+3266,D,Rennes,Evian Thonon Gaillard,0.0,0.0
+3267,H,Nice,Ajaccio,2.0,0.0
+3268,H,Lorient,Guingamp,2.0,0.0
+3269,H,Bastia,Bordeaux,1.0,0.0
+3270,H,St Etienne,Lille,2.0,0.0
+3271,H,Nantes,Lorient,1.0,0.0
+3272,A,Lille,Reims,1.0,2.0
+3273,A,Evian Thonon Gaillard,Marseille,1.0,2.0
+3274,H,Valenciennes,Bastia,3.0,2.0
+3275,D,Rennes,Nice,0.0,0.0
+3276,H,Lyon,Sochaux,2.0,0.0
+3277,D,Guingamp,St Etienne,0.0,0.0
+3278,A,Bordeaux,Toulouse,0.0,1.0
+3279,A,Ajaccio,Paris SG,1.0,2.0
+3280,D,Montpellier,Monaco,1.0,1.0
+3281,H,St Etienne,Evian Thonon Gaillard,1.0,0.0
+3282,D,Paris SG,Lille,2.0,2.0
+3283,D,Marseille,Bordeaux,2.0,2.0
+3284,D,Lorient,Lyon,2.0,2.0
+3285,D,Toulouse,Guingamp,0.0,0.0
+3286,H,St Etienne,Nantes,2.0,0.0
+3287,H,Sochaux,Rennes,2.0,1.0
+3288,H,Reims,Ajaccio,4.0,1.0
+3289,H,Nice,Evian Thonon Gaillard,3.0,1.0
+3290,D,Bastia,Montpellier,0.0,0.0
+3291,A,Monaco,Valenciennes,1.0,2.0
+3292,D,Lyon,Marseille,2.0,2.0
+3293,H,Lille,Bastia,2.0,1.0
+3294,H,Bordeaux,Valenciennes,2.0,1.0
+3295,A,Rennes,Paris SG,1.0,3.0
+3296,H,Nice,Sochaux,1.0,0.0
+3297,A,Nantes,Toulouse,1.0,2.0
+3298,A,Guingamp,Monaco,0.0,2.0
+3299,D,Evian Thonon Gaillard,Reims,1.0,1.0
+3300,A,Ajaccio,Lorient,1.0,2.0
+3301,A,Montpellier,St Etienne,0.0,1.0
+3302,D,Toulouse,Montpellier,1.0,1.0
+3303,H,Monaco,Ajaccio,1.0,0.0
+3304,H,Bordeaux,Lille,1.0,0.0
+3305,A,Bastia,Lyon,1.0,3.0
+3306,D,Valenciennes,Guingamp,1.0,1.0
+3307,H,Reims,Nice,1.0,0.0
+3308,H,Paris SG,Sochaux,5.0,0.0
+3309,H,Lorient,Rennes,2.0,0.0
+3310,A,Marseille,Nantes,0.0,1.0
+3311,D,Lyon,Toulouse,1.0,1.0
+3312,A,Sochaux,Reims,0.0,2.0
+3313,H,Rennes,St Etienne,3.0,1.0
+3314,A,Montpellier,Lorient,0.0,2.0
+3315,A,Guingamp,Bordeaux,0.0,1.0
+3316,H,Evian Thonon Gaillard,Paris SG,2.0,0.0
+3317,D,Ajaccio,Bastia,1.0,1.0
+3318,A,Nice,Monaco,0.0,3.0
+3319,H,Nantes,Valenciennes,2.0,1.0
+3320,H,Lille,Marseille,1.0,0.0
+3321,H,Paris SG,Lyon,4.0,0.0
+3322,H,Bordeaux,Ajaccio,4.0,0.0
+3323,H,Bastia,Evian Thonon Gaillard,2.0,0.0
+3324,A,Valenciennes,Lille,0.0,1.0
+3325,H,Toulouse,Sochaux,5.0,1.0
+3326,H,St Etienne,Reims,4.0,0.0
+3327,H,Monaco,Rennes,2.0,0.0
+3328,H,Lorient,Nice,3.0,0.0
+3329,H,Guingamp,Nantes,1.0,0.0
+3330,H,Marseille,Montpellier,2.0,0.0
+3331,A,Nice,St Etienne,0.0,1.0
+3332,A,Nantes,Monaco,0.0,1.0
+3333,H,Lille,Toulouse,1.0,0.0
+3334,D,Sochaux,Bastia,1.0,1.0
+3335,D,Rennes,Bordeaux,1.0,1.0
+3336,A,Reims,Paris SG,0.0,3.0
+3337,D,Montpellier,Guingamp,1.0,1.0
+3338,D,Lyon,Valenciennes,1.0,1.0
+3339,A,Evian Thonon Gaillard,Lorient,0.0,4.0
+3340,A,Ajaccio,Marseille,1.0,3.0
+3341,A,St Etienne,Lyon,1.0,2.0
+3342,H,Marseille,Sochaux,2.0,1.0
+3343,A,Bordeaux,Nantes,0.0,3.0
+3344,D,Valenciennes,Montpellier,1.0,1.0
+3345,D,Toulouse,Ajaccio,1.0,1.0
+3346,H,Paris SG,Nice,3.0,1.0
+3347,D,Lorient,Reims,0.0,0.0
+3348,D,Guingamp,Lille,0.0,0.0
+3349,H,Bastia,Rennes,1.0,0.0
+3350,D,Monaco,Evian Thonon Gaillard,1.0,1.0
+3351,A,Nice,Bordeaux,1.0,2.0
+3352,D,Montpellier,Nantes,1.0,1.0
+3353,H,Lille,Monaco,2.0,0.0
+3354,D,Sochaux,St Etienne,0.0,0.0
+3355,D,Rennes,Marseille,1.0,1.0
+3356,H,Reims,Bastia,4.0,2.0
+3357,H,Lyon,Guingamp,2.0,0.0
+3358,H,Evian Thonon Gaillard,Toulouse,2.0,1.0
+3359,A,Ajaccio,Valenciennes,1.0,3.0
+3360,H,Paris SG,Lorient,4.0,0.0
+3361,D,St Etienne,Paris SG,2.0,2.0
+3362,H,Monaco,Lyon,2.0,1.0
+3363,H,Bordeaux,Montpellier,2.0,0.0
+3364,A,Valenciennes,Evian Thonon Gaillard,0.0,1.0
+3365,A,Toulouse,Rennes,0.0,5.0
+3366,A,Marseille,Reims,2.0,3.0
+3367,H,Lorient,Sochaux,2.0,1.0
+3368,H,Guingamp,Ajaccio,2.0,1.0
+3369,H,Bastia,Nice,1.0,0.0
+3370,A,Nantes,Lille,0.0,1.0
+3371,H,St Etienne,Lorient,3.0,2.0
+3372,D,Sochaux,Monaco,2.0,2.0
+3373,D,Lyon,Bordeaux,1.0,1.0
+3374,D,Rennes,Valenciennes,2.0,2.0
+3375,H,Paris SG,Bastia,4.0,0.0
+3376,A,Montpellier,Lille,0.0,1.0
+3377,A,Evian Thonon Gaillard,Guingamp,1.0,2.0
+3378,A,Ajaccio,Nantes,0.0,1.0
+3379,A,Reims,Toulouse,1.0,2.0
+3380,H,Nice,Marseille,1.0,0.0
+3381,H,Montpellier,Lyon,5.0,1.0
+3382,A,Marseille,Paris SG,1.0,2.0
+3383,H,Bordeaux,Sochaux,4.0,1.0
+3384,D,Valenciennes,Reims,1.0,1.0
+3385,H,Toulouse,Nice,1.0,0.0
+3386,H,Nantes,Evian Thonon Gaillard,3.0,0.0
+3387,H,Monaco,St Etienne,2.0,1.0
+3388,H,Lille,Ajaccio,3.0,0.0
+3389,H,Guingamp,Rennes,2.0,0.0
+3390,H,Bastia,Lorient,4.0,1.0
+3391,A,Rennes,Nantes,1.0,3.0
+3392,D,Reims,Monaco,1.0,1.0
+3393,D,Ajaccio,Montpellier,1.0,1.0
+3394,D,St Etienne,Bastia,2.0,2.0
+3395,H,Sochaux,Valenciennes,2.0,0.0
+3396,H,Paris SG,Toulouse,2.0,0.0
+3397,H,Nice,Guingamp,1.0,0.0
+3398,D,Lyon,Lille,0.0,0.0
+3399,A,Lorient,Marseille,0.0,2.0
+3400,D,Evian Thonon Gaillard,Bordeaux,1.0,1.0
+3401,D,Montpellier,Rennes,0.0,0.0
+3402,A,Valenciennes,Paris SG,0.0,1.0
+3403,H,Toulouse,Lorient,1.0,0.0
+3404,H,Nantes,Nice,2.0,0.0
+3405,H,Monaco,Bastia,3.0,0.0
+3406,H,Guingamp,Sochaux,5.0,1.0
+3407,D,Bordeaux,Reims,0.0,0.0
+3408,H,Ajaccio,Lyon,2.0,1.0
+3409,H,Marseille,St Etienne,2.0,1.0
+3410,H,Lille,Evian Thonon Gaillard,3.0,0.0
+3411,D,Paris SG,Monaco,1.0,1.0
+3412,H,Nice,Valenciennes,4.0,0.0
+3413,H,Lyon,Nantes,3.0,1.0
+3414,D,Lorient,Bordeaux,3.0,3.0
+3415,A,Sochaux,Lille,0.0,2.0
+3416,H,Rennes,Ajaccio,2.0,0.0
+3417,D,Reims,Guingamp,1.0,1.0
+3418,D,Evian Thonon Gaillard,Montpellier,2.0,2.0
+3419,D,Bastia,Marseille,0.0,0.0
+3420,A,St Etienne,Toulouse,1.0,2.0
+3421,H,Monaco,Lorient,1.0,0.0
+3422,D,Lyon,Rennes,0.0,0.0
+3423,A,Lille,Nice,0.0,2.0
+3424,A,Valenciennes,St Etienne,1.0,3.0
+3425,D,Toulouse,Marseille,1.0,1.0
+3426,H,Nantes,Sochaux,1.0,0.0
+3427,D,Montpellier,Reims,0.0,0.0
+3428,D,Guingamp,Bastia,1.0,1.0
+3429,A,Ajaccio,Evian Thonon Gaillard,2.0,3.0
+3430,A,Bordeaux,Paris SG,0.0,2.0
+3431,H,St Etienne,Bordeaux,2.0,1.0
+3432,D,Nice,Montpellier,2.0,2.0
+3433,A,Marseille,Monaco,1.0,2.0
+3434,D,Sochaux,Ajaccio,0.0,0.0
+3435,D,Rennes,Lille,0.0,0.0
+3436,D,Reims,Nantes,0.0,0.0
+3437,H,Paris SG,Guingamp,2.0,0.0
+3438,H,Lorient,Valenciennes,1.0,0.0
+3439,H,Evian Thonon Gaillard,Lyon,2.0,1.0
+3440,H,Bastia,Toulouse,2.0,1.0
+3441,A,Nantes,Paris SG,1.0,2.0
+3442,H,Lille,St Etienne,1.0,0.0
+3443,D,Ajaccio,Nice,0.0,0.0
+3444,A,Valenciennes,Marseille,0.0,1.0
+3445,H,Montpellier,Sochaux,2.0,1.0
+3446,A,Lyon,Reims,0.0,1.0
+3447,H,Guingamp,Lorient,2.0,0.0
+3448,A,Evian Thonon Gaillard,Rennes,1.0,2.0
+3449,H,Bordeaux,Bastia,1.0,0.0
+3450,D,Monaco,Toulouse,0.0,0.0
+3451,D,Paris SG,Ajaccio,1.0,1.0
+3452,H,Monaco,Montpellier,4.0,1.0
+3453,H,Lorient,Nantes,2.0,1.0
+3454,D,Toulouse,Bordeaux,1.0,1.0
+3455,H,St Etienne,Guingamp,1.0,0.0
+3456,H,Reims,Lille,2.0,1.0
+3457,H,Nice,Rennes,2.0,1.0
+3458,H,Marseille,Evian Thonon Gaillard,2.0,0.0
+3459,H,Bastia,Valenciennes,2.0,0.0
+3460,A,Sochaux,Lyon,1.0,3.0
+3461,A,Guingamp,Marseille,1.0,3.0
+3462,A,Ajaccio,St Etienne,0.0,1.0
+3463,H,Valenciennes,Toulouse,3.0,0.0
+3464,H,Rennes,Reims,2.0,1.0
+3465,H,Nantes,Bastia,2.0,0.0
+3466,H,Lyon,Nice,4.0,0.0
+3467,H,Lille,Lorient,1.0,0.0
+3468,D,Evian Thonon Gaillard,Sochaux,1.0,1.0
+3469,A,Bordeaux,Monaco,0.0,2.0
+3470,D,Montpellier,Paris SG,1.0,1.0
+3471,H,Valenciennes,Troyes,2.0,1.0
+3472,H,Toulouse,Montpellier,2.0,0.0
+3473,D,Marseille,Reims,0.0,0.0
+3474,H,Lyon,Rennes,2.0,0.0
+3475,A,Lorient,Paris SG,1.0,3.0
+3476,D,Lille,St Etienne,1.0,1.0
+3477,A,Brest,Nancy,1.0,2.0
+3478,H,Bordeaux,Evian Thonon Gaillard,2.0,1.0
+3479,D,Bastia,Sochaux,0.0,0.0
+3480,A,Ajaccio,Nice,0.0,2.0
+3481,D,Nice,Lyon,1.0,1.0
+3482,H,Troyes,Bordeaux,1.0,0.0
+3483,H,St Etienne,Marseille,2.0,0.0
+3484,A,Sochaux,Toulouse,1.0,2.0
+3485,D,Rennes,Ajaccio,1.0,1.0
+3486,H,Reims,Lorient,1.0,0.0
+3487,H,Paris SG,Brest,3.0,1.0
+3488,A,Nancy,Bastia,1.0,2.0
+3489,D,Montpellier,Lille,0.0,0.0
+3490,H,Evian Thonon Gaillard,Valenciennes,2.0,0.0
+3491,A,Lyon,Paris SG,0.0,1.0
+3492,H,Lorient,St Etienne,3.0,1.0
+3493,H,Evian Thonon Gaillard,Nice,4.0,0.0
+3494,H,Valenciennes,Rennes,4.0,1.0
+3495,H,Marseille,Toulouse,2.0,1.0
+3496,A,Brest,Sochaux,0.0,2.0
+3497,H,Bordeaux,Nancy,3.0,2.0
+3498,H,Bastia,Montpellier,3.0,1.0
+3499,A,Ajaccio,Troyes,0.0,1.0
+3500,H,Lille,Reims,3.0,0.0
+3501,A,Rennes,Nice,0.0,3.0
+3502,D,Paris SG,Valenciennes,1.0,1.0
+3503,A,Nancy,Lyon,0.0,3.0
+3504,H,Troyes,Evian Thonon Gaillard,1.0,0.0
+3505,H,Toulouse,Lille,4.0,2.0
+3506,H,Sochaux,Lorient,1.0,0.0
+3507,D,Reims,Ajaccio,1.0,1.0
+3508,H,Montpellier,Brest,2.0,1.0
+3509,H,Marseille,Bastia,2.0,1.0
+3510,D,St Etienne,Bordeaux,0.0,0.0
+3511,H,Nice,Troyes,3.0,1.0
+3512,D,Lyon,St Etienne,1.0,1.0
+3513,A,Evian Thonon Gaillard,Paris SG,0.0,1.0
+3514,D,Valenciennes,Nancy,0.0,0.0
+3515,A,Lorient,Marseille,0.0,1.0
+3516,A,Brest,Rennes,0.0,2.0
+3517,D,Bordeaux,Reims,0.0,0.0
+3518,D,Bastia,Toulouse,0.0,0.0
+3519,H,Ajaccio,Montpellier,2.0,1.0
+3520,D,Lille,Sochaux,3.0,3.0
+3521,H,St Etienne,Ajaccio,4.0,2.0
+3522,A,Rennes,Troyes,1.0,2.0
+3523,A,Toulouse,Lorient,0.0,1.0
+3524,D,Sochaux,Bordeaux,2.0,2.0
+3525,A,Reims,Valenciennes,0.0,1.0
+3526,H,Paris SG,Nice,3.0,0.0
+3527,H,Nancy,Evian Thonon Gaillard,3.0,1.0
+3528,A,Bastia,Lille,1.0,2.0
+3529,H,Marseille,Brest,1.0,0.0
+3530,A,Montpellier,Lyon,1.0,2.0
+3531,H,Nice,Sochaux,3.0,0.0
+3532,H,Lyon,Toulouse,3.0,1.0
+3533,D,Lille,Marseille,0.0,0.0
+3534,A,Troyes,Paris SG,0.0,1.0
+3535,H,Lorient,Bastia,4.0,1.0
+3536,H,Evian Thonon Gaillard,Rennes,4.0,2.0
+3537,A,Brest,Reims,0.0,2.0
+3538,H,Bordeaux,Montpellier,4.0,2.0
+3539,D,Ajaccio,Nancy,1.0,1.0
+3540,D,Valenciennes,St Etienne,0.0,0.0
+3541,H,St Etienne,Evian Thonon Gaillard,1.0,0.0
+3542,H,Reims,Lyon,1.0,0.0
+3543,H,Lille,Lorient,5.0,0.0
+3544,A,Toulouse,Nice,3.0,4.0
+3545,D,Sochaux,Ajaccio,0.0,0.0
+3546,A,Rennes,Paris SG,0.0,2.0
+3547,H,Nancy,Troyes,1.0,0.0
+3548,H,Montpellier,Valenciennes,3.0,1.0
+3549,H,Bastia,Brest,4.0,0.0
+3550,H,Marseille,Bordeaux,1.0,0.0
+3551,A,Nice,Marseille,0.0,1.0
+3552,A,Lyon,Sochaux,1.0,2.0
+3553,A,Brest,Lille,1.0,2.0
+3554,A,Valenciennes,Bastia,3.0,4.0
+3555,D,Troyes,St Etienne,2.0,2.0
+3556,A,Rennes,Nancy,0.0,2.0
+3557,D,Evian Thonon Gaillard,Reims,2.0,2.0
+3558,D,Bordeaux,Lorient,1.0,1.0
+3559,A,Ajaccio,Toulouse,2.0,3.0
+3560,H,Paris SG,Montpellier,1.0,0.0
+3561,D,Toulouse,Bordeaux,0.0,0.0
+3562,D,St Etienne,Paris SG,2.0,2.0
+3563,H,Nancy,Nice,1.0,0.0
+3564,D,Sochaux,Valenciennes,1.0,1.0
+3565,H,Reims,Rennes,1.0,0.0
+3566,D,Montpellier,Troyes,1.0,1.0
+3567,H,Lorient,Brest,4.0,0.0
+3568,A,Lille,Evian Thonon Gaillard,1.0,2.0
+3569,H,Bastia,Lyon,4.0,1.0
+3570,D,Marseille,Ajaccio,0.0,0.0
+3571,H,Nice,Montpellier,2.0,0.0
+3572,D,Lyon,Marseille,0.0,0.0
+3573,H,Bordeaux,Bastia,1.0,0.0
+3574,A,Valenciennes,Lille,1.0,3.0
+3575,H,Troyes,Reims,4.0,2.0
+3576,H,Paris SG,Nancy,2.0,1.0
+3577,H,Evian Thonon Gaillard,Sochaux,5.0,1.0
+3578,A,Brest,Toulouse,0.0,1.0
+3579,H,Ajaccio,Lorient,1.0,0.0
+3580,D,Rennes,St Etienne,2.0,2.0
+3581,H,Marseille,Troyes,2.0,1.0
+3582,H,Lille,Bordeaux,2.0,1.0
+3583,D,Brest,Lyon,1.0,1.0
+3584,D,Toulouse,Evian Thonon Gaillard,0.0,0.0
+3585,H,St Etienne,Nice,4.0,0.0
+3586,A,Sochaux,Nancy,1.0,2.0
+3587,H,Reims,Paris SG,1.0,0.0
+3588,D,Lorient,Valenciennes,1.0,1.0
+3589,H,Bastia,Ajaccio,1.0,0.0
+3590,H,Montpellier,Rennes,2.0,0.0
+3591,H,Paris SG,Marseille,2.0,0.0
+3592,H,Lyon,Lorient,3.0,1.0
+3593,A,Bordeaux,Brest,0.0,2.0
+3594,D,Valenciennes,Toulouse,0.0,0.0
+3595,D,Troyes,Bastia,0.0,0.0
+3596,D,Rennes,Sochaux,2.0,2.0
+3597,A,Nancy,St Etienne,0.0,3.0
+3598,A,Evian Thonon Gaillard,Montpellier,0.0,1.0
+3599,A,Ajaccio,Lille,1.0,3.0
+3600,H,Nice,Reims,2.0,0.0
+3601,H,Sochaux,Paris SG,3.0,2.0
+3602,D,Reims,St Etienne,1.0,1.0
+3603,A,Bordeaux,Lyon,0.0,4.0
+3604,D,Toulouse,Troyes,2.0,2.0
+3605,H,Montpellier,Nancy,1.0,0.0
+3606,H,Marseille,Valenciennes,1.0,0.0
+3607,H,Lorient,Evian Thonon Gaillard,2.0,1.0
+3608,D,Brest,Ajaccio,1.0,1.0
+3609,A,Bastia,Nice,0.0,1.0
+3610,H,Lille,Rennes,2.0,0.0
+3611,H,Rennes,Toulouse,2.0,0.0
+3612,A,Lyon,Lille,1.0,3.0
+3613,D,Evian Thonon Gaillard,Marseille,1.0,1.0
+3614,H,Valenciennes,Brest,2.0,1.0
+3615,D,Troyes,Sochaux,0.0,0.0
+3616,H,St Etienne,Montpellier,4.0,1.0
+3617,D,Nice,Lorient,1.0,1.0
+3618,A,Nancy,Reims,1.0,2.0
+3619,H,Ajaccio,Bordeaux,1.0,0.0
+3620,H,Paris SG,Bastia,3.0,1.0
+3621,H,Montpellier,Reims,3.0,1.0
+3622,A,Marseille,Nancy,0.0,1.0
+3623,H,Ajaccio,Lyon,3.0,1.0
+3624,A,Sochaux,St Etienne,1.0,2.0
+3625,D,Lorient,Rennes,2.0,2.0
+3626,D,Lille,Troyes,1.0,1.0
+3627,A,Brest,Nice,0.0,2.0
+3628,H,Bordeaux,Valenciennes,2.0,0.0
+3629,D,Bastia,Evian Thonon Gaillard,0.0,0.0
+3630,A,Toulouse,Paris SG,0.0,4.0
+3631,H,St Etienne,Bastia,3.0,0.0
+3632,H,Paris SG,Lille,1.0,0.0
+3633,A,Nice,Bordeaux,0.0,1.0
+3634,H,Troyes,Brest,2.0,1.0
+3635,D,Rennes,Marseille,2.0,2.0
+3636,D,Reims,Toulouse,1.0,1.0
+3637,H,Nancy,Lorient,2.0,1.0
+3638,H,Montpellier,Sochaux,2.0,0.0
+3639,D,Evian Thonon Gaillard,Ajaccio,1.0,1.0
+3640,A,Valenciennes,Lyon,0.0,2.0
+3641,A,Lille,Nice,0.0,2.0
+3642,A,Bordeaux,Paris SG,0.0,1.0
+3643,A,Bastia,Rennes,0.0,2.0
+3644,H,Toulouse,Nancy,2.0,1.0
+3645,H,Sochaux,Reims,1.0,0.0
+3646,H,Marseille,Montpellier,3.0,2.0
+3647,H,Lorient,Troyes,3.0,2.0
+3648,A,Brest,St Etienne,0.0,1.0
+3649,D,Ajaccio,Valenciennes,1.0,1.0
+3650,D,Lyon,Evian Thonon Gaillard,0.0,0.0
+3651,H,Sochaux,Marseille,3.0,1.0
+3652,A,Reims,Bastia,1.0,2.0
+3653,H,Nice,Valenciennes,5.0,0.0
+3654,A,Troyes,Lyon,1.0,2.0
+3655,A,Rennes,Bordeaux,0.0,2.0
+3656,D,Nancy,Lille,2.0,2.0
+3657,H,Montpellier,Lorient,2.0,0.0
+3658,A,Evian Thonon Gaillard,Brest,0.0,2.0
+3659,D,St Etienne,Toulouse,2.0,2.0
+3660,D,Paris SG,Ajaccio,0.0,0.0
+3661,H,Valenciennes,Evian Thonon Gaillard,2.0,1.0
+3662,H,Toulouse,Sochaux,2.0,0.0
+3663,H,Marseille,St Etienne,1.0,0.0
+3664,H,Lyon,Nice,3.0,0.0
+3665,D,Lorient,Reims,2.0,2.0
+3666,H,Lille,Montpellier,4.0,1.0
+3667,D,Bordeaux,Troyes,0.0,0.0
+3668,H,Bastia,Nancy,4.0,2.0
+3669,A,Ajaccio,Rennes,2.0,4.0
+3670,A,Brest,Paris SG,0.0,3.0
+3671,A,St Etienne,Lorient,0.0,2.0
+3672,H,Paris SG,Lyon,1.0,0.0
+3673,D,Nancy,Bordeaux,1.0,1.0
+3674,H,Troyes,Ajaccio,3.0,2.0
+3675,A,Toulouse,Marseille,0.0,1.0
+3676,A,Sochaux,Brest,1.0,2.0
+3677,D,Reims,Lille,1.0,1.0
+3678,H,Nice,Evian Thonon Gaillard,3.0,2.0
+3679,H,Montpellier,Bastia,4.0,0.0
+3680,H,Rennes,Valenciennes,2.0,0.0
+3681,D,Bordeaux,St Etienne,0.0,0.0
+3682,D,Lyon,Nancy,1.0,1.0
+3683,H,Lorient,Sochaux,2.0,0.0
+3684,H,Evian Thonon Gaillard,Troyes,2.0,0.0
+3685,A,Brest,Montpellier,1.0,2.0
+3686,A,Bastia,Marseille,1.0,2.0
+3687,H,Ajaccio,Reims,2.0,0.0
+3688,A,Valenciennes,Paris SG,0.0,4.0
+3689,H,Nice,Rennes,1.0,0.0
+3690,H,Lille,Toulouse,2.0,0.0
+3691,A,St Etienne,Lyon,0.0,1.0
+3692,D,Reims,Bordeaux,0.0,0.0
+3693,A,Marseille,Lorient,0.0,3.0
+3694,D,Troyes,Nice,1.0,1.0
+3695,D,Sochaux,Lille,1.0,1.0
+3696,D,Rennes,Brest,2.0,2.0
+3697,H,Paris SG,Evian Thonon Gaillard,4.0,0.0
+3698,D,Nancy,Valenciennes,1.0,1.0
+3699,H,Montpellier,Ajaccio,3.0,0.0
+3700,D,Toulouse,Bastia,0.0,0.0
+3701,A,Troyes,Rennes,2.0,3.0
+3702,H,Lorient,Toulouse,1.0,0.0
+3703,A,Brest,Marseille,1.0,2.0
+3704,H,Valenciennes,Reims,1.0,0.0
+3705,H,Nice,Paris SG,2.0,1.0
+3706,H,Lyon,Montpellier,1.0,0.0
+3707,D,Lille,Bastia,0.0,0.0
+3708,D,Evian Thonon Gaillard,Nancy,1.0,1.0
+3709,D,Bordeaux,Sochaux,2.0,2.0
+3710,D,Ajaccio,St Etienne,0.0,0.0
+3711,A,Marseille,Lyon,1.0,4.0
+3712,H,Toulouse,Lyon,3.0,0.0
+3713,H,Montpellier,Bordeaux,1.0,0.0
+3714,H,Marseille,Lille,1.0,0.0
+3715,A,Sochaux,Nice,0.0,1.0
+3716,A,Rennes,Evian Thonon Gaillard,0.0,1.0
+3717,D,Reims,Brest,0.0,0.0
+3718,H,Paris SG,Troyes,4.0,0.0
+3719,D,Nancy,Ajaccio,1.0,1.0
+3720,H,Bastia,Lorient,2.0,1.0
+3721,H,St Etienne,Valenciennes,1.0,0.0
+3722,H,Nice,Toulouse,1.0,0.0
+3723,H,Lyon,Reims,3.0,0.0
+3724,H,Bordeaux,Marseille,1.0,0.0
+3725,D,Valenciennes,Montpellier,1.0,1.0
+3726,D,Troyes,Nancy,3.0,3.0
+3727,A,Paris SG,Rennes,1.0,2.0
+3728,D,Evian Thonon Gaillard,St Etienne,2.0,2.0
+3729,H,Brest,Bastia,3.0,0.0
+3730,A,Ajaccio,Sochaux,0.0,1.0
+3731,H,Lorient,Lille,2.0,0.0
+3732,D,Sochaux,Lyon,1.0,1.0
+3733,D,Montpellier,Paris SG,1.0,1.0
+3734,D,Marseille,Nice,2.0,2.0
+3735,A,Lorient,Bordeaux,0.0,4.0
+3736,A,Toulouse,Ajaccio,2.0,4.0
+3737,H,St Etienne,Troyes,2.0,0.0
+3738,A,Reims,Evian Thonon Gaillard,1.0,2.0
+3739,H,Lille,Brest,1.0,0.0
+3740,A,Bastia,Valenciennes,2.0,3.0
+3741,A,Nancy,Rennes,1.0,3.0
+3742,H,Sochaux,Evian Thonon Gaillard,2.0,1.0
+3743,H,Lyon,Bastia,5.0,2.0
+3744,H,Bordeaux,Toulouse,1.0,0.0
+3745,A,Ajaccio,Marseille,0.0,2.0
+3746,H,Valenciennes,Sochaux,3.0,1.0
+3747,D,Troyes,Montpellier,1.0,1.0
+3748,H,Rennes,Reims,1.0,0.0
+3749,A,Paris SG,St Etienne,1.0,2.0
+3750,H,Nice,Nancy,2.0,1.0
+3751,A,Evian Thonon Gaillard,Lille,0.0,2.0
+3752,H,Brest,Lorient,2.0,0.0
+3753,D,Lorient,Ajaccio,4.0,4.0
+3754,H,Bastia,Bordeaux,3.0,1.0
+3755,H,Toulouse,Brest,3.0,1.0
+3756,D,Reims,Troyes,1.0,1.0
+3757,A,Nancy,Paris SG,0.0,1.0
+3758,H,Montpellier,Nice,3.0,1.0
+3759,H,Lille,Valenciennes,2.0,1.0
+3760,H,St Etienne,Rennes,2.0,0.0
+3761,H,Troyes,Marseille,1.0,0.0
+3762,H,Lyon,Brest,1.0,0.0
+3763,D,Ajaccio,Bastia,0.0,0.0
+3764,H,Valenciennes,Lorient,6.0,1.0
+3765,H,Rennes,Montpellier,2.0,1.0
+3766,H,Paris SG,Reims,1.0,0.0
+3767,D,Nice,St Etienne,1.0,1.0
+3768,D,Nancy,Sochaux,1.0,1.0
+3769,A,Evian Thonon Gaillard,Toulouse,0.0,4.0
+3770,D,Bordeaux,Lille,1.0,1.0
+3771,D,Marseille,Paris SG,2.0,2.0
+3772,D,Lorient,Lyon,1.0,1.0
+3773,D,Brest,Bordeaux,1.0,1.0
+3774,D,Toulouse,Valenciennes,2.0,2.0
+3775,A,Sochaux,Rennes,0.0,1.0
+3776,H,Reims,Nice,3.0,1.0
+3777,A,Montpellier,Evian Thonon Gaillard,2.0,3.0
+3778,H,Lille,Ajaccio,2.0,0.0
+3779,H,Bastia,Troyes,3.0,2.0
+3780,H,St Etienne,Nancy,4.0,0.0
+3781,H,Valenciennes,Marseille,4.0,1.0
+3782,D,St Etienne,Reims,0.0,0.0
+3783,A,Lyon,Bordeaux,0.0,2.0
+3784,A,Troyes,Toulouse,0.0,2.0
+3785,H,Paris SG,Sochaux,2.0,0.0
+3786,D,Nice,Bastia,2.0,2.0
+3787,A,Nancy,Montpellier,0.0,2.0
+3788,D,Evian Thonon Gaillard,Lorient,1.0,1.0
+3789,H,Ajaccio,Brest,1.0,0.0
+3790,H,Rennes,Lille,2.0,0.0
+3791,H,Marseille,Evian Thonon Gaillard,1.0,0.0
+3792,D,Lille,Lyon,1.0,1.0
+3793,D,Bordeaux,Ajaccio,2.0,2.0
+3794,D,Toulouse,Rennes,2.0,2.0
+3795,H,Sochaux,Troyes,3.0,1.0
+3796,H,Reims,Nancy,2.0,0.0
+3797,D,Lorient,Nice,1.0,1.0
+3798,H,Brest,Valenciennes,2.0,1.0
+3799,A,Bastia,Paris SG,0.0,4.0
+3800,D,Montpellier,St Etienne,1.0,1.0
+3801,A,Rennes,Lorient,1.0,2.0
+3802,A,Nancy,Marseille,0.0,1.0
+3803,H,Lyon,Ajaccio,2.0,0.0
+3804,D,Valenciennes,Bordeaux,0.0,0.0
+3805,D,Troyes,Lille,1.0,1.0
+3806,A,St Etienne,Sochaux,0.0,1.0
+3807,H,Nice,Brest,4.0,2.0
+3808,H,Evian Thonon Gaillard,Bastia,3.0,0.0
+3809,H,Reims,Montpellier,3.0,1.0
+3810,H,Paris SG,Toulouse,2.0,0.0
+3811,H,Marseille,Rennes,3.0,1.0
+3812,A,Lille,Paris SG,1.0,2.0
+3813,D,Bordeaux,Nice,1.0,1.0
+3814,D,Toulouse,Reims,1.0,1.0
+3815,A,Sochaux,Montpellier,1.0,3.0
+3816,H,Lyon,Valenciennes,3.0,2.0
+3817,H,Lorient,Nancy,3.0,0.0
+3818,H,Brest,Troyes,2.0,1.0
+3819,A,Bastia,St Etienne,0.0,3.0
+3820,H,Ajaccio,Evian Thonon Gaillard,2.0,0.0
+3821,H,St Etienne,Brest,4.0,0.0
+3822,D,Paris SG,Bordeaux,0.0,0.0
+3823,A,Montpellier,Marseille,0.0,1.0
+3824,H,Valenciennes,Ajaccio,3.0,0.0
+3825,D,Troyes,Lorient,2.0,2.0
+3826,H,Rennes,Bastia,3.0,2.0
+3827,H,Reims,Sochaux,1.0,0.0
+3828,D,Nice,Lille,2.0,2.0
+3829,A,Nancy,Toulouse,0.0,1.0
+3830,D,Evian Thonon Gaillard,Lyon,1.0,1.0
+3831,H,Marseille,Sochaux,2.0,0.0
+3832,H,Bordeaux,Rennes,1.0,0.0
+3833,D,Ajaccio,Paris SG,0.0,0.0
+3834,D,Valenciennes,Nice,0.0,0.0
+3835,H,Toulouse,St Etienne,2.0,1.0
+3836,H,Lyon,Troyes,4.0,1.0
+3837,H,Lorient,Montpellier,2.0,1.0
+3838,H,Brest,Evian Thonon Gaillard,1.0,0.0
+3839,H,Bastia,Reims,2.0,1.0
+3840,D,Lille,Nancy,1.0,1.0
+3841,A,Reims,Marseille,0.0,1.0
+3842,A,Troyes,Valenciennes,0.0,1.0
+3843,A,St Etienne,Lille,1.0,2.0
+3844,A,Sochaux,Bastia,2.0,3.0
+3845,A,Rennes,Lyon,0.0,1.0
+3846,D,Paris SG,Lorient,2.0,2.0
+3847,A,Nice,Ajaccio,0.0,1.0
+3848,H,Nancy,Brest,1.0,0.0
+3849,A,Evian Thonon Gaillard,Bordeaux,2.0,3.0
+3850,D,Montpellier,Toulouse,1.0,1.0
+3851,H,Valenciennes,Caen,3.0,1.0
+3852,A,Toulouse,Ajaccio,0.0,2.0
+3853,A,St Etienne,Bordeaux,2.0,3.0
+3854,H,Sochaux,Marseille,1.0,0.0
+3855,H,Rennes,Dijon,5.0,0.0
+3856,A,Lyon,Nice,3.0,4.0
+3857,A,Lorient,Paris SG,1.0,2.0
+3858,H,Lille,Nancy,4.0,1.0
+3859,A,Evian Thonon Gaillard,Brest,0.0,1.0
+3860,A,Auxerre,Montpellier,1.0,2.0
+3861,H,Paris SG,Rennes,3.0,0.0
+3862,D,Nice,Evian Thonon Gaillard,1.0,1.0
+3863,H,Nancy,St Etienne,3.0,2.0
+3864,H,Montpellier,Lille,1.0,0.0
+3865,H,Marseille,Auxerre,3.0,0.0
+3866,D,Dijon,Toulouse,1.0,1.0
+3867,A,Caen,Sochaux,1.0,3.0
+3868,H,Brest,Valenciennes,1.0,0.0
+3869,H,Bordeaux,Lorient,1.0,0.0
+3870,D,Ajaccio,Lyon,1.0,1.0
+3871,A,Evian Thonon Gaillard,Lyon,1.0,3.0
+3872,D,Toulouse,Nice,0.0,0.0
+3873,D,St Etienne,Marseille,0.0,0.0
+3874,H,Sochaux,Nancy,1.0,0.0
+3875,A,Rennes,Montpellier,0.0,2.0
+3876,D,Lorient,Dijon,0.0,0.0
+3877,H,Lille,Caen,3.0,0.0
+3878,A,Auxerre,Bordeaux,2.0,4.0
+3879,A,Valenciennes,Paris SG,3.0,4.0
+3880,D,Lyon,Brest,1.0,1.0
+3881,H,Evian Thonon Gaillard,Ajaccio,2.0,1.0
+3882,A,Dijon,Auxerre,0.0,2.0
+3883,H,Paris SG,St Etienne,2.0,0.0
+3884,A,Nice,Lille,0.0,1.0
+3885,H,Marseille,Nancy,1.0,0.0
+3886,H,Lyon,Valenciennes,4.0,1.0
+3887,H,Caen,Lorient,1.0,0.0
+3888,D,Brest,Toulouse,0.0,0.0
+3889,H,Bordeaux,Rennes,2.0,0.0
+3890,H,Ajaccio,Sochaux,2.0,1.0
+3891,D,Montpellier,Evian Thonon Gaillard,2.0,2.0
+3892,H,Valenciennes,Nice,2.0,0.0
+3893,H,St Etienne,Dijon,1.0,0.0
+3894,A,Sochaux,Bordeaux,0.0,3.0
+3895,H,Rennes,Ajaccio,3.0,1.0
+3896,D,Nancy,Caen,1.0,1.0
+3897,H,Lille,Paris SG,2.0,1.0
+3898,H,Auxerre,Brest,4.0,0.0
+3899,A,Toulouse,Montpellier,0.0,1.0
+3900,H,Lorient,Marseille,2.0,1.0
+3901,H,Paris SG,Sochaux,6.0,1.0
+3902,H,Lyon,Lorient,3.0,2.0
+3903,D,Ajaccio,Nancy,0.0,0.0
+3904,H,Nice,Auxerre,1.0,0.0
+3905,H,Montpellier,Valenciennes,1.0,0.0
+3906,H,Evian Thonon Gaillard,Toulouse,2.0,1.0
+3907,A,Dijon,Lille,0.0,2.0
+3908,A,Caen,St Etienne,1.0,4.0
+3909,A,Brest,Rennes,0.0,1.0
+3910,H,Bordeaux,Marseille,2.0,1.0
+3911,H,Toulouse,Lyon,3.0,0.0
+3912,D,Marseille,Caen,1.0,1.0
+3913,H,Rennes,Nice,3.0,1.0
+3914,A,Valenciennes,Evian Thonon Gaillard,0.0,3.0
+3915,H,St Etienne,Brest,2.0,1.0
+3916,H,Sochaux,Dijon,1.0,0.0
+3917,D,Nancy,Bordeaux,2.0,2.0
+3918,H,Lorient,Montpellier,2.0,1.0
+3919,H,Lille,Ajaccio,4.0,1.0
+3920,D,Auxerre,Paris SG,1.0,1.0
+3921,A,Marseille,Montpellier,1.0,3.0
+3922,H,Paris SG,Marseille,2.0,1.0
+3923,H,Nice,Lorient,2.0,0.0
+3924,H,Caen,Bordeaux,1.0,0.0
+3925,H,Valenciennes,Toulouse,2.0,0.0
+3926,H,Montpellier,Sochaux,2.0,1.0
+3927,H,Lyon,Auxerre,2.0,1.0
+3928,A,Evian Thonon Gaillard,Rennes,1.0,3.0
+3929,A,Dijon,Nancy,0.0,2.0
+3930,H,Brest,Lille,3.0,1.0
+3931,D,Ajaccio,St Etienne,1.0,1.0
+3932,D,Rennes,Lyon,1.0,1.0
+3933,H,Lille,Toulouse,2.0,1.0
+3934,D,Caen,Ajaccio,0.0,0.0
+3935,A,St Etienne,Nice,2.0,3.0
+3936,H,Sochaux,Brest,2.0,1.0
+3937,H,Nancy,Paris SG,2.0,1.0
+3938,A,Lorient,Evian Thonon Gaillard,0.0,1.0
+3939,D,Bordeaux,Dijon,1.0,1.0
+3940,H,Auxerre,Valenciennes,2.0,0.0
+3941,H,Toulouse,Auxerre,1.0,0.0
+3942,D,Paris SG,Bordeaux,1.0,1.0
+3943,H,Dijon,Caen,2.0,0.0
+3944,H,Valenciennes,Rennes,1.0,0.0
+3945,D,Nice,Marseille,1.0,1.0
+3946,H,Montpellier,St Etienne,1.0,0.0
+3947,H,Lyon,Sochaux,2.0,1.0
+3948,A,Evian Thonon Gaillard,Lille,0.0,3.0
+3949,A,Brest,Nancy,0.0,1.0
+3950,D,Ajaccio,Lorient,1.0,1.0
+3951,H,Sochaux,Nice,2.0,0.0
+3952,A,Rennes,Toulouse,0.0,1.0
+3953,H,Lille,Valenciennes,4.0,0.0
+3954,A,St Etienne,Lyon,0.0,1.0
+3955,H,Nancy,Montpellier,1.0,0.0
+3956,A,Marseille,Dijon,1.0,2.0
+3957,H,Lorient,Brest,2.0,1.0
+3958,D,Caen,Paris SG,2.0,2.0
+3959,D,Bordeaux,Ajaccio,1.0,1.0
+3960,A,Auxerre,Evian Thonon Gaillard,0.0,2.0
+3961,D,Rennes,Auxerre,1.0,1.0
+3962,H,Montpellier,Caen,3.0,0.0
+3963,A,Dijon,Paris SG,1.0,2.0
+3964,A,Valenciennes,St Etienne,1.0,2.0
+3965,D,Toulouse,Lorient,1.0,1.0
+3966,D,Nice,Nancy,1.0,1.0
+3967,H,Lyon,Lille,2.0,1.0
+3968,A,Evian Thonon Gaillard,Sochaux,2.0,3.0
+3969,A,Brest,Bordeaux,0.0,2.0
+3970,H,Ajaccio,Marseille,1.0,0.0
+3971,H,Evian Thonon Gaillard,Marseille,2.0,0.0
+3972,H,Paris SG,Ajaccio,4.0,1.0
+3973,A,Lorient,Rennes,0.0,2.0
+3974,D,Caen,Brest,0.0,0.0
+3975,A,St Etienne,Evian Thonon Gaillard,0.0,2.0
+3976,D,Sochaux,Valenciennes,1.0,1.0
+3977,H,Nancy,Lyon,2.0,0.0
+3978,A,Marseille,Toulouse,0.0,1.0
+3979,D,Lille,Auxerre,2.0,2.0
+3980,D,Dijon,Montpellier,1.0,1.0
+3981,A,Bordeaux,Nice,1.0,2.0
+3982,H,Toulouse,Sochaux,2.0,0.0
+3983,D,Rennes,Lille,1.0,1.0
+3984,H,Brest,Marseille,1.0,0.0
+3985,H,Valenciennes,Lorient,2.0,0.0
+3986,H,Nice,Caen,1.0,0.0
+3987,H,Montpellier,Bordeaux,1.0,0.0
+3988,D,Lyon,Paris SG,4.0,4.0
+3989,H,Evian Thonon Gaillard,Nancy,2.0,0.0
+3990,D,Auxerre,St Etienne,0.0,0.0
+3991,H,Ajaccio,Dijon,2.0,1.0
+3992,H,St Etienne,Lorient,4.0,2.0
+3993,A,Sochaux,Lille,0.0,1.0
+3994,H,Caen,Auxerre,2.0,1.0
+3995,H,St Etienne,Rennes,4.0,0.0
+3996,D,Paris SG,Montpellier,2.0,2.0
+3997,H,Bordeaux,Lyon,1.0,0.0
+3998,D,Sochaux,Auxerre,0.0,0.0
+3999,A,Nancy,Toulouse,0.0,3.0
+4000,D,Marseille,Valenciennes,1.0,1.0
+4001,A,Lorient,Lille,0.0,1.0
+4002,H,Dijon,Nice,3.0,0.0
+4003,D,Caen,Evian Thonon Gaillard,2.0,2.0
+4004,D,Ajaccio,Brest,0.0,0.0
+4005,A,Toulouse,St Etienne,0.0,1.0
+4006,D,Nice,Paris SG,0.0,0.0
+4007,A,Lille,Bordeaux,4.0,5.0
+4008,H,Valenciennes,Nancy,1.0,0.0
+4009,H,Rennes,Sochaux,1.0,0.0
+4010,H,Montpellier,Ajaccio,3.0,0.0
+4011,A,Lyon,Caen,1.0,2.0
+4012,D,Brest,Dijon,1.0,1.0
+4013,D,Auxerre,Lorient,1.0,1.0
+4014,D,Marseille,Lyon,2.0,2.0
+4015,H,Paris SG,Evian Thonon Gaillard,3.0,1.0
+4016,D,Nancy,Rennes,0.0,0.0
+4017,H,Montpellier,Brest,1.0,0.0
+4018,A,Dijon,Valenciennes,1.0,2.0
+4019,H,Bordeaux,Toulouse,2.0,0.0
+4020,D,Ajaccio,Nice,1.0,1.0
+4021,A,Valenciennes,Ajaccio,1.0,2.0
+4022,A,Rennes,Marseille,1.0,2.0
+4023,D,Evian Thonon Gaillard,Bordeaux,0.0,0.0
+4024,H,Toulouse,Caen,1.0,0.0
+4025,A,Nice,Montpellier,0.0,1.0
+4026,H,Lyon,Dijon,3.0,1.0
+4027,D,Lorient,Sochaux,1.0,1.0
+4028,H,Lille,St Etienne,3.0,0.0
+4029,A,Brest,Paris SG,0.0,1.0
+4030,A,Auxerre,Nancy,1.0,3.0
+4031,H,Marseille,Lille,2.0,0.0
+4032,H,St Etienne,Sochaux,1.0,0.0
+4033,H,Paris SG,Toulouse,3.0,1.0
+4034,D,Nancy,Lorient,2.0,2.0
+4035,H,Montpellier,Lyon,1.0,0.0
+4036,H,Dijon,Evian Thonon Gaillard,3.0,1.0
+4037,A,Caen,Rennes,0.0,2.0
+4038,H,Brest,Nice,1.0,0.0
+4039,H,Bordeaux,Valenciennes,2.0,1.0
+4040,H,Ajaccio,Auxerre,2.0,1.0
+4041,H,Valenciennes,Lyon,1.0,0.0
+4042,D,Toulouse,Brest,0.0,0.0
+4043,A,St Etienne,Paris SG,0.0,1.0
+4044,A,Sochaux,Ajaccio,0.0,2.0
+4045,H,Rennes,Bordeaux,1.0,0.0
+4046,D,Lorient,Caen,0.0,0.0
+4047,D,Lille,Nice,4.0,4.0
+4048,H,Evian Thonon Gaillard,Montpellier,4.0,2.0
+4049,D,Auxerre,Dijon,2.0,2.0
+4050,A,Nancy,Marseille,1.0,3.0
+4051,D,Paris SG,Lille,0.0,0.0
+4052,H,Bordeaux,Sochaux,1.0,0.0
+4053,H,Ajaccio,Rennes,1.0,0.0
+4054,H,Nice,Valenciennes,2.0,0.0
+4055,D,Montpellier,Toulouse,1.0,1.0
+4056,H,Marseille,Lorient,2.0,1.0
+4057,H,Lyon,Evian Thonon Gaillard,2.0,1.0
+4058,A,Dijon,St Etienne,1.0,2.0
+4059,A,Caen,Nancy,1.0,2.0
+4060,H,Brest,Auxerre,1.0,0.0
+4061,A,Lorient,Lyon,0.0,1.0
+4062,H,Lille,Dijon,2.0,0.0
+4063,H,Auxerre,Nice,2.0,1.0
+4064,H,Valenciennes,Montpellier,1.0,0.0
+4065,H,Toulouse,Evian Thonon Gaillard,2.0,1.0
+4066,H,St Etienne,Caen,2.0,0.0
+4067,A,Sochaux,Paris SG,0.0,1.0
+4068,D,Rennes,Brest,1.0,1.0
+4069,D,Nancy,Ajaccio,2.0,2.0
+4070,D,Marseille,Bordeaux,0.0,0.0
+4071,H,Paris SG,Auxerre,3.0,2.0
+4072,H,Lyon,Toulouse,3.0,2.0
+4073,H,Bordeaux,Nancy,2.0,0.0
+4074,H,Nice,Rennes,2.0,0.0
+4075,H,Montpellier,Lorient,4.0,0.0
+4076,H,Evian Thonon Gaillard,Valenciennes,2.0,1.0
+4077,D,Dijon,Sochaux,0.0,0.0
+4078,D,Brest,St Etienne,2.0,2.0
+4079,A,Ajaccio,Lille,2.0,3.0
+4080,A,Caen,Marseille,1.0,2.0
+4081,H,Marseille,Paris SG,3.0,0.0
+4082,H,Lorient,Nice,1.0,0.0
+4083,A,Auxerre,Lyon,0.0,3.0
+4084,H,Toulouse,Valenciennes,2.0,0.0
+4085,H,St Etienne,Ajaccio,3.0,1.0
+4086,A,Sochaux,Montpellier,1.0,3.0
+4087,H,Rennes,Evian Thonon Gaillard,3.0,2.0
+4088,A,Nancy,Dijon,1.0,2.0
+4089,H,Lille,Brest,2.0,0.0
+4090,H,Bordeaux,Caen,2.0,0.0
+4091,H,Valenciennes,Auxerre,2.0,1.0
+4092,A,Paris SG,Nancy,0.0,1.0
+4093,H,Brest,Sochaux,2.0,0.0
+4094,A,Nice,St Etienne,0.0,2.0
+4095,H,Montpellier,Marseille,1.0,0.0
+4096,H,Evian Thonon Gaillard,Lorient,2.0,1.0
+4097,H,Dijon,Bordeaux,2.0,0.0
+4098,D,Ajaccio,Caen,2.0,2.0
+4099,D,Toulouse,Lille,0.0,0.0
+4100,A,Lyon,Rennes,1.0,2.0
+4101,D,St Etienne,Montpellier,1.0,1.0
+4102,H,Sochaux,Lyon,2.0,1.0
+4103,D,Rennes,Valenciennes,1.0,1.0
+4104,H,Nancy,Brest,2.0,1.0
+4105,H,Marseille,Nice,2.0,0.0
+4106,H,Lorient,Ajaccio,2.0,0.0
+4107,H,Caen,Dijon,3.0,0.0
+4108,D,Bordeaux,Paris SG,1.0,1.0
+4109,H,Auxerre,Toulouse,2.0,0.0
+4110,D,Lille,Evian Thonon Gaillard,1.0,1.0
+4111,D,Valenciennes,Lille,0.0,0.0
+4112,H,Toulouse,Rennes,1.0,0.0
+4113,D,Nice,Sochaux,1.0,1.0
+4114,H,Paris SG,Caen,4.0,2.0
+4115,H,Montpellier,Nancy,2.0,0.0
+4116,H,Lyon,St Etienne,2.0,0.0
+4117,H,Evian Thonon Gaillard,Auxerre,3.0,1.0
+4118,A,Dijon,Marseille,2.0,3.0
+4119,H,Brest,Lorient,3.0,1.0
+4120,A,Ajaccio,Bordeaux,0.0,2.0
+4121,H,Paris SG,Dijon,2.0,0.0
+4122,H,Lille,Lyon,3.0,1.0
+4123,A,Auxerre,Rennes,0.0,1.0
+4124,H,St Etienne,Valenciennes,1.0,0.0
+4125,D,Sochaux,Evian Thonon Gaillard,1.0,1.0
+4126,H,Nancy,Nice,1.0,0.0
+4127,H,Marseille,Ajaccio,2.0,0.0
+4128,D,Lorient,Toulouse,0.0,0.0
+4129,A,Caen,Montpellier,1.0,3.0
+4130,D,Bordeaux,Brest,1.0,1.0
+4131,H,Valenciennes,Sochaux,3.0,0.0
+4132,H,Rennes,Lorient,2.0,0.0
+4133,A,Ajaccio,Paris SG,1.0,3.0
+4134,D,Toulouse,Marseille,0.0,0.0
+4135,H,Nice,Bordeaux,3.0,0.0
+4136,H,Montpellier,Dijon,5.0,3.0
+4137,H,Lyon,Nancy,3.0,1.0
+4138,A,Evian Thonon Gaillard,St Etienne,1.0,2.0
+4139,D,Brest,Caen,1.0,1.0
+4140,A,Auxerre,Lille,1.0,3.0
+4141,H,Paris SG,Lyon,2.0,0.0
+4142,D,Marseille,Brest,1.0,1.0
+4143,H,Lille,Rennes,2.0,0.0
+4144,D,St Etienne,Auxerre,1.0,1.0
+4145,H,Sochaux,Toulouse,3.0,0.0
+4146,D,Nancy,Evian Thonon Gaillard,1.0,1.0
+4147,H,Lorient,Valenciennes,2.0,0.0
+4148,D,Dijon,Ajaccio,1.0,1.0
+4149,D,Caen,Nice,1.0,1.0
+4150,D,Bordeaux,Montpellier,2.0,2.0
+4151,D,Rennes,St Etienne,1.0,1.0
+4152,D,Brest,Ajaccio,1.0,1.0
+4153,H,Auxerre,Sochaux,4.0,1.0
+4154,D,Valenciennes,Marseille,1.0,1.0
+4155,H,Toulouse,Nancy,1.0,0.0
+4156,D,Nice,Dijon,1.0,1.0
+4157,A,Montpellier,Paris SG,0.0,3.0
+4158,H,Lyon,Bordeaux,3.0,1.0
+4159,D,Lille,Lorient,1.0,1.0
+4160,A,Evian Thonon Gaillard,Caen,2.0,4.0
+4161,D,St Etienne,Toulouse,1.0,1.0
+4162,A,Sochaux,Rennes,2.0,6.0
+4163,H,Paris SG,Nice,2.0,1.0
+4164,D,Nancy,Valenciennes,1.0,1.0
+4165,H,Marseille,Evian Thonon Gaillard,2.0,0.0
+4166,D,Lorient,Auxerre,1.0,1.0
+4167,H,Dijon,Brest,1.0,0.0
+4168,H,Caen,Lyon,1.0,0.0
+4169,A,Ajaccio,Montpellier,1.0,3.0
+4170,D,Bordeaux,Lille,1.0,1.0
+4171,D,Rennes,Nancy,1.0,1.0
+4172,H,Lyon,Marseille,2.0,0.0
+4173,D,Evian Thonon Gaillard,Paris SG,2.0,2.0
+4174,H,Valenciennes,Dijon,4.0,0.0
+4175,H,Toulouse,Bordeaux,3.0,2.0
+4176,H,Nice,Ajaccio,3.0,0.0
+4177,H,Lorient,St Etienne,3.0,0.0
+4178,D,Lille,Sochaux,2.0,2.0
+4179,D,Brest,Montpellier,2.0,2.0
+4180,D,Auxerre,Caen,1.0,1.0
+4181,H,Paris SG,Brest,1.0,0.0
+4182,D,Nancy,Auxerre,0.0,0.0
+4183,H,Montpellier,Nice,1.0,0.0
+4184,A,St Etienne,Lille,1.0,3.0
+4185,D,Sochaux,Lorient,1.0,1.0
+4186,A,Marseille,Rennes,0.0,1.0
+4187,A,Dijon,Lyon,1.0,2.0
+4188,A,Caen,Toulouse,0.0,1.0
+4189,D,Bordeaux,Evian Thonon Gaillard,0.0,0.0
+4190,H,Ajaccio,Valenciennes,3.0,1.0
+4191,A,Toulouse,Paris SG,1.0,3.0
+4192,H,Sochaux,St Etienne,2.0,1.0
+4193,H,Rennes,Caen,3.0,2.0
+4194,H,Lille,Marseille,3.0,2.0
+4195,A,Valenciennes,Bordeaux,1.0,2.0
+4196,D,Nice,Brest,0.0,0.0
+4197,H,Lyon,Montpellier,2.0,1.0
+4198,H,Lorient,Nancy,2.0,1.0
+4199,A,Evian Thonon Gaillard,Dijon,0.0,1.0
+4200,H,Auxerre,Ajaccio,4.0,1.0
+4201,H,Paris SG,Valenciennes,2.0,1.0
+4202,A,Nancy,Sochaux,1.0,2.0
+4203,H,Montpellier,Rennes,4.0,0.0
+4204,D,Marseille,St Etienne,0.0,0.0
+4205,D,Nice,Toulouse,1.0,1.0
+4206,H,Dijon,Lorient,2.0,0.0
+4207,A,Caen,Lille,1.0,2.0
+4208,D,Brest,Lyon,1.0,1.0
+4209,D,Bordeaux,Auxerre,1.0,1.0
+4210,D,Ajaccio,Evian Thonon Gaillard,1.0,1.0
+4211,A,Lille,Montpellier,0.0,1.0
+4212,H,Evian Thonon Gaillard,Nice,1.0,0.0
+4213,D,Auxerre,Marseille,2.0,2.0
+4214,D,Valenciennes,Brest,0.0,0.0
+4215,H,Toulouse,Dijon,2.0,0.0
+4216,H,St Etienne,Nancy,1.0,0.0
+4217,A,Sochaux,Caen,1.0,2.0
+4218,D,Rennes,Paris SG,1.0,1.0
+4219,D,Lyon,Ajaccio,1.0,1.0
+4220,D,Lorient,Bordeaux,1.0,1.0
+4221,A,Dijon,Rennes,1.0,5.0
+4222,A,Bordeaux,St Etienne,1.0,2.0
+4223,A,Paris SG,Lorient,0.0,1.0
+4224,A,Nice,Lyon,1.0,3.0
+4225,D,Nancy,Lille,1.0,1.0
+4226,H,Montpellier,Auxerre,3.0,1.0
+4227,D,Marseille,Sochaux,2.0,2.0
+4228,H,Caen,Valenciennes,1.0,0.0
+4229,D,Brest,Evian Thonon Gaillard,2.0,2.0
+4230,A,Ajaccio,Toulouse,0.0,2.0

@@ -1,0 +1,3502 @@
+,FTR,HomeTeam,AwayTeam,FTHG,FTAG
+0,H,Freiburg,Union Berlin,4,1
+1,D,Mainz,Ein Frankfurt,1,1
+2,A,Schalke 04,Bayern Munich,0,2
+3,A,Werder Bremen,RB Leipzig,1,2
+4,H,Leverkusen,Stuttgart,2,0
+5,A,Hoffenheim,Wolfsburg,1,2
+6,H,Hertha,FC Koln,2,0
+7,A,Augsburg,Bochum,0,1
+8,H,M'gladbach,Dortmund,4,2
+9,D,Union Berlin,Augsburg,2,2
+10,H,Schalke 04,Mainz,1,0
+11,H,RB Leipzig,Freiburg,3,1
+12,H,Ein Frankfurt,Hoffenheim,4,2
+13,A,FC Koln,Leverkusen,1,2
+14,H,Stuttgart,Hertha,2,1
+15,H,Bochum,M'gladbach,2,1
+16,H,Bayern Munich,Werder Bremen,6,1
+17,H,Wolfsburg,Dortmund,2,0
+18,H,Freiburg,FC Koln,2,0
+19,H,Leverkusen,Union Berlin,5,0
+20,H,Werder Bremen,Schalke 04,2,1
+21,A,Mainz,Wolfsburg,0,3
+22,A,Hoffenheim,RB Leipzig,1,3
+23,A,Hertha,Bayern Munich,2,3
+24,H,Dortmund,Bochum,3,0
+25,A,Augsburg,Ein Frankfurt,1,2
+26,H,M'gladbach,Stuttgart,3,1
+27,D,FC Koln,Hoffenheim,1,1
+28,A,Schalke 04,Freiburg,0,2
+29,H,Union Berlin,M'gladbach,2,1
+30,A,Ein Frankfurt,Dortmund,1,2
+31,H,Wolfsburg,Bochum,4,0
+32,H,Stuttgart,Augsburg,2,1
+33,H,RB Leipzig,Leverkusen,2,0
+34,H,Bayern Munich,Mainz,6,2
+35,H,Werder Bremen,Hertha,1,0
+36,H,Hertha,Schalke 04,2,1
+37,H,Bochum,Union Berlin,2,1
+38,A,M'gladbach,Ein Frankfurt,1,3
+39,D,Leverkusen,Wolfsburg,2,2
+40,A,Hoffenheim,Bayern Munich,0,2
+41,H,Freiburg,Werder Bremen,2,0
+42,H,Dortmund,Stuttgart,5,0
+43,D,Augsburg,RB Leipzig,3,3
+44,H,Mainz,FC Koln,5,0
+45,H,Bayern Munich,Freiburg,5,0
+46,H,Union Berlin,Dortmund,2,0
+47,H,FC Koln,Augsburg,3,2
+48,H,RB Leipzig,Hertha,3,2
+49,D,Wolfsburg,M'gladbach,2,2
+50,A,Werder Bremen,Mainz,0,2
+51,H,Stuttgart,Bochum,4,1
+52,H,Ein Frankfurt,Leverkusen,5,1
+53,A,Schalke 04,Hoffenheim,0,3
+54,A,Stuttgart,Union Berlin,0,1
+55,D,Hertha,Freiburg,2,2
+56,H,M'gladbach,FC Koln,5,2
+57,D,Dortmund,Bayern Munich,2,2
+58,D,Mainz,RB Leipzig,1,1
+59,H,Leverkusen,Schalke 04,4,0
+60,H,Bochum,Ein Frankfurt,3,0
+61,D,Augsburg,Wolfsburg,1,1
+62,A,Hoffenheim,Werder Bremen,1,2
+63,A,Schalke 04,Augsburg,2,3
+64,D,Hertha,Hoffenheim,1,1
+65,H,Werder Bremen,M'gladbach,5,1
+66,H,Wolfsburg,Stuttgart,3,2
+67,H,RB Leipzig,Bochum,4,0
+68,H,Freiburg,Mainz,2,1
+69,H,FC Koln,Dortmund,3,2
+70,H,Ein Frankfurt,Union Berlin,2,0
+71,H,Bayern Munich,Leverkusen,4,0
+72,D,Hoffenheim,Freiburg,0,0
+73,D,Bochum,FC Koln,1,1
+74,H,Union Berlin,Wolfsburg,2,0
+75,H,M'gladbach,RB Leipzig,3,0
+76,A,Stuttgart,Ein Frankfurt,1,3
+77,D,Leverkusen,Werder Bremen,1,1
+78,H,Dortmund,Schalke 04,1,0
+79,H,Augsburg,Bayern Munich,1,0
+80,D,Mainz,Hertha,1,1
+81,D,Freiburg,M'gladbach,0,0
+82,A,FC Koln,Union Berlin,0,1
+83,H,Schalke 04,Bochum,3,1
+84,H,RB Leipzig,Dortmund,3,0
+85,H,Hoffenheim,Mainz,4,1
+86,D,Hertha,Leverkusen,2,2
+87,A,Ein Frankfurt,Wolfsburg,0,1
+88,D,Bayern Munich,Stuttgart,2,2
+89,A,Werder Bremen,Augsburg,0,1
+90,A,M'gladbach,Mainz,0,1
+91,A,Augsburg,Hertha,0,2
+92,H,Ein Frankfurt,RB Leipzig,4,0
+93,A,Wolfsburg,FC Koln,2,4
+94,D,Union Berlin,Bayern Munich,1,1
+95,D,Stuttgart,Schalke 04,1,1
+96,A,Leverkusen,Freiburg,2,3
+97,A,Bochum,Werder Bremen,0,2
+98,H,Dortmund,Hoffenheim,1,0
+99,A,Werder Bremen,Ein Frankfurt,3,4
+100,D,FC Koln,Stuttgart,0,0
+101,D,Bayern Munich,M'gladbach,1,1
+102,A,Schalke 04,Union Berlin,1,6
+103,H,RB Leipzig,Wolfsburg,2,0
+104,A,Mainz,Leverkusen,0,3
+105,H,Hoffenheim,Augsburg,1,0
+106,A,Hertha,Dortmund,0,1
+107,H,Freiburg,Bochum,1,0
+108,A,Bochum,Bayern Munich,0,7
+109,D,Ein Frankfurt,FC Koln,1,1
+110,H,Union Berlin,RB Leipzig,2,1
+111,D,Wolfsburg,Schalke 04,0,0
+112,A,Stuttgart,Freiburg,0,1
+113,A,Leverkusen,Hoffenheim,0,3
+114,A,Dortmund,Werder Bremen,2,3
+115,A,Augsburg,Mainz,1,2
+116,H,M'gladbach,Hertha,1,0
+117,H,Bayern Munich,Wolfsburg,2,0
+118,D,Mainz,Union Berlin,0,0
+119,D,Schalke 04,M'gladbach,2,2
+120,D,Werder Bremen,Stuttgart,2,2
+121,D,RB Leipzig,FC Koln,2,2
+122,A,Leverkusen,Augsburg,1,2
+123,H,Hoffenheim,Bochum,3,2
+124,D,Hertha,Ein Frankfurt,1,1
+125,A,Freiburg,Dortmund,1,3
+126,H,FC Koln,Schalke 04,3,1
+127,D,Stuttgart,RB Leipzig,1,1
+128,H,Dortmund,Leverkusen,1,0
+129,D,Wolfsburg,Werder Bremen,2,2
+130,H,Union Berlin,Hertha,3,1
+131,H,M'gladbach,Hoffenheim,3,1
+132,A,Bochum,Mainz,1,2
+133,A,Augsburg,Freiburg,0,4
+134,A,Ein Frankfurt,Bayern Munich,1,6
+135,D,Wolfsburg,Bayern Munich,2,2
+136,H,Union Berlin,Bochum,3,2
+137,H,Stuttgart,FC Koln,2,1
+138,H,M'gladbach,Hoffenheim,5,1
+139,D,Mainz,Ein Frankfurt,2,2
+140,H,Leverkusen,Freiburg,2,1
+141,H,Dortmund,Hertha,2,1
+142,D,Bielefeld,RB Leipzig,1,1
+143,H,Augsburg,Greuther Furth,2,1
+144,H,RB Leipzig,Augsburg,4,0
+145,D,Bayern Munich,Stuttgart,2,2
+146,D,Ein Frankfurt,M'gladbach,1,1
+147,A,Hertha,Mainz,1,2
+148,A,Hoffenheim,Leverkusen,2,4
+149,A,Greuther Furth,Dortmund,1,3
+150,A,Freiburg,Union Berlin,1,4
+151,A,FC Koln,Wolfsburg,0,1
+152,H,Bochum,Bielefeld,2,1
+153,H,M'gladbach,RB Leipzig,3,1
+154,H,Leverkusen,Ein Frankfurt,2,0
+155,A,Hoffenheim,Freiburg,3,4
+156,D,Stuttgart,Wolfsburg,1,1
+157,H,Mainz,Bayern Munich,3,1
+158,A,Dortmund,Bochum,3,4
+159,D,Bielefeld,Hertha,1,1
+160,A,Augsburg,FC Koln,1,4
+161,D,Union Berlin,Greuther Furth,1,1
+162,H,Hertha,Stuttgart,2,0
+163,A,Bochum,Augsburg,0,2
+164,H,Bayern Munich,Dortmund,3,1
+165,A,RB Leipzig,Union Berlin,1,2
+166,A,Greuther Furth,Leverkusen,1,4
+167,D,Freiburg,M'gladbach,3,3
+168,H,FC Koln,Bielefeld,3,1
+169,D,Ein Frankfurt,Hoffenheim,2,2
+170,H,Wolfsburg,Mainz,5,0
+171,A,Leverkusen,RB Leipzig,0,1
+172,H,Union Berlin,Ein Frankfurt,2,0
+173,D,Hoffenheim,Greuther Furth,0,0
+174,A,Bielefeld,Bayern Munich,0,3
+175,A,M'gladbach,FC Koln,1,3
+176,D,Mainz,Stuttgart,0,0
+177,H,Freiburg,Bochum,3,0
+178,H,Dortmund,Wolfsburg,6,1
+179,A,Augsburg,Hertha,0,1
+180,H,RB Leipzig,Hoffenheim,3,0
+181,A,Ein Frankfurt,Freiburg,1,2
+182,D,Bochum,Leverkusen,0,0
+183,A,Hertha,Union Berlin,1,4
+184,H,Wolfsburg,Bielefeld,4,0
+185,A,Greuther Furth,M'gladbach,0,2
+186,H,FC Koln,Mainz,3,2
+187,H,Bayern Munich,Augsburg,1,0
+188,A,Stuttgart,Dortmund,0,2
+189,H,Augsburg,Mainz,2,1
+190,D,M'gladbach,Mainz,1,1
+191,H,Augsburg,Wolfsburg,3,0
+192,A,Dortmund,RB Leipzig,1,4
+193,H,Leverkusen,Hertha,2,1
+194,A,Hoffenheim,Bochum,1,2
+195,A,Freiburg,Bayern Munich,1,4
+196,D,Ein Frankfurt,Greuther Furth,0,0
+197,D,Bielefeld,Stuttgart,1,1
+198,H,Union Berlin,FC Koln,1,0
+199,D,FC Koln,Dortmund,1,1
+200,A,Wolfsburg,Leverkusen,0,2
+201,D,RB Leipzig,Ein Frankfurt,0,0
+202,H,Bayern Munich,Union Berlin,4,0
+203,H,Stuttgart,Augsburg,3,2
+204,H,Mainz,Bielefeld,4,0
+205,H,Hertha,Hoffenheim,3,0
+206,D,Greuther Furth,Freiburg,0,0
+207,A,Bochum,M'gladbach,0,2
+208,A,Mainz,Dortmund,0,1
+209,A,Greuther Furth,RB Leipzig,1,6
+210,H,Ein Frankfurt,Bochum,2,1
+211,H,Dortmund,Bielefeld,1,0
+212,A,Leverkusen,FC Koln,0,1
+213,H,M'gladbach,Hertha,2,0
+214,D,Union Berlin,Stuttgart,1,1
+215,D,Hoffenheim,Bayern Munich,1,1
+216,H,Freiburg,Wolfsburg,3,2
+217,A,FC Koln,Hoffenheim,0,1
+218,H,Stuttgart,M'gladbach,3,2
+219,H,Wolfsburg,Union Berlin,1,0
+220,D,RB Leipzig,Freiburg,1,1
+221,A,Hertha,Ein Frankfurt,1,4
+222,H,Bochum,Greuther Furth,2,1
+223,D,Bayern Munich,Leverkusen,1,1
+224,A,Bielefeld,Augsburg,0,1
+225,D,Augsburg,Dortmund,1,1
+226,A,Bochum,RB Leipzig,0,1
+227,A,Ein Frankfurt,Bayern Munich,0,1
+228,H,Union Berlin,Mainz,3,1
+229,D,M'gladbach,Wolfsburg,2,2
+230,H,Leverkusen,Bielefeld,3,0
+231,D,Greuther Furth,FC Koln,1,1
+232,H,Freiburg,Hertha,3,0
+233,H,Hoffenheim,Stuttgart,2,1
+234,A,Hertha,RB Leipzig,1,6
+235,H,Dortmund,M'gladbach,6,0
+236,H,Bayern Munich,Greuther Furth,4,1
+237,H,FC Koln,Ein Frankfurt,1,0
+238,A,Wolfsburg,Hoffenheim,1,2
+239,D,Stuttgart,Bochum,1,1
+240,H,Bielefeld,Union Berlin,1,0
+241,A,Augsburg,Freiburg,1,2
+242,H,Mainz,Leverkusen,3,2
+243,H,Hoffenheim,Bielefeld,2,0
+244,A,Union Berlin,Dortmund,0,3
+245,H,Leverkusen,Stuttgart,4,2
+246,H,M'gladbach,Augsburg,3,2
+247,H,Greuther Furth,Hertha,2,1
+248,D,Freiburg,Mainz,1,1
+249,A,Ein Frankfurt,Wolfsburg,0,2
+250,H,Bochum,Bayern Munich,4,2
+251,H,RB Leipzig,FC Koln,3,1
+252,H,Wolfsburg,Greuther Furth,4,1
+253,A,Dortmund,Leverkusen,2,5
+254,H,Bayern Munich,RB Leipzig,3,2
+255,A,Stuttgart,Ein Frankfurt,2,3
+256,H,Mainz,Hoffenheim,2,0
+257,H,FC Koln,Freiburg,1,0
+258,D,Bielefeld,M'gladbach,1,1
+259,H,Augsburg,Union Berlin,2,0
+260,D,Hertha,Bochum,1,1
+261,A,Hertha,Bayern Munich,1,4
+262,H,RB Leipzig,Wolfsburg,2,0
+263,D,Bochum,FC Koln,2,2
+264,A,M'gladbach,Union Berlin,1,2
+265,H,Leverkusen,Augsburg,5,1
+266,A,Hoffenheim,Dortmund,2,3
+267,H,Greuther Furth,Mainz,2,1
+268,H,Freiburg,Stuttgart,2,0
+269,A,Ein Frankfurt,Bielefeld,0,2
+270,D,Bielefeld,Greuther Furth,2,2
+271,D,Augsburg,Ein Frankfurt,1,1
+272,A,M'gladbach,Leverkusen,1,2
+273,D,Wolfsburg,Hertha,0,0
+274,H,Union Berlin,Hoffenheim,2,1
+275,A,Stuttgart,RB Leipzig,0,2
+276,H,Mainz,Bochum,1,0
+277,A,FC Koln,Bayern Munich,0,4
+278,H,Dortmund,Freiburg,5,1
+279,H,Bochum,Wolfsburg,1,0
+280,A,Hertha,FC Koln,1,3
+281,A,Ein Frankfurt,Dortmund,2,3
+282,H,RB Leipzig,Mainz,4,1
+283,D,Leverkusen,Union Berlin,2,2
+284,H,Hoffenheim,Augsburg,3,1
+285,D,Greuther Furth,Stuttgart,0,0
+286,D,Freiburg,Bielefeld,2,2
+287,A,Bayern Munich,M'gladbach,1,2
+288,H,FC Koln,Stuttgart,1,0
+289,H,Freiburg,Leverkusen,2,1
+290,H,Hertha,Dortmund,3,2
+291,A,RB Leipzig,Bielefeld,0,2
+292,D,Hoffenheim,M'gladbach,1,1
+293,D,Greuther Furth,Augsburg,0,0
+294,H,Ein Frankfurt,Mainz,1,0
+295,A,Bochum,Union Berlin,0,1
+296,H,Bayern Munich,Wolfsburg,4,0
+297,D,Union Berlin,Freiburg,0,0
+298,D,Leverkusen,Hoffenheim,2,2
+299,H,Dortmund,Greuther Furth,3,0
+300,D,Augsburg,RB Leipzig,1,1
+301,A,M'gladbach,Ein Frankfurt,2,3
+302,A,Wolfsburg,FC Koln,2,3
+303,H,Mainz,Hertha,4,0
+304,H,Bielefeld,Bochum,2,0
+305,A,Stuttgart,Bayern Munich,0,5
+306,H,Ein Frankfurt,Leverkusen,5,2
+307,H,Greuther Furth,Union Berlin,1,0
+308,A,Wolfsburg,Stuttgart,0,2
+309,H,RB Leipzig,M'gladbach,4,1
+310,H,Hertha,Bielefeld,2,0
+311,A,Freiburg,Hoffenheim,1,2
+312,D,Bochum,Dortmund,1,1
+313,H,Bayern Munich,Mainz,2,1
+314,A,FC Koln,Augsburg,0,2
+315,A,M'gladbach,Freiburg,0,6
+316,D,Stuttgart,Hertha,2,2
+317,A,Dortmund,Bayern Munich,2,3
+318,H,Mainz,Wolfsburg,3,0
+319,H,Leverkusen,Greuther Furth,7,1
+320,H,Hoffenheim,Ein Frankfurt,3,2
+321,D,Bielefeld,FC Koln,1,1
+322,A,Augsburg,Bochum,2,3
+323,H,Union Berlin,RB Leipzig,2,1
+324,A,RB Leipzig,Leverkusen,1,3
+325,H,Ein Frankfurt,Union Berlin,2,1
+326,H,Bayern Munich,Bielefeld,1,0
+327,A,Wolfsburg,Dortmund,1,3
+328,D,Hertha,Augsburg,1,1
+329,A,Greuther Furth,Hoffenheim,3,6
+330,H,FC Koln,M'gladbach,4,1
+331,H,Bochum,Freiburg,2,1
+332,H,Stuttgart,Mainz,2,1
+333,D,Mainz,FC Koln,1,1
+334,A,Freiburg,Ein Frankfurt,0,2
+335,H,Union Berlin,Hertha,2,0
+336,H,M'gladbach,Greuther Furth,4,0
+337,H,Leverkusen,Bochum,1,0
+338,H,Hoffenheim,RB Leipzig,2,0
+339,H,Dortmund,Stuttgart,2,1
+340,D,Bielefeld,Wolfsburg,2,2
+341,H,Augsburg,Bayern Munich,2,1
+342,A,Greuther Furth,Ein Frankfurt,1,2
+343,D,FC Koln,Union Berlin,2,2
+344,D,Hertha,Leverkusen,1,1
+345,H,RB Leipzig,Dortmund,2,1
+346,H,Wolfsburg,Augsburg,1,0
+347,A,Stuttgart,Bielefeld,0,1
+348,H,Bochum,Hoffenheim,2,0
+349,H,Bayern Munich,Freiburg,2,1
+350,D,Mainz,M'gladbach,1,1
+351,H,M'gladbach,Bochum,2,1
+352,H,Augsburg,Stuttgart,4,1
+353,D,Ein Frankfurt,RB Leipzig,1,1
+354,A,Union Berlin,Bayern Munich,2,5
+355,A,Leverkusen,Wolfsburg,0,2
+356,H,Freiburg,Greuther Furth,3,1
+357,H,Dortmund,FC Koln,2,0
+358,A,Bielefeld,Mainz,1,2
+359,H,Hoffenheim,Hertha,2,0
+360,H,Bochum,Ein Frankfurt,2,0
+361,D,Stuttgart,Union Berlin,1,1
+362,D,FC Koln,Leverkusen,2,2
+363,H,Hertha,M'gladbach,1,0
+364,A,Wolfsburg,Freiburg,0,2
+365,H,RB Leipzig,Greuther Furth,4,1
+366,A,Bielefeld,Dortmund,1,3
+367,H,Bayern Munich,Hoffenheim,4,0
+368,H,Mainz,Augsburg,4,1
+369,D,Augsburg,Bielefeld,1,1
+370,A,Leverkusen,Bayern Munich,1,5
+371,D,M'gladbach,Stuttgart,1,1
+372,H,Union Berlin,Wolfsburg,2,0
+373,A,Greuther Furth,Bochum,0,1
+374,D,Freiburg,RB Leipzig,1,1
+375,A,Ein Frankfurt,Hertha,1,2
+376,H,Dortmund,Mainz,3,1
+377,H,Hoffenheim,FC Koln,5,0
+378,A,Bielefeld,Leverkusen,0,4
+379,A,Bayern Munich,Ein Frankfurt,1,2
+380,A,Mainz,Union Berlin,1,2
+381,H,RB Leipzig,Bochum,3,0
+382,A,Wolfsburg,M'gladbach,1,3
+383,H,Stuttgart,Hoffenheim,3,1
+384,A,Hertha,Freiburg,1,2
+385,H,Dortmund,Augsburg,2,1
+386,H,FC Koln,Greuther Furth,3,1
+387,H,Freiburg,Augsburg,3,0
+388,D,Bochum,Stuttgart,0,0
+389,H,M'gladbach,Dortmund,1,0
+390,H,Union Berlin,Bielefeld,1,0
+391,H,RB Leipzig,Hertha,6,0
+392,H,Leverkusen,Mainz,1,0
+393,H,Hoffenheim,Wolfsburg,3,1
+394,D,Ein Frankfurt,FC Koln,1,1
+395,A,Greuther Furth,Bayern Munich,1,3
+396,D,Wolfsburg,Ein Frankfurt,1,1
+397,H,Dortmund,Union Berlin,4,2
+398,A,Stuttgart,Leverkusen,1,3
+399,D,FC Koln,RB Leipzig,1,1
+400,D,Mainz,Freiburg,0,0
+401,D,Bielefeld,Hoffenheim,0,0
+402,H,Bayern Munich,Bochum,7,0
+403,H,Augsburg,M'gladbach,1,0
+404,H,Hertha,Greuther Furth,2,1
+405,H,M'gladbach,Bielefeld,3,1
+406,A,Bochum,Hertha,1,3
+407,D,Ein Frankfurt,Stuttgart,1,1
+408,A,RB Leipzig,Bayern Munich,1,4
+409,D,Union Berlin,Augsburg,0,0
+410,A,Leverkusen,Dortmund,3,4
+411,A,Hoffenheim,Mainz,0,2
+412,A,Greuther Furth,Wolfsburg,0,2
+413,D,Freiburg,FC Koln,1,1
+414,H,Wolfsburg,RB Leipzig,1,0
+415,H,Union Berlin,M'gladbach,2,1
+416,H,Bayern Munich,Hertha,5,0
+417,A,Stuttgart,Freiburg,2,3
+418,H,Mainz,Greuther Furth,3,0
+419,H,FC Koln,Bochum,2,1
+420,D,Bielefeld,Ein Frankfurt,1,1
+421,A,Augsburg,Leverkusen,1,4
+422,H,Dortmund,Hoffenheim,3,2
+423,H,Bayern Munich,FC Koln,3,2
+424,D,Hoffenheim,Union Berlin,2,2
+425,H,Leverkusen,M'gladbach,4,0
+426,A,Hertha,Wolfsburg,1,2
+427,D,Greuther Furth,Bielefeld,1,1
+428,H,Freiburg,Dortmund,2,1
+429,D,Ein Frankfurt,Augsburg,0,0
+430,H,Bochum,Mainz,2,0
+431,H,RB Leipzig,Stuttgart,4,0
+432,H,FC Koln,Hertha,3,1
+433,H,Mainz,RB Leipzig,1,0
+434,H,Dortmund,Ein Frankfurt,5,2
+435,H,Wolfsburg,Bochum,1,0
+436,D,Union Berlin,Leverkusen,1,1
+437,H,Stuttgart,Greuther Furth,5,1
+438,D,Bielefeld,Freiburg,0,0
+439,A,Augsburg,Hoffenheim,0,4
+440,D,M'gladbach,Bayern Munich,1,1
+441,A,Wolfsburg,Mainz,2,3
+442,A,Werder Bremen,M'gladbach,2,4
+443,H,Union Berlin,RB Leipzig,2,1
+444,A,Stuttgart,Bielefeld,0,2
+445,H,Hoffenheim,Hertha,2,1
+446,H,FC Koln,Schalke 04,1,0
+447,H,Ein Frankfurt,Freiburg,3,1
+448,H,Dortmund,Leverkusen,3,1
+449,H,Bayern Munich,Augsburg,5,2
+450,D,RB Leipzig,Wolfsburg,2,2
+451,A,Mainz,Dortmund,1,3
+452,H,Schalke 04,Ein Frankfurt,4,3
+453,A,M'gladbach,Stuttgart,1,2
+454,D,Leverkusen,Union Berlin,1,1
+455,D,Hertha,FC Koln,0,0
+456,D,Freiburg,Bayern Munich,2,2
+457,D,Bielefeld,Hoffenheim,1,1
+458,H,Augsburg,Werder Bremen,2,0
+459,A,Schalke 04,Hertha,1,2
+460,D,Hertha,Bielefeld,0,0
+461,D,Ein Frankfurt,Mainz,1,1
+462,A,FC Koln,Freiburg,1,4
+463,H,Bayern Munich,M'gladbach,6,0
+464,H,Wolfsburg,Union Berlin,3,0
+465,D,Werder Bremen,Leverkusen,0,0
+466,H,Hoffenheim,Schalke 04,4,2
+467,H,Dortmund,RB Leipzig,3,2
+468,H,Stuttgart,Augsburg,2,1
+469,H,Hertha,Freiburg,3,0
+470,D,Mainz,Hertha,1,1
+471,H,M'gladbach,Bielefeld,5,0
+472,H,RB Leipzig,Stuttgart,2,0
+473,H,Leverkusen,Ein Frankfurt,3,1
+474,A,Wolfsburg,Dortmund,0,2
+475,H,Union Berlin,Werder Bremen,3,1
+476,H,Mainz,Bayern Munich,2,1
+477,D,Freiburg,Hoffenheim,1,1
+478,A,Augsburg,FC Koln,2,3
+479,A,Werder Bremen,Mainz,0,1
+480,A,Stuttgart,Wolfsburg,1,3
+481,H,Hoffenheim,M'gladbach,3,2
+482,H,Dortmund,Union Berlin,2,0
+483,H,Ein Frankfurt,Augsburg,2,0
+484,H,Bielefeld,Schalke 04,1,0
+485,H,Bayern Munich,Leverkusen,2,0
+486,H,FC Koln,RB Leipzig,2,1
+487,H,Dortmund,Werder Bremen,4,1
+488,H,Leverkusen,FC Koln,3,0
+489,A,Wolfsburg,Bayern Munich,2,3
+490,H,Union Berlin,Stuttgart,2,1
+491,H,M'gladbach,Ein Frankfurt,4,0
+492,H,Freiburg,Schalke 04,4,0
+493,D,Augsburg,Bielefeld,0,0
+494,D,RB Leipzig,Hoffenheim,0,0
+495,D,Hoffenheim,Leverkusen,0,0
+496,A,FC Koln,Mainz,2,3
+497,H,Schalke 04,Augsburg,1,0
+498,A,Stuttgart,Dortmund,2,3
+499,A,Werder Bremen,RB Leipzig,1,4
+500,D,Hertha,M'gladbach,2,2
+501,H,Ein Frankfurt,Wolfsburg,4,3
+502,D,Bayern Munich,Union Berlin,1,1
+503,H,Bielefeld,Freiburg,1,0
+504,D,Union Berlin,Hertha,1,1
+505,H,Stuttgart,Werder Bremen,1,0
+506,H,M'gladbach,Freiburg,2,1
+507,A,RB Leipzig,Bayern Munich,0,1
+508,H,Wolfsburg,FC Koln,1,0
+509,D,Mainz,Bielefeld,1,1
+510,H,Leverkusen,Schalke 04,2,1
+511,A,Dortmund,Ein Frankfurt,1,2
+512,H,Augsburg,Hoffenheim,2,1
+513,H,Freiburg,Augsburg,2,0
+514,H,Hertha,Leverkusen,3,0
+515,A,Hoffenheim,Mainz,1,2
+516,A,Schalke 04,M'gladbach,0,3
+517,A,Werder Bremen,Wolfsburg,1,2
+518,D,FC Koln,Dortmund,2,2
+519,H,Ein Frankfurt,Union Berlin,5,2
+520,H,Bayern Munich,Stuttgart,4,0
+521,A,Bielefeld,RB Leipzig,0,1
+522,H,Stuttgart,Hoffenheim,2,0
+523,D,RB Leipzig,Ein Frankfurt,1,1
+524,A,Leverkusen,Bielefeld,1,2
+525,H,Dortmund,Hertha,2,0
+526,H,Wolfsburg,Schalke 04,5,0
+527,A,Werder Bremen,Bayern Munich,1,3
+528,H,Union Berlin,FC Koln,2,1
+529,H,Mainz,Freiburg,1,0
+530,H,Augsburg,M'gladbach,3,1
+531,A,Bielefeld,Werder Bremen,0,2
+532,D,Bielefeld,Union Berlin,0,0
+533,D,FC Koln,Werder Bremen,1,1
+534,H,Bayern Munich,Dortmund,4,2
+535,A,M'gladbach,Leverkusen,0,1
+536,H,Hoffenheim,Wolfsburg,2,1
+537,H,Hertha,Augsburg,2,1
+538,A,Freiburg,RB Leipzig,0,3
+539,D,Ein Frankfurt,Stuttgart,1,1
+540,D,Schalke 04,Mainz,0,0
+541,A,Leverkusen,Freiburg,1,2
+542,A,Mainz,Augsburg,0,1
+543,D,Union Berlin,Hoffenheim,1,1
+544,H,RB Leipzig,M'gladbach,3,2
+545,H,Wolfsburg,Hertha,2,0
+546,H,Stuttgart,Schalke 04,5,1
+547,H,Dortmund,Bielefeld,3,0
+548,H,Bayern Munich,FC Koln,5,1
+549,H,Werder Bremen,Ein Frankfurt,2,1
+550,H,Hoffenheim,Werder Bremen,4,0
+551,A,Hertha,RB Leipzig,0,3
+552,D,Augsburg,Leverkusen,1,1
+553,A,Schalke 04,Dortmund,0,4
+554,A,M'gladbach,Mainz,1,2
+555,A,Freiburg,Union Berlin,0,1
+556,A,FC Koln,Stuttgart,0,1
+557,H,Ein Frankfurt,Bayern Munich,2,1
+558,A,Bielefeld,Wolfsburg,0,3
+559,D,Bayern Munich,Bielefeld,3,3
+560,D,Wolfsburg,M'gladbach,0,0
+561,H,Ein Frankfurt,FC Koln,2,0
+562,D,Union Berlin,Schalke 04,0,0
+563,D,Werder Bremen,Freiburg,0,0
+564,D,Stuttgart,Hertha,1,1
+565,D,Leverkusen,Mainz,2,2
+566,D,Dortmund,Hoffenheim,2,2
+567,H,RB Leipzig,Augsburg,2,1
+568,A,Hoffenheim,Ein Frankfurt,1,3
+569,A,M'gladbach,FC Koln,1,2
+570,A,Schalke 04,RB Leipzig,0,3
+571,H,Mainz,Union Berlin,1,0
+572,H,Leverkusen,Stuttgart,5,2
+573,H,Freiburg,Dortmund,2,1
+574,A,Augsburg,Wolfsburg,0,2
+575,A,Hertha,Bayern Munich,0,1
+576,H,Wolfsburg,Freiburg,3,0
+577,H,FC Koln,Bielefeld,3,1
+578,H,RB Leipzig,Leverkusen,1,0
+579,D,Werder Bremen,Schalke 04,1,1
+580,D,Union Berlin,M'gladbach,1,1
+581,H,Ein Frankfurt,Hertha,3,1
+582,H,Dortmund,Augsburg,3,1
+583,H,Bayern Munich,Hoffenheim,4,1
+584,H,Stuttgart,Mainz,2,0
+585,H,Hoffenheim,FC Koln,3,0
+586,A,Schalke 04,Bayern Munich,0,4
+587,A,Hertha,Werder Bremen,1,4
+588,H,Mainz,RB Leipzig,3,2
+589,A,Leverkusen,Wolfsburg,0,1
+590,H,Freiburg,Stuttgart,2,1
+591,A,Bielefeld,Ein Frankfurt,1,5
+592,H,Augsburg,Union Berlin,2,1
+593,H,M'gladbach,Dortmund,4,2
+594,H,RB Leipzig,Union Berlin,1,0
+595,D,Freiburg,Ein Frankfurt,2,2
+596,H,Bielefeld,Stuttgart,3,0
+597,A,Augsburg,Bayern Munich,0,1
+598,A,Schalke 04,FC Koln,1,2
+599,A,Mainz,Wolfsburg,0,2
+600,H,Leverkusen,Dortmund,2,1
+601,A,Hertha,Hoffenheim,0,3
+602,H,M'gladbach,Werder Bremen,1,0
+603,H,Ein Frankfurt,Schalke 04,3,1
+604,H,Bayern Munich,Freiburg,2,1
+605,D,Stuttgart,M'gladbach,2,2
+606,D,Wolfsburg,RB Leipzig,2,2
+607,H,Werder Bremen,Augsburg,2,0
+608,D,Hoffenheim,Bielefeld,0,0
+609,D,FC Koln,Hertha,0,0
+610,D,Dortmund,Mainz,1,1
+611,H,Union Berlin,Leverkusen,1,0
+612,H,Bielefeld,Hertha,1,0
+613,A,Augsburg,Stuttgart,1,4
+614,A,RB Leipzig,Dortmund,1,3
+615,D,Union Berlin,Wolfsburg,2,2
+616,H,Schalke 04,Hoffenheim,4,0
+617,A,Mainz,Ein Frankfurt,0,2
+618,D,Leverkusen,Werder Bremen,1,1
+619,H,Freiburg,FC Koln,5,0
+620,H,M'gladbach,Bayern Munich,3,2
+621,H,Bayern Munich,Mainz,5,2
+622,H,Dortmund,Wolfsburg,2,0
+623,A,Stuttgart,RB Leipzig,0,1
+624,H,Hertha,Schalke 04,3,0
+625,A,Werder Bremen,Union Berlin,0,2
+626,A,Hoffenheim,Freiburg,1,3
+627,A,FC Koln,Augsburg,0,1
+628,H,Ein Frankfurt,Leverkusen,2,1
+629,A,Bielefeld,M'gladbach,0,1
+630,H,Wolfsburg,Stuttgart,1,0
+631,H,Freiburg,Hertha,4,1
+632,A,Leverkusen,Bayern Munich,1,2
+633,A,Schalke 04,Bielefeld,0,1
+634,D,RB Leipzig,FC Koln,0,0
+635,A,M'gladbach,Hoffenheim,1,2
+636,A,Mainz,Werder Bremen,0,1
+637,A,Augsburg,Ein Frankfurt,0,2
+638,H,Union Berlin,Dortmund,2,1
+639,A,Hoffenheim,RB Leipzig,0,1
+640,A,FC Koln,Leverkusen,0,4
+641,A,Bielefeld,Augsburg,0,1
+642,H,Bayern Munich,Wolfsburg,2,1
+643,A,Schalke 04,Freiburg,0,2
+644,A,Werder Bremen,Dortmund,1,2
+645,D,Stuttgart,Union Berlin,2,2
+646,D,Hertha,Mainz,0,0
+647,D,Ein Frankfurt,M'gladbach,3,3
+648,H,Leverkusen,Hoffenheim,4,1
+649,D,Augsburg,Schalke 04,2,2
+650,D,Union Berlin,Bayern Munich,1,1
+651,H,RB Leipzig,Werder Bremen,2,0
+652,D,M'gladbach,Hertha,1,1
+653,A,Mainz,FC Koln,0,1
+654,H,Freiburg,Bielefeld,2,0
+655,A,Dortmund,Stuttgart,1,5
+656,H,Wolfsburg,Ein Frankfurt,2,1
+657,H,Hoffenheim,Augsburg,3,1
+658,A,Schalke 04,Leverkusen,0,3
+659,A,Werder Bremen,Stuttgart,1,2
+660,D,Bayern Munich,RB Leipzig,3,3
+661,D,Freiburg,M'gladbach,2,2
+662,D,FC Koln,Wolfsburg,2,2
+663,D,Ein Frankfurt,Dortmund,1,1
+664,H,Bielefeld,Mainz,2,1
+665,H,Hertha,Union Berlin,3,1
+666,D,Mainz,Hoffenheim,1,1
+667,D,Leverkusen,Hertha,0,0
+668,H,M'gladbach,Schalke 04,4,1
+669,D,Union Berlin,Ein Frankfurt,3,3
+670,A,Stuttgart,Bayern Munich,1,3
+671,H,RB Leipzig,Bielefeld,2,1
+672,A,Dortmund,FC Koln,1,2
+673,D,Augsburg,Freiburg,1,1
+674,H,Wolfsburg,Werder Bremen,5,3
+675,A,FC Koln,Union Berlin,1,2
+676,A,Freiburg,Mainz,1,3
+677,A,Hertha,Dortmund,2,5
+678,D,Ein Frankfurt,RB Leipzig,1,1
+679,A,Schalke 04,Wolfsburg,0,2
+680,D,M'gladbach,Augsburg,1,1
+681,D,Hoffenheim,Stuttgart,3,3
+682,A,Bielefeld,Leverkusen,1,2
+683,D,Bayern Munich,Werder Bremen,1,1
+684,H,Leverkusen,M'gladbach,4,3
+685,H,Wolfsburg,Hoffenheim,2,1
+686,A,Dortmund,Bayern Munich,2,3
+687,H,Union Berlin,Bielefeld,5,0
+688,D,Stuttgart,Ein Frankfurt,2,2
+689,H,RB Leipzig,Freiburg,3,0
+690,D,Mainz,Schalke 04,2,2
+691,A,Augsburg,Hertha,0,3
+692,D,Werder Bremen,FC Koln,1,1
+693,A,Hoffenheim,Union Berlin,1,3
+694,D,Hertha,Wolfsburg,1,1
+695,A,Freiburg,Leverkusen,2,4
+696,H,M'gladbach,RB Leipzig,1,0
+697,A,FC Koln,Bayern Munich,1,2
+698,D,Ein Frankfurt,Werder Bremen,1,1
+699,A,Bielefeld,Dortmund,0,2
+700,H,Augsburg,Mainz,3,1
+701,D,Schalke 04,Stuttgart,1,1
+702,H,Leverkusen,Augsburg,3,1
+703,D,Werder Bremen,Hoffenheim,1,1
+704,H,Wolfsburg,Bielefeld,2,1
+705,H,Dortmund,Schalke 04,3,0
+706,D,Union Berlin,Freiburg,1,1
+707,H,RB Leipzig,Hertha,2,1
+708,A,Mainz,M'gladbach,2,3
+709,H,Bayern Munich,Ein Frankfurt,5,0
+710,D,Stuttgart,FC Koln,1,1
+711,D,Schalke 04,Union Berlin,1,1
+712,D,FC Koln,Ein Frankfurt,1,1
+713,D,M'gladbach,Wolfsburg,1,1
+714,A,Bielefeld,Bayern Munich,1,4
+715,A,Mainz,Leverkusen,0,1
+716,A,Hoffenheim,Dortmund,0,1
+717,A,Hertha,Stuttgart,0,2
+718,D,Freiburg,Werder Bremen,1,1
+719,A,Augsburg,RB Leipzig,0,2
+720,H,Bayern Munich,Hertha,4,3
+721,D,Wolfsburg,Augsburg,0,0
+722,H,RB Leipzig,Schalke 04,4,0
+723,H,Werder Bremen,Bielefeld,1,0
+724,D,Stuttgart,Leverkusen,1,1
+725,A,FC Koln,M'gladbach,1,3
+726,H,Ein Frankfurt,Hoffenheim,2,1
+727,H,Dortmund,Freiburg,4,0
+728,H,Union Berlin,Mainz,4,0
+729,D,Freiburg,Wolfsburg,1,1
+730,H,Hoffenheim,Bayern Munich,4,1
+731,A,Schalke 04,Werder Bremen,1,3
+732,D,M'gladbach,Union Berlin,1,1
+733,A,Mainz,Stuttgart,1,4
+734,D,Leverkusen,RB Leipzig,1,1
+735,H,Bielefeld,FC Koln,1,0
+736,H,Augsburg,Dortmund,2,0
+737,A,Hertha,Ein Frankfurt,1,3
+738,D,Wolfsburg,Leverkusen,0,0
+739,H,RB Leipzig,Mainz,3,1
+740,H,Dortmund,M'gladbach,3,0
+741,A,Werder Bremen,Hertha,1,4
+742,A,Union Berlin,Augsburg,1,3
+743,A,Stuttgart,Freiburg,2,3
+744,A,FC Koln,Hoffenheim,2,3
+745,D,Ein Frankfurt,Bielefeld,1,1
+746,H,Bayern Munich,Schalke 04,8,0
+747,A,Wolfsburg,Bayern Munich,0,4
+748,H,Werder Bremen,FC Koln,6,1
+749,H,Union Berlin,Fortuna Dusseldorf,3,0
+750,H,M'gladbach,Hertha,2,1
+751,H,Leverkusen,Mainz,1,0
+752,H,Freiburg,Schalke 04,4,0
+753,H,Ein Frankfurt,Paderborn,3,2
+754,A,Dortmund,Hoffenheim,0,4
+755,A,Augsburg,RB Leipzig,1,2
+756,A,Schalke 04,Wolfsburg,1,4
+757,A,RB Leipzig,Dortmund,0,2
+758,A,Paderborn,M'gladbach,1,3
+759,H,Mainz,Werder Bremen,3,1
+760,H,Hoffenheim,Union Berlin,4,0
+761,H,Hertha,Leverkusen,2,0
+762,D,Fortuna Dusseldorf,Augsburg,1,1
+763,D,FC Koln,Ein Frankfurt,1,1
+764,H,Bayern Munich,Freiburg,3,1
+765,D,RB Leipzig,Fortuna Dusseldorf,2,2
+766,H,Leverkusen,FC Koln,3,1
+767,A,Dortmund,Mainz,0,2
+768,A,Augsburg,Hoffenheim,1,3
+769,H,Ein Frankfurt,Schalke 04,2,1
+770,A,Werder Bremen,Bayern Munich,0,1
+771,H,Union Berlin,Paderborn,1,0
+772,H,Freiburg,Hertha,2,1
+773,H,M'gladbach,Wolfsburg,3,0
+774,D,Schalke 04,Leverkusen,1,1
+775,A,Mainz,Augsburg,0,1
+776,H,Bayern Munich,M'gladbach,2,1
+777,D,Wolfsburg,Freiburg,2,2
+778,A,Paderborn,Werder Bremen,1,5
+779,A,Hertha,Ein Frankfurt,1,4
+780,A,Fortuna Dusseldorf,Dortmund,0,1
+781,A,FC Koln,Union Berlin,1,2
+782,A,Hoffenheim,RB Leipzig,0,2
+783,D,Augsburg,FC Koln,1,1
+784,D,Union Berlin,Schalke 04,1,1
+785,A,Werder Bremen,Wolfsburg,0,1
+786,H,Dortmund,Hertha,1,0
+787,D,RB Leipzig,Paderborn,1,1
+788,A,Leverkusen,Bayern Munich,2,4
+789,D,Fortuna Dusseldorf,Hoffenheim,2,2
+790,A,Ein Frankfurt,Mainz,0,2
+791,H,Freiburg,M'gladbach,1,0
+792,A,Werder Bremen,Ein Frankfurt,0,3
+793,A,FC Koln,RB Leipzig,2,4
+794,A,Paderborn,Dortmund,1,6
+795,H,M'gladbach,Union Berlin,4,1
+796,H,Bayern Munich,Fortuna Dusseldorf,5,0
+797,A,Wolfsburg,Ein Frankfurt,1,2
+798,A,Schalke 04,Werder Bremen,0,1
+799,A,Mainz,Hoffenheim,0,1
+800,H,Hertha,Augsburg,2,0
+801,A,Freiburg,Leverkusen,0,1
+802,D,Union Berlin,Mainz,1,1
+803,H,Hoffenheim,FC Koln,3,1
+804,H,Fortuna Dusseldorf,Schalke 04,2,1
+805,D,Augsburg,Paderborn,0,0
+806,D,RB Leipzig,Hertha,2,2
+807,D,Werder Bremen,M'gladbach,0,0
+808,A,Leverkusen,Wolfsburg,1,4
+809,D,Ein Frankfurt,Freiburg,3,3
+810,A,Dortmund,Bayern Munich,0,1
+811,D,FC Koln,Fortuna Dusseldorf,2,2
+812,A,Mainz,RB Leipzig,0,5
+813,A,Schalke 04,Augsburg,0,3
+814,H,Bayern Munich,Ein Frankfurt,5,2
+815,A,Wolfsburg,Dortmund,0,2
+816,D,Paderborn,Hoffenheim,1,1
+817,A,M'gladbach,Leverkusen,1,3
+818,A,Freiburg,Werder Bremen,0,1
+819,H,Hertha,Union Berlin,4,0
+820,A,Werder Bremen,Leverkusen,1,4
+821,A,Union Berlin,Bayern Munich,0,2
+822,D,FC Koln,Mainz,2,2
+823,A,Ein Frankfurt,M'gladbach,1,3
+824,D,RB Leipzig,Freiburg,1,1
+825,A,Hoffenheim,Hertha,0,3
+826,D,Fortuna Dusseldorf,Paderborn,0,0
+827,H,Dortmund,Schalke 04,4,0
+828,A,Augsburg,Wolfsburg,1,2
+829,H,M'gladbach,FC Koln,2,1
+830,D,Mainz,Fortuna Dusseldorf,1,1
+831,H,Bayern Munich,Augsburg,2,0
+832,A,M'gladbach,Dortmund,1,2
+833,D,Wolfsburg,RB Leipzig,0,0
+834,D,Schalke 04,Hoffenheim,1,1
+835,H,Leverkusen,Ein Frankfurt,4,0
+836,D,Hertha,Werder Bremen,2,2
+837,H,Freiburg,Union Berlin,3,1
+838,A,Paderborn,FC Koln,1,2
+839,D,RB Leipzig,Leverkusen,1,1
+840,D,Union Berlin,Wolfsburg,2,2
+841,H,FC Koln,Schalke 04,3,0
+842,H,Mainz,Paderborn,2,0
+843,A,Hoffenheim,Bayern Munich,0,6
+844,H,Dortmund,Freiburg,1,0
+845,A,Augsburg,M'gladbach,2,3
+846,D,Fortuna Dusseldorf,Hertha,3,3
+847,A,Ein Frankfurt,Union Berlin,1,2
+848,H,Wolfsburg,Mainz,4,0
+849,H,Leverkusen,Augsburg,2,0
+850,A,Schalke 04,RB Leipzig,0,5
+851,A,Werder Bremen,Dortmund,0,2
+852,D,M'gladbach,Hoffenheim,1,1
+853,A,Hertha,FC Koln,0,5
+854,A,Freiburg,Fortuna Dusseldorf,0,2
+855,H,Bayern Munich,Paderborn,3,2
+856,D,Mainz,Schalke 04,0,0
+857,A,FC Koln,Bayern Munich,1,4
+858,A,Fortuna Dusseldorf,M'gladbach,1,4
+859,A,Union Berlin,Leverkusen,2,3
+860,H,RB Leipzig,Werder Bremen,3,0
+861,A,Paderborn,Hertha,1,2
+862,A,Hoffenheim,Wolfsburg,2,3
+863,D,Augsburg,Freiburg,1,1
+864,H,Dortmund,Ein Frankfurt,4,0
+865,D,Bayern Munich,RB Leipzig,0,0
+866,H,Leverkusen,Dortmund,4,3
+867,D,Wolfsburg,Fortuna Dusseldorf,1,1
+868,A,Werder Bremen,Union Berlin,0,2
+869,D,Schalke 04,Paderborn,1,1
+870,A,Hertha,Mainz,1,3
+871,H,Freiburg,Hoffenheim,1,0
+872,H,Ein Frankfurt,Augsburg,5,0
+873,A,Paderborn,Wolfsburg,2,4
+874,H,FC Koln,Freiburg,4,0
+875,D,RB Leipzig,M'gladbach,2,2
+876,A,Mainz,Bayern Munich,1,3
+877,H,Hoffenheim,Leverkusen,2,1
+878,D,Fortuna Dusseldorf,Ein Frankfurt,1,1
+879,H,Dortmund,Union Berlin,5,0
+880,H,Augsburg,Werder Bremen,2,1
+881,D,Hertha,Schalke 04,0,0
+882,H,Leverkusen,Fortuna Dusseldorf,3,0
+883,A,Werder Bremen,Hoffenheim,0,3
+884,H,Bayern Munich,Schalke 04,5,0
+885,A,Wolfsburg,Hertha,1,2
+886,H,Union Berlin,Augsburg,2,0
+887,H,M'gladbach,Mainz,3,1
+888,A,Freiburg,Paderborn,0,2
+889,H,Ein Frankfurt,RB Leipzig,2,0
+890,H,Dortmund,FC Koln,5,1
+891,A,Paderborn,Leverkusen,1,4
+892,A,Hertha,Bayern Munich,0,4
+893,H,RB Leipzig,Union Berlin,3,1
+894,A,Mainz,Freiburg,1,2
+895,A,Hoffenheim,Ein Frankfurt,1,2
+896,A,Fortuna Dusseldorf,Werder Bremen,0,1
+897,H,FC Koln,Wolfsburg,3,1
+898,A,Augsburg,Dortmund,3,5
+899,H,Schalke 04,M'gladbach,2,0
+900,H,Paderborn,Ein Frankfurt,2,1
+901,H,Fortuna Dusseldorf,Union Berlin,2,1
+902,D,Hertha,M'gladbach,0,0
+903,D,Schalke 04,Freiburg,2,2
+904,H,RB Leipzig,Augsburg,3,1
+905,A,Mainz,Leverkusen,0,1
+906,H,FC Koln,Werder Bremen,1,0
+907,H,Bayern Munich,Wolfsburg,2,0
+908,H,Hoffenheim,Dortmund,2,1
+909,D,Wolfsburg,Schalke 04,1,1
+910,H,M'gladbach,Paderborn,2,0
+911,A,Freiburg,Bayern Munich,1,3
+912,A,Ein Frankfurt,FC Koln,2,4
+913,A,Leverkusen,Hertha,0,1
+914,A,Union Berlin,Hoffenheim,0,2
+915,D,Dortmund,RB Leipzig,3,3
+916,H,Augsburg,Fortuna Dusseldorf,3,0
+917,A,Werder Bremen,Mainz,0,5
+918,H,Schalke 04,Ein Frankfurt,1,0
+919,H,Wolfsburg,M'gladbach,2,1
+920,A,Fortuna Dusseldorf,RB Leipzig,0,3
+921,D,Paderborn,Union Berlin,1,1
+922,A,Mainz,Dortmund,0,4
+923,H,Hertha,Freiburg,1,0
+924,H,FC Koln,Leverkusen,2,0
+925,H,Bayern Munich,Werder Bremen,6,1
+926,A,Hoffenheim,Augsburg,2,4
+927,A,Werder Bremen,Paderborn,0,1
+928,H,Union Berlin,FC Koln,2,0
+929,H,Leverkusen,Schalke 04,2,1
+930,H,RB Leipzig,Hoffenheim,3,1
+931,H,M'gladbach,Bayern Munich,2,1
+932,H,Freiburg,Wolfsburg,1,0
+933,H,Dortmund,Fortuna Dusseldorf,5,0
+934,H,Augsburg,Mainz,2,1
+935,D,Ein Frankfurt,Hertha,2,2
+936,H,Mainz,Ein Frankfurt,2,1
+937,A,Wolfsburg,Werder Bremen,2,3
+938,H,M'gladbach,Freiburg,4,2
+939,A,Bayern Munich,Leverkusen,1,2
+940,A,Paderborn,RB Leipzig,2,3
+941,D,Hoffenheim,Fortuna Dusseldorf,1,1
+942,A,Hertha,Dortmund,1,2
+943,D,FC Koln,Augsburg,1,1
+944,H,Schalke 04,Union Berlin,2,1
+945,A,Hoffenheim,Mainz,1,5
+946,H,Augsburg,Hertha,4,0
+947,H,RB Leipzig,FC Koln,4,1
+948,A,Werder Bremen,Schalke 04,1,2
+949,H,Union Berlin,M'gladbach,2,0
+950,D,Leverkusen,Freiburg,1,1
+951,A,Fortuna Dusseldorf,Bayern Munich,0,4
+952,A,Ein Frankfurt,Wolfsburg,0,2
+953,D,Dortmund,Paderborn,3,3
+954,H,Freiburg,Ein Frankfurt,1,0
+955,A,Wolfsburg,Leverkusen,0,2
+956,H,M'gladbach,Werder Bremen,3,1
+957,H,Bayern Munich,Dortmund,4,0
+958,D,Schalke 04,Fortuna Dusseldorf,3,3
+959,A,Paderborn,Augsburg,0,1
+960,A,Mainz,Union Berlin,2,3
+961,A,Hertha,RB Leipzig,2,4
+962,A,FC Koln,Hoffenheim,1,2
+963,A,Augsburg,Schalke 04,2,3
+964,H,Fortuna Dusseldorf,FC Koln,2,0
+965,H,Union Berlin,Hertha,1,0
+966,D,Werder Bremen,Freiburg,2,2
+967,H,RB Leipzig,Mainz,8,0
+968,A,Leverkusen,M'gladbach,1,2
+969,H,Ein Frankfurt,Bayern Munich,5,1
+970,H,Dortmund,Wolfsburg,3,0
+971,H,Hoffenheim,Paderborn,3,0
+972,H,M'gladbach,Ein Frankfurt,4,2
+973,D,Wolfsburg,Augsburg,0,0
+974,D,Leverkusen,Werder Bremen,2,2
+975,D,Schalke 04,Dortmund,0,0
+976,H,Paderborn,Fortuna Dusseldorf,2,0
+977,A,Hertha,Hoffenheim,2,3
+978,H,Freiburg,RB Leipzig,2,1
+979,H,Bayern Munich,Union Berlin,2,1
+980,H,Mainz,FC Koln,3,1
+981,H,Hoffenheim,Schalke 04,2,0
+982,H,FC Koln,Paderborn,3,0
+983,H,Dortmund,M'gladbach,1,0
+984,D,Werder Bremen,Hertha,1,1
+985,H,Union Berlin,Freiburg,2,0
+986,D,RB Leipzig,Wolfsburg,1,1
+987,H,Fortuna Dusseldorf,Mainz,1,0
+988,D,Augsburg,Bayern Munich,2,2
+989,H,Ein Frankfurt,Leverkusen,3,0
+990,D,Ein Frankfurt,Werder Bremen,2,2
+991,H,Wolfsburg,Union Berlin,1,0
+992,H,M'gladbach,Augsburg,5,1
+993,D,Schalke 04,FC Koln,1,1
+994,A,Paderborn,Mainz,1,2
+995,D,Leverkusen,RB Leipzig,1,1
+996,D,Freiburg,Dortmund,2,2
+997,A,Bayern Munich,Hoffenheim,1,2
+998,H,Hertha,Fortuna Dusseldorf,3,1
+999,A,FC Koln,Hertha,0,4
+1000,A,Fortuna Dusseldorf,Freiburg,1,2
+1001,D,Dortmund,Werder Bremen,2,2
+1002,A,RB Leipzig,Schalke 04,1,3
+1003,A,Paderborn,Bayern Munich,2,3
+1004,A,Mainz,Wolfsburg,0,1
+1005,A,Hoffenheim,M'gladbach,0,3
+1006,A,Augsburg,Leverkusen,0,3
+1007,A,Union Berlin,Ein Frankfurt,1,2
+1008,D,Wolfsburg,Hoffenheim,1,1
+1009,D,Ein Frankfurt,Dortmund,2,2
+1010,H,M'gladbach,Fortuna Dusseldorf,2,1
+1011,A,Werder Bremen,RB Leipzig,0,3
+1012,H,Leverkusen,Union Berlin,2,0
+1013,H,Hertha,Paderborn,2,1
+1014,D,Freiburg,Augsburg,1,1
+1015,H,Bayern Munich,FC Koln,4,0
+1016,H,Schalke 04,Mainz,2,1
+1017,A,Paderborn,Schalke 04,1,5
+1018,A,Hoffenheim,Freiburg,0,3
+1019,D,RB Leipzig,Bayern Munich,1,1
+1020,A,Union Berlin,Werder Bremen,1,2
+1021,H,Mainz,Hertha,2,1
+1022,A,FC Koln,M'gladbach,0,1
+1023,H,Dortmund,Leverkusen,4,0
+1024,H,Augsburg,Ein Frankfurt,2,1
+1025,D,Fortuna Dusseldorf,Wolfsburg,1,1
+1026,H,Ein Frankfurt,Fortuna Dusseldorf,2,1
+1027,H,Werder Bremen,Augsburg,3,2
+1028,H,Union Berlin,Dortmund,3,1
+1029,D,Wolfsburg,Paderborn,1,1
+1030,H,Schalke 04,Hertha,3,0
+1031,D,Leverkusen,Hoffenheim,0,0
+1032,A,Freiburg,FC Koln,1,2
+1033,H,Bayern Munich,Mainz,6,1
+1034,A,M'gladbach,RB Leipzig,1,3
+1035,A,Hertha,Wolfsburg,0,3
+1036,H,RB Leipzig,Ein Frankfurt,2,1
+1037,A,Schalke 04,Bayern Munich,0,3
+1038,A,Paderborn,Freiburg,1,3
+1039,A,Mainz,M'gladbach,1,3
+1040,H,Hoffenheim,Werder Bremen,3,2
+1041,A,Fortuna Dusseldorf,Leverkusen,1,3
+1042,D,Augsburg,Union Berlin,1,1
+1043,A,FC Koln,Dortmund,1,3
+1044,A,Union Berlin,RB Leipzig,0,4
+1045,H,Ein Frankfurt,Hoffenheim,1,0
+1046,D,M'gladbach,Schalke 04,0,0
+1047,H,Wolfsburg,FC Koln,2,1
+1048,A,Werder Bremen,Fortuna Dusseldorf,1,3
+1049,H,Leverkusen,Paderborn,3,2
+1050,H,Freiburg,Mainz,3,0
+1051,H,Dortmund,Augsburg,5,1
+1052,D,Bayern Munich,Hertha,2,2
+1053,H,Wolfsburg,Augsburg,8,1
+1054,H,Werder Bremen,RB Leipzig,2,1
+1055,D,Schalke 04,Stuttgart,0,0
+1056,A,M'gladbach,Dortmund,0,2
+1057,H,Mainz,Hoffenheim,4,2
+1058,A,Hertha,Leverkusen,1,5
+1059,H,Freiburg,Nurnberg,5,1
+1060,H,Fortuna Dusseldorf,Hannover,2,1
+1061,H,Bayern Munich,Ein Frankfurt,5,1
+1062,A,Ein Frankfurt,Mainz,0,2
+1063,H,Stuttgart,Wolfsburg,3,0
+1064,D,RB Leipzig,Bayern Munich,0,0
+1065,A,Nurnberg,M'gladbach,0,4
+1066,D,Leverkusen,Schalke 04,1,1
+1067,A,Hoffenheim,Werder Bremen,0,1
+1068,H,Hannover,Freiburg,3,0
+1069,H,Dortmund,Fortuna Dusseldorf,3,2
+1070,A,Augsburg,Hertha,3,4
+1071,D,Schalke 04,Augsburg,0,0
+1072,H,Leverkusen,Ein Frankfurt,6,1
+1073,D,Freiburg,Fortuna Dusseldorf,1,1
+1074,H,Wolfsburg,Nurnberg,2,0
+1075,D,Werder Bremen,Dortmund,2,2
+1076,D,M'gladbach,Hoffenheim,2,2
+1077,H,Hertha,Stuttgart,3,1
+1078,H,Bayern Munich,Hannover,3,1
+1079,D,Mainz,RB Leipzig,3,3
+1080,D,Nurnberg,Bayern Munich,1,1
+1081,A,Hoffenheim,Wolfsburg,1,4
+1082,H,Stuttgart,M'gladbach,1,0
+1083,H,RB Leipzig,Freiburg,2,1
+1084,H,Hannover,Mainz,1,0
+1085,H,Fortuna Dusseldorf,Werder Bremen,4,1
+1086,D,Ein Frankfurt,Hertha,0,0
+1087,A,Dortmund,Schalke 04,2,4
+1088,A,Augsburg,Leverkusen,1,4
+1089,D,Wolfsburg,Ein Frankfurt,1,1
+1090,D,Hertha,Hannover,0,0
+1091,A,Freiburg,Dortmund,0,4
+1092,A,Schalke 04,Hoffenheim,2,5
+1093,A,M'gladbach,RB Leipzig,1,2
+1094,H,Mainz,Fortuna Dusseldorf,3,1
+1095,H,Leverkusen,Nurnberg,2,0
+1096,H,Bayern Munich,Werder Bremen,1,0
+1097,H,Augsburg,Stuttgart,6,0
+1098,H,Hoffenheim,Hertha,2,0
+1099,A,Fortuna Dusseldorf,Bayern Munich,1,4
+1100,A,Ein Frankfurt,Augsburg,1,3
+1101,H,Werder Bremen,Freiburg,2,1
+1102,A,Stuttgart,Leverkusen,0,1
+1103,H,RB Leipzig,Wolfsburg,2,0
+1104,A,Hannover,M'gladbach,0,1
+1105,H,Dortmund,Mainz,2,1
+1106,D,Nurnberg,Schalke 04,1,1
+1107,D,M'gladbach,Werder Bremen,1,1
+1108,A,Augsburg,Hoffenheim,0,4
+1109,H,Wolfsburg,Hannover,3,1
+1110,D,Stuttgart,Nurnberg,1,1
+1111,A,Schalke 04,Ein Frankfurt,1,2
+1112,A,Leverkusen,RB Leipzig,2,4
+1113,A,Hertha,Fortuna Dusseldorf,1,2
+1114,H,Bayern Munich,Dortmund,5,0
+1115,H,Mainz,Freiburg,5,0
+1116,A,Hannover,Schalke 04,0,1
+1117,H,Ein Frankfurt,Stuttgart,3,0
+1118,H,Werder Bremen,Mainz,3,1
+1119,H,RB Leipzig,Hertha,5,0
+1120,H,Nurnberg,Augsburg,3,0
+1121,D,Freiburg,Bayern Munich,1,1
+1122,H,Fortuna Dusseldorf,M'gladbach,3,1
+1123,H,Dortmund,Wolfsburg,2,0
+1124,H,Hoffenheim,Leverkusen,4,1
+1125,A,Leverkusen,Werder Bremen,1,3
+1126,H,Ein Frankfurt,Nurnberg,1,0
+1127,H,Bayern Munich,Mainz,6,0
+1128,H,Wolfsburg,Fortuna Dusseldorf,5,2
+1129,D,Stuttgart,Hoffenheim,1,1
+1130,A,Schalke 04,RB Leipzig,0,1
+1131,A,Hertha,Dortmund,2,3
+1132,H,Augsburg,Hannover,3,1
+1133,D,M'gladbach,Freiburg,1,1
+1134,A,Fortuna Dusseldorf,Ein Frankfurt,0,3
+1135,H,Hoffenheim,Nurnberg,2,1
+1136,A,Hannover,Leverkusen,2,3
+1137,D,RB Leipzig,Augsburg,0,0
+1138,A,Mainz,M'gladbach,0,1
+1139,H,Freiburg,Hertha,2,1
+1140,H,Dortmund,Stuttgart,3,1
+1141,H,Bayern Munich,Wolfsburg,6,0
+1142,H,Werder Bremen,Schalke 04,4,2
+1143,D,Wolfsburg,Werder Bremen,1,1
+1144,H,Stuttgart,Hannover,5,1
+1145,A,Schalke 04,Fortuna Dusseldorf,0,4
+1146,A,Nurnberg,RB Leipzig,0,1
+1147,A,M'gladbach,Bayern Munich,1,5
+1148,H,Leverkusen,Freiburg,2,0
+1149,H,Hertha,Mainz,2,1
+1150,H,Ein Frankfurt,Hoffenheim,3,2
+1151,H,Augsburg,Dortmund,2,1
+1152,D,RB Leipzig,Hoffenheim,1,1
+1153,A,Hannover,Ein Frankfurt,0,3
+1154,H,Dortmund,Leverkusen,3,2
+1155,A,M'gladbach,Wolfsburg,0,3
+1156,H,Mainz,Schalke 04,3,0
+1157,H,Freiburg,Augsburg,5,1
+1158,H,Fortuna Dusseldorf,Nurnberg,2,1
+1159,H,Bayern Munich,Hertha,1,0
+1160,D,Werder Bremen,Stuttgart,1,1
+1161,D,Nurnberg,Dortmund,0,0
+1162,H,Leverkusen,Fortuna Dusseldorf,2,0
+1163,D,Ein Frankfurt,M'gladbach,1,1
+1164,H,Wolfsburg,Mainz,3,0
+1165,A,Stuttgart,RB Leipzig,1,3
+1166,D,Schalke 04,Freiburg,0,0
+1167,H,Hoffenheim,Hannover,3,0
+1168,D,Hertha,Werder Bremen,1,1
+1169,A,Augsburg,Bayern Munich,2,3
+1170,H,Werder Bremen,Augsburg,4,0
+1171,H,Fortuna Dusseldorf,Stuttgart,3,0
+1172,D,RB Leipzig,Ein Frankfurt,0,0
+1173,A,M'gladbach,Hertha,0,3
+1174,H,Hannover,Nurnberg,2,0
+1175,D,Freiburg,Wolfsburg,3,3
+1176,D,Dortmund,Hoffenheim,3,3
+1177,H,Bayern Munich,Schalke 04,3,1
+1178,A,Mainz,Leverkusen,1,5
+1179,D,Stuttgart,Freiburg,2,2
+1180,H,Augsburg,Mainz,3,0
+1181,A,Schalke 04,M'gladbach,0,2
+1182,D,Nurnberg,Werder Bremen,1,1
+1183,H,Leverkusen,Bayern Munich,3,1
+1184,D,Hoffenheim,Fortuna Dusseldorf,1,1
+1185,A,Hertha,Wolfsburg,0,1
+1186,D,Ein Frankfurt,Dortmund,1,1
+1187,A,Hannover,RB Leipzig,0,3
+1188,A,Fortuna Dusseldorf,RB Leipzig,0,4
+1189,H,Bayern Munich,Stuttgart,4,1
+1190,A,Wolfsburg,Leverkusen,0,3
+1191,D,Werder Bremen,Ein Frankfurt,2,2
+1192,H,M'gladbach,Augsburg,2,0
+1193,H,Mainz,Nurnberg,2,1
+1194,A,Freiburg,Hoffenheim,2,4
+1195,H,Dortmund,Hannover,5,1
+1196,D,Hertha,Schalke 04,2,2
+1197,H,Schalke 04,Wolfsburg,2,1
+1198,A,Nurnberg,Hertha,1,3
+1199,A,Stuttgart,Mainz,2,3
+1200,A,RB Leipzig,Dortmund,0,1
+1201,A,Leverkusen,M'gladbach,0,1
+1202,A,Hannover,Werder Bremen,0,1
+1203,H,Ein Frankfurt,Freiburg,3,1
+1204,A,Augsburg,Fortuna Dusseldorf,1,2
+1205,A,Hoffenheim,Bayern Munich,1,3
+1206,D,Hoffenheim,Mainz,1,1
+1207,A,Augsburg,Wolfsburg,2,3
+1208,A,Stuttgart,Schalke 04,1,3
+1209,H,RB Leipzig,Werder Bremen,3,2
+1210,A,Nurnberg,Freiburg,0,1
+1211,H,Leverkusen,Hertha,3,1
+1212,A,Hannover,Fortuna Dusseldorf,0,1
+1213,A,Ein Frankfurt,Bayern Munich,0,3
+1214,H,Dortmund,M'gladbach,2,1
+1215,D,Werder Bremen,Hoffenheim,1,1
+1216,A,Schalke 04,Leverkusen,1,2
+1217,D,Mainz,Ein Frankfurt,2,2
+1218,D,Freiburg,Hannover,1,1
+1219,H,Bayern Munich,RB Leipzig,1,0
+1220,H,Wolfsburg,Stuttgart,2,0
+1221,H,M'gladbach,Nurnberg,2,0
+1222,D,Hertha,Augsburg,2,2
+1223,H,Fortuna Dusseldorf,Dortmund,2,1
+1224,H,RB Leipzig,Mainz,4,1
+1225,H,Ein Frankfurt,Leverkusen,2,1
+1226,H,Stuttgart,Hertha,2,1
+1227,D,Hoffenheim,M'gladbach,0,0
+1228,A,Hannover,Bayern Munich,0,4
+1229,H,Fortuna Dusseldorf,Freiburg,2,0
+1230,H,Dortmund,Werder Bremen,2,1
+1231,D,Augsburg,Schalke 04,1,1
+1232,A,Nurnberg,Wolfsburg,0,2
+1233,H,M'gladbach,Stuttgart,3,0
+1234,D,Mainz,Hannover,1,1
+1235,D,Wolfsburg,Hoffenheim,2,2
+1236,A,Schalke 04,Dortmund,1,2
+1237,H,Leverkusen,Augsburg,1,0
+1238,H,Hertha,Ein Frankfurt,1,0
+1239,H,Freiburg,RB Leipzig,3,0
+1240,H,Bayern Munich,Nurnberg,3,0
+1241,H,Werder Bremen,Fortuna Dusseldorf,3,1
+1242,D,Nurnberg,Leverkusen,1,1
+1243,H,RB Leipzig,M'gladbach,2,0
+1244,A,Ein Frankfurt,Wolfsburg,1,2
+1245,A,Werder Bremen,Bayern Munich,1,2
+1246,H,Stuttgart,Augsburg,1,0
+1247,D,Hoffenheim,Schalke 04,1,1
+1248,A,Hannover,Hertha,0,2
+1249,H,Dortmund,Freiburg,2,0
+1250,A,Fortuna Dusseldorf,Mainz,0,1
+1251,H,M'gladbach,Hannover,4,1
+1252,D,Freiburg,Werder Bremen,1,1
+1253,H,Wolfsburg,RB Leipzig,1,0
+1254,H,Schalke 04,Nurnberg,5,2
+1255,A,Mainz,Dortmund,1,2
+1256,D,Hertha,Hoffenheim,3,3
+1257,D,Bayern Munich,Fortuna Dusseldorf,3,3
+1258,A,Augsburg,Ein Frankfurt,1,3
+1259,H,Leverkusen,Stuttgart,2,0
+1260,H,RB Leipzig,Leverkusen,3,0
+1261,H,Ein Frankfurt,Schalke 04,3,0
+1262,A,Werder Bremen,M'gladbach,1,3
+1263,A,Nurnberg,Stuttgart,0,2
+1264,H,Hoffenheim,Augsburg,2,1
+1265,A,Freiburg,Mainz,1,3
+1266,H,Fortuna Dusseldorf,Hertha,4,1
+1267,H,Dortmund,Bayern Munich,3,2
+1268,H,Hannover,Wolfsburg,2,1
+1269,H,M'gladbach,Fortuna Dusseldorf,3,0
+1270,H,Mainz,Werder Bremen,2,1
+1271,A,Wolfsburg,Dortmund,0,1
+1272,H,Schalke 04,Hannover,3,1
+1273,A,Leverkusen,Hoffenheim,1,4
+1274,A,Hertha,RB Leipzig,0,3
+1275,D,Bayern Munich,Freiburg,1,1
+1276,D,Augsburg,Nurnberg,2,2
+1277,A,Stuttgart,Ein Frankfurt,0,3
+1278,A,Werder Bremen,Leverkusen,2,6
+1279,D,RB Leipzig,Schalke 04,0,0
+1280,D,Nurnberg,Ein Frankfurt,1,1
+1281,A,Mainz,Bayern Munich,1,2
+1282,H,Hoffenheim,Stuttgart,4,0
+1283,A,Hannover,Augsburg,1,2
+1284,A,Fortuna Dusseldorf,Wolfsburg,0,3
+1285,D,Dortmund,Hertha,2,2
+1286,H,Freiburg,M'gladbach,3,1
+1287,H,M'gladbach,Mainz,4,0
+1288,D,Hertha,Freiburg,1,1
+1289,A,Wolfsburg,Bayern Munich,1,3
+1290,A,Stuttgart,Dortmund,0,4
+1291,A,Schalke 04,Werder Bremen,0,2
+1292,A,Nurnberg,Hoffenheim,1,3
+1293,D,Leverkusen,Hannover,2,2
+1294,D,Augsburg,RB Leipzig,0,0
+1295,H,Ein Frankfurt,Fortuna Dusseldorf,7,1
+1296,H,RB Leipzig,Nurnberg,6,0
+1297,A,Hoffenheim,Ein Frankfurt,1,2
+1298,D,Freiburg,Leverkusen,0,0
+1299,D,Mainz,Hertha,0,0
+1300,H,Hannover,Stuttgart,3,1
+1301,A,Fortuna Dusseldorf,Schalke 04,0,2
+1302,H,Dortmund,Augsburg,4,3
+1303,A,Bayern Munich,M'gladbach,0,3
+1304,H,Werder Bremen,Wolfsburg,2,0
+1305,H,Ein Frankfurt,Hannover,4,1
+1306,H,Augsburg,Freiburg,4,1
+1307,D,Wolfsburg,M'gladbach,2,2
+1308,H,Stuttgart,Werder Bremen,2,1
+1309,H,Schalke 04,Mainz,1,0
+1310,H,Nurnberg,Fortuna Dusseldorf,3,0
+1311,A,Leverkusen,Dortmund,2,4
+1312,A,Hoffenheim,RB Leipzig,1,2
+1313,H,Hertha,Bayern Munich,2,0
+1314,H,RB Leipzig,Stuttgart,2,0
+1315,H,M'gladbach,Ein Frankfurt,3,1
+1316,D,Mainz,Wolfsburg,0,0
+1317,A,Fortuna Dusseldorf,Leverkusen,1,2
+1318,H,Dortmund,Nurnberg,7,0
+1319,H,Werder Bremen,Hertha,3,1
+1320,A,Hannover,Hoffenheim,1,3
+1321,H,Freiburg,Schalke 04,1,0
+1322,D,Bayern Munich,Augsburg,1,1
+1323,H,Leverkusen,Mainz,1,0
+1324,D,Ein Frankfurt,RB Leipzig,1,1
+1325,A,Wolfsburg,Freiburg,1,3
+1326,A,Schalke 04,Bayern Munich,0,2
+1327,H,Nurnberg,Hannover,2,0
+1328,D,Hoffenheim,Dortmund,1,1
+1329,H,Hertha,M'gladbach,4,2
+1330,A,Augsburg,Werder Bremen,2,3
+1331,D,Stuttgart,Fortuna Dusseldorf,0,0
+1332,D,Werder Bremen,Nurnberg,1,1
+1333,D,Freiburg,Stuttgart,3,3
+1334,D,Wolfsburg,Hertha,2,2
+1335,H,RB Leipzig,Hannover,3,2
+1336,H,M'gladbach,Schalke 04,2,1
+1337,H,Mainz,Augsburg,2,1
+1338,H,Fortuna Dusseldorf,Hoffenheim,2,1
+1339,H,Bayern Munich,Leverkusen,3,1
+1340,H,Dortmund,Ein Frankfurt,3,1
+1341,A,Schalke 04,Hertha,0,2
+1342,D,RB Leipzig,Fortuna Dusseldorf,1,1
+1343,A,Stuttgart,Bayern Munich,0,3
+1344,D,Nurnberg,Mainz,1,1
+1345,A,Leverkusen,Wolfsburg,1,3
+1346,H,Hoffenheim,Freiburg,3,1
+1347,A,Ein Frankfurt,Werder Bremen,1,2
+1348,D,Augsburg,M'gladbach,1,1
+1349,D,Hannover,Dortmund,0,0
+1350,H,Mainz,Stuttgart,1,0
+1351,H,Dortmund,RB Leipzig,4,1
+1352,H,Wolfsburg,Schalke 04,2,1
+1353,D,Werder Bremen,Hannover,1,1
+1354,H,M'gladbach,Leverkusen,2,0
+1355,H,Hertha,Nurnberg,1,0
+1356,A,Freiburg,Ein Frankfurt,0,2
+1357,A,Fortuna Dusseldorf,Augsburg,1,2
+1358,H,Bayern Munich,Hoffenheim,3,1
+1359,H,Wolfsburg,FC Koln,4,1
+1360,H,Schalke 04,Ein Frankfurt,1,0
+1361,A,Mainz,Werder Bremen,1,2
+1362,H,Leverkusen,Hannover,3,2
+1363,H,Hoffenheim,Dortmund,3,1
+1364,A,Hertha,RB Leipzig,2,6
+1365,H,Hamburg,M'gladbach,2,1
+1366,H,Freiburg,Augsburg,2,0
+1367,A,Bayern Munich,Stuttgart,1,4
+1368,D,Werder Bremen,Leverkusen,0,0
+1369,H,Stuttgart,Hoffenheim,2,0
+1370,H,RB Leipzig,Wolfsburg,4,1
+1371,H,M'gladbach,Freiburg,3,1
+1372,H,Hannover,Hertha,3,1
+1373,A,FC Koln,Bayern Munich,1,3
+1374,H,Ein Frankfurt,Hamburg,3,0
+1375,A,Dortmund,Mainz,1,2
+1376,A,Augsburg,Schalke 04,1,2
+1377,D,Werder Bremen,Dortmund,1,1
+1378,H,Mainz,RB Leipzig,3,0
+1379,A,Wolfsburg,Hamburg,1,3
+1380,D,Schalke 04,M'gladbach,1,1
+1381,A,Leverkusen,Stuttgart,0,1
+1382,D,Hertha,Augsburg,2,2
+1383,H,Freiburg,FC Koln,3,2
+1384,H,Bayern Munich,Ein Frankfurt,4,1
+1385,H,Hoffenheim,Hannover,3,1
+1386,D,FC Koln,Schalke 04,2,2
+1387,H,Augsburg,Mainz,2,0
+1388,H,Stuttgart,Werder Bremen,2,0
+1389,A,RB Leipzig,Hoffenheim,2,5
+1390,A,Hannover,Bayern Munich,0,3
+1391,H,Hamburg,Freiburg,1,0
+1392,A,Ein Frankfurt,Hertha,0,3
+1393,H,Dortmund,Leverkusen,4,0
+1394,H,M'gladbach,Wolfsburg,3,0
+1395,H,Mainz,Freiburg,2,0
+1396,D,Werder Bremen,RB Leipzig,1,1
+1397,H,Schalke 04,Dortmund,2,0
+1398,D,Stuttgart,Hannover,1,1
+1399,H,Leverkusen,Ein Frankfurt,4,1
+1400,H,Hoffenheim,Hamburg,2,0
+1401,H,Hertha,FC Koln,2,1
+1402,H,Bayern Munich,M'gladbach,5,1
+1403,D,Wolfsburg,Augsburg,0,0
+1404,A,RB Leipzig,Leverkusen,1,4
+1405,D,Ein Frankfurt,Hoffenheim,1,1
+1406,H,Dortmund,Stuttgart,3,0
+1407,H,M'gladbach,Hertha,2,1
+1408,H,Hamburg,Schalke 04,3,2
+1409,A,Freiburg,Wolfsburg,0,2
+1410,D,FC Koln,Mainz,1,1
+1411,A,Augsburg,Bayern Munich,1,4
+1412,H,Hannover,Werder Bremen,2,1
+1413,H,Werder Bremen,Ein Frankfurt,2,1
+1414,D,Mainz,M'gladbach,0,0
+1415,D,Stuttgart,Hamburg,1,1
+1416,H,Schalke 04,Freiburg,2,0
+1417,D,Leverkusen,Augsburg,0,0
+1418,H,Hoffenheim,FC Koln,6,0
+1419,D,Hertha,Wolfsburg,0,0
+1420,A,Hannover,RB Leipzig,2,3
+1421,H,Bayern Munich,Dortmund,6,0
+1422,H,RB Leipzig,Bayern Munich,2,1
+1423,H,FC Koln,Leverkusen,2,0
+1424,H,Dortmund,Hannover,1,0
+1425,A,Wolfsburg,Schalke 04,0,1
+1426,D,M'gladbach,Hoffenheim,3,3
+1427,A,Hamburg,Hertha,1,2
+1428,H,Ein Frankfurt,Mainz,3,0
+1429,A,Augsburg,Werder Bremen,1,3
+1430,A,Freiburg,Stuttgart,1,2
+1431,H,Werder Bremen,FC Koln,3,1
+1432,D,Stuttgart,RB Leipzig,0,0
+1433,H,Dortmund,Ein Frankfurt,3,2
+1434,H,Leverkusen,M'gladbach,2,0
+1435,H,Hoffenheim,Wolfsburg,3,0
+1436,D,Hertha,Freiburg,0,0
+1437,A,Hannover,Augsburg,1,3
+1438,H,Bayern Munich,Hamburg,6,0
+1439,A,Mainz,Schalke 04,0,1
+1440,A,Freiburg,Bayern Munich,0,4
+1441,A,FC Koln,Stuttgart,2,3
+1442,A,Wolfsburg,Leverkusen,1,2
+1443,H,Schalke 04,Hertha,1,0
+1444,D,RB Leipzig,Dortmund,1,1
+1445,D,Hamburg,Mainz,0,0
+1446,H,Ein Frankfurt,Hannover,1,0
+1447,A,Augsburg,Hoffenheim,0,2
+1448,D,M'gladbach,Werder Bremen,2,2
+1449,D,Dortmund,Augsburg,1,1
+1450,A,RB Leipzig,FC Koln,1,2
+1451,A,Leverkusen,Schalke 04,0,2
+1452,H,Werder Bremen,Hamburg,1,0
+1453,H,Stuttgart,Ein Frankfurt,1,0
+1454,D,Hoffenheim,Freiburg,1,1
+1455,A,Hannover,M'gladbach,0,1
+1456,D,Bayern Munich,Hertha,0,0
+1457,D,Mainz,Wolfsburg,1,1
+1458,H,Ein Frankfurt,RB Leipzig,2,1
+1459,A,M'gladbach,Dortmund,0,1
+1460,A,Augsburg,Stuttgart,0,1
+1461,A,Wolfsburg,Bayern Munich,1,2
+1462,H,Schalke 04,Hoffenheim,2,1
+1463,A,Hamburg,Leverkusen,1,2
+1464,H,Freiburg,Werder Bremen,1,0
+1465,D,FC Koln,Hannover,1,1
+1466,A,Hertha,Mainz,0,2
+1467,H,Werder Bremen,Wolfsburg,3,1
+1468,H,Stuttgart,M'gladbach,1,0
+1469,A,Leverkusen,Hertha,0,2
+1470,H,Hoffenheim,Mainz,4,2
+1471,H,Hannover,Freiburg,2,1
+1472,H,Ein Frankfurt,FC Koln,4,2
+1473,H,Dortmund,Hamburg,2,0
+1474,H,Bayern Munich,Schalke 04,2,1
+1475,H,RB Leipzig,Augsburg,2,0
+1476,D,Hamburg,Hannover,1,1
+1477,H,Augsburg,Ein Frankfurt,3,0
+1478,D,Wolfsburg,Stuttgart,1,1
+1479,A,Schalke 04,Werder Bremen,1,2
+1480,A,M'gladbach,RB Leipzig,0,1
+1481,A,Mainz,Bayern Munich,0,2
+1482,D,Hertha,Hoffenheim,1,1
+1483,D,Freiburg,Leverkusen,0,0
+1484,A,FC Koln,Dortmund,2,3
+1485,H,Leverkusen,Mainz,2,0
+1486,A,Hannover,Wolfsburg,0,1
+1487,D,Werder Bremen,Hertha,0,0
+1488,A,Stuttgart,Schalke 04,0,2
+1489,D,RB Leipzig,Hamburg,1,1
+1490,D,FC Koln,Augsburg,1,1
+1491,D,Dortmund,Freiburg,2,2
+1492,H,Bayern Munich,Hoffenheim,5,2
+1493,H,Ein Frankfurt,M'gladbach,2,0
+1494,D,Schalke 04,Hannover,1,1
+1495,H,Bayern Munich,Werder Bremen,4,2
+1496,A,Wolfsburg,Ein Frankfurt,1,3
+1497,H,M'gladbach,Augsburg,2,0
+1498,H,Mainz,Stuttgart,3,2
+1499,A,Hoffenheim,Leverkusen,1,4
+1500,A,Hamburg,FC Koln,0,2
+1501,H,Freiburg,RB Leipzig,2,1
+1502,D,Hertha,Dortmund,1,1
+1503,H,FC Koln,M'gladbach,2,1
+1504,D,Dortmund,Wolfsburg,0,0
+1505,D,Werder Bremen,Hoffenheim,1,1
+1506,H,Stuttgart,Hertha,1,0
+1507,H,RB Leipzig,Schalke 04,3,1
+1508,H,Hannover,Mainz,3,2
+1509,D,Ein Frankfurt,Freiburg,1,1
+1510,H,Augsburg,Hamburg,1,0
+1511,A,Leverkusen,Bayern Munich,1,3
+1512,A,RB Leipzig,Hertha,2,3
+1513,D,Hannover,Leverkusen,4,4
+1514,D,Werder Bremen,Mainz,2,2
+1515,A,Stuttgart,Bayern Munich,0,1
+1516,H,FC Koln,Wolfsburg,1,0
+1517,D,Ein Frankfurt,Schalke 04,2,2
+1518,H,Dortmund,Hoffenheim,2,1
+1519,D,Augsburg,Freiburg,3,3
+1520,H,M'gladbach,Hamburg,3,1
+1521,H,Schalke 04,Augsburg,3,2
+1522,H,Leverkusen,Werder Bremen,1,0
+1523,H,Hoffenheim,Stuttgart,1,0
+1524,H,Hertha,Hannover,3,1
+1525,H,Bayern Munich,FC Koln,1,0
+1526,D,Wolfsburg,RB Leipzig,1,1
+1527,A,Mainz,Dortmund,0,2
+1528,A,Hamburg,Ein Frankfurt,1,2
+1529,H,Freiburg,M'gladbach,1,0
+1530,H,Hannover,Hoffenheim,2,0
+1531,A,FC Koln,Freiburg,3,4
+1532,D,Augsburg,Hertha,1,1
+1533,D,RB Leipzig,Mainz,2,2
+1534,D,M'gladbach,Schalke 04,1,1
+1535,D,Hamburg,Wolfsburg,0,0
+1536,A,Ein Frankfurt,Bayern Munich,0,1
+1537,A,Dortmund,Werder Bremen,1,2
+1538,A,Stuttgart,Leverkusen,0,2
+1539,H,Wolfsburg,M'gladbach,3,0
+1540,A,Hertha,Ein Frankfurt,1,2
+1541,H,Werder Bremen,Stuttgart,1,0
+1542,D,Schalke 04,FC Koln,2,2
+1543,A,Mainz,Augsburg,1,3
+1544,D,Leverkusen,Dortmund,1,1
+1545,H,Hoffenheim,RB Leipzig,4,0
+1546,H,Bayern Munich,Hannover,3,1
+1547,D,Freiburg,Hamburg,0,0
+1548,H,Hamburg,Hoffenheim,3,0
+1549,A,FC Koln,Hertha,0,2
+1550,H,RB Leipzig,Werder Bremen,2,0
+1551,H,M'gladbach,Bayern Munich,2,1
+1552,H,Freiburg,Mainz,2,1
+1553,A,Ein Frankfurt,Leverkusen,0,1
+1554,D,Dortmund,Schalke 04,4,4
+1555,H,Augsburg,Wolfsburg,2,1
+1556,D,Hannover,Stuttgart,1,1
+1557,H,Werder Bremen,Hannover,4,0
+1558,H,Schalke 04,Hamburg,2,0
+1559,H,Wolfsburg,Freiburg,3,1
+1560,H,Mainz,FC Koln,1,0
+1561,D,Leverkusen,RB Leipzig,2,2
+1562,D,Hoffenheim,Ein Frankfurt,1,1
+1563,A,Hertha,M'gladbach,2,4
+1564,H,Bayern Munich,Augsburg,3,0
+1565,H,Stuttgart,Dortmund,2,1
+1566,D,Wolfsburg,Hertha,3,3
+1567,A,FC Koln,Hoffenheim,0,3
+1568,H,RB Leipzig,Hannover,2,1
+1569,D,M'gladbach,Mainz,1,1
+1570,H,Hamburg,Stuttgart,3,1
+1571,A,Freiburg,Schalke 04,0,1
+1572,A,Dortmund,Bayern Munich,1,3
+1573,D,Augsburg,Leverkusen,1,1
+1574,H,Ein Frankfurt,Werder Bremen,2,1
+1575,A,Werder Bremen,Augsburg,0,3
+1576,H,Stuttgart,Freiburg,3,0
+1577,D,Schalke 04,Wolfsburg,1,1
+1578,H,Leverkusen,FC Koln,2,1
+1579,A,Hoffenheim,M'gladbach,1,3
+1580,H,Hertha,Hamburg,2,1
+1581,H,Hannover,Dortmund,4,2
+1582,H,Bayern Munich,RB Leipzig,2,0
+1583,D,Mainz,Ein Frankfurt,1,1
+1584,D,Wolfsburg,Hoffenheim,1,1
+1585,D,Freiburg,Hertha,1,1
+1586,D,FC Koln,Werder Bremen,0,0
+1587,H,RB Leipzig,Stuttgart,1,0
+1588,A,M'gladbach,Leverkusen,1,5
+1589,A,Hamburg,Bayern Munich,0,1
+1590,D,Ein Frankfurt,Dortmund,2,2
+1591,A,Augsburg,Hannover,1,2
+1592,H,Schalke 04,Mainz,2,0
+1593,A,Werder Bremen,M'gladbach,0,2
+1594,D,Leverkusen,Wolfsburg,2,2
+1595,H,Mainz,Hamburg,3,2
+1596,D,Hoffenheim,Augsburg,2,2
+1597,A,Hertha,Schalke 04,0,2
+1598,A,Hannover,Ein Frankfurt,1,2
+1599,A,Dortmund,RB Leipzig,2,3
+1600,H,Bayern Munich,Freiburg,5,0
+1601,H,Stuttgart,FC Koln,2,1
+1602,D,Hertha,Bayern Munich,2,2
+1603,H,Freiburg,Hoffenheim,3,2
+1604,A,FC Koln,RB Leipzig,1,2
+1605,D,Wolfsburg,Mainz,1,1
+1606,H,M'gladbach,Hannover,2,1
+1607,D,Hamburg,Werder Bremen,0,0
+1608,H,Ein Frankfurt,Stuttgart,2,1
+1609,A,Augsburg,Dortmund,1,2
+1610,D,Schalke 04,Leverkusen,1,1
+1611,H,Leverkusen,Hamburg,3,0
+1612,D,Hannover,FC Koln,0,0
+1613,D,Werder Bremen,Freiburg,0,0
+1614,D,Stuttgart,Augsburg,0,0
+1615,H,RB Leipzig,Ein Frankfurt,2,1
+1616,H,Mainz,Hertha,1,0
+1617,H,Hoffenheim,Schalke 04,2,0
+1618,H,Dortmund,M'gladbach,6,1
+1619,D,Bayern Munich,Wolfsburg,2,2
+1620,A,Mainz,Hoffenheim,2,3
+1621,H,Hertha,Leverkusen,2,1
+1622,A,Hamburg,Dortmund,0,3
+1623,D,Freiburg,Hannover,1,1
+1624,A,FC Koln,Ein Frankfurt,0,1
+1625,D,Wolfsburg,Werder Bremen,1,1
+1626,A,Schalke 04,Bayern Munich,0,3
+1627,H,M'gladbach,Stuttgart,2,0
+1628,H,Augsburg,RB Leipzig,1,0
+1629,H,Leverkusen,Freiburg,4,0
+1630,D,Hoffenheim,Hertha,1,1
+1631,H,Dortmund,FC Koln,5,0
+1632,A,Werder Bremen,Schalke 04,1,2
+1633,H,Stuttgart,Wolfsburg,1,0
+1634,D,RB Leipzig,M'gladbach,2,2
+1635,A,Ein Frankfurt,Augsburg,1,2
+1636,H,Bayern Munich,Mainz,4,0
+1637,H,Hannover,Hamburg,2,0
+1638,H,Schalke 04,Stuttgart,3,1
+1639,D,Hertha,Werder Bremen,1,1
+1640,D,Wolfsburg,Hannover,1,1
+1641,A,M'gladbach,Ein Frankfurt,0,1
+1642,H,Mainz,Leverkusen,3,1
+1643,H,Hoffenheim,Bayern Munich,2,0
+1644,D,Freiburg,Dortmund,0,0
+1645,H,Augsburg,FC Koln,3,0
+1646,A,Hamburg,RB Leipzig,0,2
+1647,H,RB Leipzig,Freiburg,4,1
+1648,H,Hannover,Schalke 04,1,0
+1649,A,Werder Bremen,Bayern Munich,0,2
+1650,H,Stuttgart,Mainz,1,0
+1651,D,Leverkusen,Hoffenheim,2,2
+1652,A,Ein Frankfurt,Wolfsburg,0,1
+1653,H,Dortmund,Hertha,2,0
+1654,D,Augsburg,M'gladbach,2,2
+1655,A,FC Koln,Hamburg,1,3
+1656,H,M'gladbach,FC Koln,1,0
+1657,D,Freiburg,Ein Frankfurt,0,0
+1658,A,Wolfsburg,Dortmund,0,3
+1659,H,Schalke 04,RB Leipzig,2,0
+1660,A,Mainz,Hannover,0,1
+1661,H,Hoffenheim,Werder Bremen,1,0
+1662,H,Hertha,Stuttgart,2,0
+1663,H,Hamburg,Augsburg,1,0
+1664,H,Bayern Munich,Leverkusen,3,1
+1665,D,M'gladbach,Darmstadt,2,2
+1666,D,Ingolstadt,Schalke 04,1,1
+1667,D,Hoffenheim,Augsburg,0,0
+1668,A,Hertha,Leverkusen,2,6
+1669,H,Hamburg,Wolfsburg,2,1
+1670,H,FC Koln,Mainz,2,0
+1671,D,Ein Frankfurt,RB Leipzig,2,2
+1672,H,Dortmund,Werder Bremen,4,3
+1673,H,Bayern Munich,Freiburg,4,1
+1674,D,Wolfsburg,M'gladbach,1,1
+1675,A,Werder Bremen,Hoffenheim,3,5
+1676,D,Schalke 04,Hamburg,1,1
+1677,A,RB Leipzig,Bayern Munich,4,5
+1678,H,Mainz,Ein Frankfurt,4,2
+1679,D,Leverkusen,FC Koln,2,2
+1680,D,Freiburg,Ingolstadt,1,1
+1681,A,Darmstadt,Hertha,0,2
+1682,D,Augsburg,Dortmund,1,1
+1683,D,Hamburg,Mainz,0,0
+1684,H,Freiburg,Schalke 04,2,0
+1685,D,M'gladbach,Augsburg,1,1
+1686,D,Ingolstadt,Leverkusen,1,1
+1687,A,Hertha,RB Leipzig,1,4
+1688,A,Ein Frankfurt,Wolfsburg,0,2
+1689,H,Dortmund,Hoffenheim,2,1
+1690,H,Bayern Munich,Darmstadt,1,0
+1691,H,FC Koln,Werder Bremen,4,3
+1692,H,Hoffenheim,Ein Frankfurt,1,0
+1693,H,Augsburg,Hamburg,4,0
+1694,A,Wolfsburg,Bayern Munich,0,6
+1695,H,Werder Bremen,Hertha,2,0
+1696,D,RB Leipzig,Ingolstadt,0,0
+1697,A,Mainz,M'gladbach,1,2
+1698,D,Dortmund,FC Koln,0,0
+1699,H,Darmstadt,Freiburg,3,0
+1700,A,Leverkusen,Schalke 04,1,4
+1701,D,Schalke 04,RB Leipzig,1,1
+1702,H,Freiburg,Leverkusen,2,1
+1703,A,M'gladbach,Dortmund,2,3
+1704,A,Ingolstadt,Werder Bremen,2,4
+1705,H,Hertha,Wolfsburg,1,0
+1706,A,Hamburg,Darmstadt,1,2
+1707,H,Ein Frankfurt,Augsburg,3,1
+1708,D,Bayern Munich,Mainz,2,2
+1709,D,FC Koln,Hoffenheim,1,1
+1710,H,Werder Bremen,Hamburg,2,1
+1711,H,Darmstadt,Schalke 04,2,1
+1712,H,Wolfsburg,Ingolstadt,3,0
+1713,H,RB Leipzig,Freiburg,4,0
+1714,H,Mainz,Hertha,1,0
+1715,D,Leverkusen,Bayern Munich,0,0
+1716,H,Hoffenheim,M'gladbach,5,3
+1717,H,Dortmund,Ein Frankfurt,3,1
+1718,H,Augsburg,FC Koln,2,1
+1719,H,Ingolstadt,Darmstadt,3,2
+1720,H,Hertha,Augsburg,2,0
+1721,H,Schalke 04,Wolfsburg,4,1
+1722,H,RB Leipzig,Leverkusen,1,0
+1723,H,Hamburg,Hoffenheim,2,1
+1724,H,Freiburg,Mainz,1,0
+1725,A,FC Koln,M'gladbach,2,3
+1726,H,Bayern Munich,Dortmund,4,1
+1727,D,Ein Frankfurt,Werder Bremen,2,2
+1728,A,Wolfsburg,Freiburg,0,1
+1729,H,M'gladbach,Hertha,1,0
+1730,A,Mainz,RB Leipzig,2,3
+1731,A,Darmstadt,Leverkusen,0,2
+1732,A,Augsburg,Ingolstadt,2,3
+1733,H,Werder Bremen,Schalke 04,3,0
+1734,H,Hoffenheim,Bayern Munich,1,0
+1735,H,FC Koln,Ein Frankfurt,1,0
+1736,H,Dortmund,Hamburg,3,0
+1737,D,Leverkusen,Wolfsburg,3,3
+1738,H,Ingolstadt,Mainz,2,1
+1739,D,Schalke 04,Dortmund,1,1
+1740,H,RB Leipzig,Darmstadt,4,0
+1741,H,Hamburg,FC Koln,2,1
+1742,A,Freiburg,Werder Bremen,2,5
+1743,D,Ein Frankfurt,M'gladbach,0,0
+1744,H,Bayern Munich,Augsburg,6,0
+1745,A,Hertha,Hoffenheim,1,3
+1746,A,M'gladbach,Bayern Munich,0,1
+1747,A,Mainz,Schalke 04,0,1
+1748,H,Wolfsburg,Darmstadt,1,0
+1749,H,Werder Bremen,RB Leipzig,3,0
+1750,H,Hoffenheim,Leverkusen,1,0
+1751,H,FC Koln,Hertha,4,2
+1752,D,Ein Frankfurt,Hamburg,0,0
+1753,D,Augsburg,Freiburg,1,1
+1754,H,Dortmund,Ingolstadt,1,0
+1755,H,Schalke 04,Augsburg,3,0
+1756,H,Hamburg,M'gladbach,2,1
+1757,A,RB Leipzig,Wolfsburg,0,1
+1758,D,Ingolstadt,FC Koln,2,2
+1759,H,Hertha,Dortmund,2,1
+1760,D,Freiburg,Hoffenheim,1,1
+1761,H,Darmstadt,Mainz,2,1
+1762,H,Bayern Munich,Ein Frankfurt,3,0
+1763,D,Leverkusen,Werder Bremen,1,1
+1764,H,Hamburg,Hertha,1,0
+1765,A,Ein Frankfurt,Freiburg,1,2
+1766,H,Werder Bremen,Darmstadt,2,0
+1767,H,M'gladbach,Schalke 04,4,2
+1768,D,Mainz,Wolfsburg,1,1
+1769,H,Hoffenheim,Ingolstadt,5,2
+1770,A,FC Koln,Bayern Munich,0,3
+1771,H,Dortmund,Leverkusen,6,2
+1772,D,Augsburg,RB Leipzig,2,2
+1773,D,Schalke 04,Hoffenheim,1,1
+1774,A,Ingolstadt,M'gladbach,0,2
+1775,H,RB Leipzig,FC Koln,3,1
+1776,A,Leverkusen,Mainz,0,2
+1777,H,Hertha,Ein Frankfurt,2,0
+1778,A,Freiburg,Dortmund,0,3
+1779,A,Darmstadt,Augsburg,1,2
+1780,H,Bayern Munich,Hamburg,8,0
+1781,A,Wolfsburg,Werder Bremen,1,2
+1782,A,M'gladbach,RB Leipzig,1,2
+1783,D,FC Koln,Schalke 04,1,1
+1784,A,Mainz,Werder Bremen,0,2
+1785,H,Hoffenheim,Darmstadt,2,0
+1786,D,Hertha,Bayern Munich,1,1
+1787,D,Hamburg,Freiburg,2,2
+1788,A,Ein Frankfurt,Ingolstadt,0,2
+1789,H,Dortmund,Wolfsburg,3,0
+1790,A,Augsburg,Leverkusen,1,3
+1791,H,Wolfsburg,Hoffenheim,2,1
+1792,H,Freiburg,FC Koln,2,1
+1793,A,Werder Bremen,M'gladbach,0,1
+1794,H,Schalke 04,Hertha,2,0
+1795,A,RB Leipzig,Hamburg,0,3
+1796,H,Leverkusen,Ein Frankfurt,3,0
+1797,A,Ingolstadt,Bayern Munich,0,2
+1798,H,Darmstadt,Dortmund,2,1
+1799,H,Mainz,Augsburg,2,0
+1800,H,Ein Frankfurt,Darmstadt,2,0
+1801,H,Augsburg,Werder Bremen,3,2
+1802,H,M'gladbach,Freiburg,3,0
+1803,H,Hoffenheim,Mainz,4,0
+1804,H,Hertha,Ingolstadt,1,0
+1805,H,FC Koln,Wolfsburg,1,0
+1806,H,Dortmund,RB Leipzig,1,0
+1807,D,Bayern Munich,Schalke 04,1,1
+1808,H,Hamburg,Leverkusen,1,0
+1809,D,Mainz,Dortmund,1,1
+1810,H,Freiburg,Hertha,2,1
+1811,A,Wolfsburg,Augsburg,1,2
+1812,A,Werder Bremen,Bayern Munich,1,2
+1813,H,RB Leipzig,Hoffenheim,2,1
+1814,A,Leverkusen,M'gladbach,2,3
+1815,H,Ingolstadt,Hamburg,3,1
+1816,A,Darmstadt,FC Koln,1,6
+1817,A,Schalke 04,Ein Frankfurt,0,1
+1818,D,Mainz,FC Koln,0,0
+1819,H,Leverkusen,Hertha,3,1
+1820,H,Wolfsburg,Hamburg,1,0
+1821,A,Werder Bremen,Dortmund,1,2
+1822,H,Schalke 04,Ingolstadt,1,0
+1823,H,RB Leipzig,Ein Frankfurt,3,0
+1824,D,Darmstadt,M'gladbach,0,0
+1825,A,Augsburg,Hoffenheim,0,2
+1826,A,Freiburg,Bayern Munich,1,2
+1827,A,Ingolstadt,Freiburg,1,2
+1828,D,Hoffenheim,Werder Bremen,1,1
+1829,H,Hertha,Darmstadt,2,0
+1830,D,FC Koln,Leverkusen,1,1
+1831,H,Bayern Munich,RB Leipzig,3,0
+1832,A,M'gladbach,Wolfsburg,1,2
+1833,H,Hamburg,Schalke 04,2,1
+1834,H,Ein Frankfurt,Mainz,3,0
+1835,D,Dortmund,Augsburg,1,1
+1836,A,Leverkusen,Ingolstadt,1,2
+1837,A,Darmstadt,Bayern Munich,0,1
+1838,H,Wolfsburg,Ein Frankfurt,1,0
+1839,D,Werder Bremen,FC Koln,1,1
+1840,D,Schalke 04,Freiburg,1,1
+1841,H,RB Leipzig,Hertha,2,0
+1842,H,Mainz,Hamburg,3,1
+1843,H,Augsburg,M'gladbach,1,0
+1844,D,Hoffenheim,Dortmund,2,2
+1845,A,Schalke 04,Leverkusen,0,1
+1846,H,M'gladbach,Mainz,1,0
+1847,H,Ingolstadt,RB Leipzig,1,0
+1848,A,Hertha,Werder Bremen,0,1
+1849,H,Hamburg,Augsburg,1,0
+1850,H,Freiburg,Darmstadt,1,0
+1851,D,FC Koln,Dortmund,1,1
+1852,H,Bayern Munich,Wolfsburg,5,0
+1853,D,Ein Frankfurt,Hoffenheim,0,0
+1854,A,Darmstadt,Hamburg,0,2
+1855,D,Augsburg,Ein Frankfurt,1,1
+1856,A,Wolfsburg,Hertha,2,3
+1857,H,Werder Bremen,Ingolstadt,2,1
+1858,H,RB Leipzig,Schalke 04,2,1
+1859,D,Leverkusen,Freiburg,1,1
+1860,H,Hoffenheim,FC Koln,4,0
+1861,H,Dortmund,M'gladbach,4,1
+1862,A,Mainz,Bayern Munich,1,3
+1863,H,Schalke 04,Darmstadt,3,1
+1864,H,Hertha,Mainz,2,1
+1865,D,M'gladbach,Hoffenheim,1,1
+1866,D,Ingolstadt,Wolfsburg,1,1
+1867,D,Hamburg,Werder Bremen,2,2
+1868,D,FC Koln,Augsburg,0,0
+1869,H,Ein Frankfurt,Dortmund,2,1
+1870,H,Bayern Munich,Leverkusen,2,1
+1871,A,Freiburg,RB Leipzig,1,4
+1872,A,Werder Bremen,Ein Frankfurt,1,2
+1873,D,Hoffenheim,Hamburg,2,2
+1874,A,Wolfsburg,Schalke 04,0,1
+1875,A,M'gladbach,FC Koln,1,2
+1876,H,Mainz,Freiburg,4,2
+1877,H,Dortmund,Bayern Munich,1,0
+1878,A,Darmstadt,Ingolstadt,0,1
+1879,D,Augsburg,Hertha,0,0
+1880,A,Leverkusen,RB Leipzig,2,3
+1881,H,Schalke 04,Werder Bremen,3,1
+1882,H,RB Leipzig,Mainz,3,1
+1883,H,Leverkusen,Darmstadt,3,2
+1884,A,Ingolstadt,Augsburg,0,2
+1885,A,Hamburg,Dortmund,2,5
+1886,A,Freiburg,Wolfsburg,0,3
+1887,H,Ein Frankfurt,FC Koln,1,0
+1888,D,Bayern Munich,Hoffenheim,1,1
+1889,H,Hertha,M'gladbach,3,0
+1890,H,Hoffenheim,Hertha,1,0
+1891,H,FC Koln,Hamburg,3,0
+1892,A,Wolfsburg,Leverkusen,1,2
+1893,A,Werder Bremen,Freiburg,1,3
+1894,H,Mainz,Ingolstadt,2,0
+1895,D,Dortmund,Schalke 04,0,0
+1896,A,Darmstadt,RB Leipzig,0,2
+1897,A,Augsburg,Bayern Munich,1,3
+1898,D,M'gladbach,Ein Frankfurt,0,0
+1899,H,Schalke 04,Mainz,3,0
+1900,H,RB Leipzig,Werder Bremen,3,1
+1901,A,Leverkusen,Hoffenheim,0,3
+1902,D,Ingolstadt,Dortmund,3,3
+1903,H,Hertha,FC Koln,2,1
+1904,H,Freiburg,Augsburg,2,1
+1905,H,Darmstadt,Wolfsburg,3,1
+1906,H,Bayern Munich,M'gladbach,2,0
+1907,A,Hamburg,Ein Frankfurt,0,3
+1908,A,Wolfsburg,RB Leipzig,0,1
+1909,H,Mainz,Darmstadt,2,1
+1910,H,Werder Bremen,Leverkusen,2,1
+1911,D,M'gladbach,Hamburg,0,0
+1912,H,Hoffenheim,Freiburg,2,1
+1913,H,FC Koln,Ingolstadt,2,1
+1914,D,Ein Frankfurt,Bayern Munich,2,2
+1915,D,Augsburg,Schalke 04,1,1
+1916,D,Dortmund,Hertha,1,1
+1917,D,Wolfsburg,Mainz,0,0
+1918,H,Schalke 04,M'gladbach,4,0
+1919,H,Leverkusen,Dortmund,2,0
+1920,A,Ingolstadt,Hoffenheim,1,2
+1921,H,Hertha,Hamburg,2,0
+1922,H,Freiburg,Ein Frankfurt,1,0
+1923,D,Darmstadt,Werder Bremen,2,2
+1924,D,Bayern Munich,FC Koln,1,1
+1925,H,RB Leipzig,Augsburg,2,1
+1926,H,Hoffenheim,Schalke 04,2,1
+1927,D,FC Koln,RB Leipzig,1,1
+1928,H,Werder Bremen,Wolfsburg,2,1
+1929,H,M'gladbach,Ingolstadt,2,0
+1930,A,Mainz,Leverkusen,2,3
+1931,A,Hamburg,Bayern Munich,0,1
+1932,D,Ein Frankfurt,Hertha,3,3
+1933,H,Augsburg,Darmstadt,1,0
+1934,H,Dortmund,Freiburg,3,1
+1935,A,Werder Bremen,Mainz,1,2
+1936,A,Schalke 04,FC Koln,1,3
+1937,D,RB Leipzig,M'gladbach,1,1
+1938,D,Leverkusen,Augsburg,0,0
+1939,H,Bayern Munich,Hertha,3,0
+1940,A,Wolfsburg,Dortmund,1,5
+1941,A,Ingolstadt,Ein Frankfurt,0,2
+1942,H,Freiburg,Hamburg,1,0
+1943,D,Darmstadt,Hoffenheim,1,1
+1944,H,Hertha,Schalke 04,2,0
+1945,A,Augsburg,Mainz,1,3
+1946,H,M'gladbach,Werder Bremen,4,1
+1947,D,Hoffenheim,Wolfsburg,0,0
+1948,A,Hamburg,RB Leipzig,0,4
+1949,H,Ein Frankfurt,Leverkusen,2,1
+1950,H,Dortmund,Darmstadt,6,0
+1951,H,Bayern Munich,Ingolstadt,3,1
+1952,H,FC Koln,Freiburg,3,0
+1953,A,Werder Bremen,Augsburg,1,2
+1954,D,Mainz,Hoffenheim,4,4
+1955,D,Wolfsburg,FC Koln,0,0
+1956,H,RB Leipzig,Dortmund,1,0
+1957,H,Leverkusen,Hamburg,3,1
+1958,A,Ingolstadt,Hertha,0,2
+1959,H,Freiburg,M'gladbach,3,1
+1960,H,Darmstadt,Ein Frankfurt,1,0
+1961,A,Schalke 04,Bayern Munich,0,2
+1962,D,Hoffenheim,RB Leipzig,2,2
+1963,H,Hertha,Freiburg,2,1
+1964,H,M'gladbach,Leverkusen,2,1
+1965,D,Hamburg,Ingolstadt,1,1
+1966,H,FC Koln,Darmstadt,2,0
+1967,H,Ein Frankfurt,Schalke 04,1,0
+1968,H,Dortmund,Mainz,2,1
+1969,A,Augsburg,Wolfsburg,0,2
+1970,H,Bayern Munich,Werder Bremen,6,0
+1971,H,Wolfsburg,Stuttgart,3,1
+1972,H,Werder Bremen,Ein Frankfurt,1,0
+1973,D,Mainz,Hertha,0,0
+1974,H,Leverkusen,Ingolstadt,3,2
+1975,A,Hoffenheim,Schalke 04,1,4
+1976,D,Dortmund,FC Koln,2,2
+1977,A,Darmstadt,M'gladbach,0,2
+1978,H,Bayern Munich,Hannover,3,1
+1979,A,Augsburg,Hamburg,1,3
+1980,A,Stuttgart,Mainz,1,3
+1981,D,Schalke 04,Augsburg,1,1
+1982,H,M'gladbach,Leverkusen,2,1
+1983,A,Ingolstadt,Bayern Munich,1,2
+1984,A,Hertha,Darmstadt,1,2
+1985,H,Hannover,Hoffenheim,1,0
+1986,A,Hamburg,Wolfsburg,0,1
+1987,D,FC Koln,Werder Bremen,0,0
+1988,H,Ein Frankfurt,Dortmund,1,0
+1989,H,Werder Bremen,Stuttgart,6,2
+1990,D,Mainz,Hamburg,0,0
+1991,H,Leverkusen,Hertha,2,1
+1992,H,Hoffenheim,Ingolstadt,2,1
+1993,A,Hannover,Schalke 04,1,3
+1994,H,Dortmund,Wolfsburg,5,1
+1995,A,Darmstadt,Ein Frankfurt,1,2
+1996,D,Bayern Munich,M'gladbach,1,1
+1997,D,Augsburg,FC Koln,0,0
+1998,H,M'gladbach,Hoffenheim,3,1
+1999,H,Ein Frankfurt,Mainz,2,1
+2000,A,Wolfsburg,Augsburg,0,2
+2001,A,Stuttgart,Dortmund,0,3
+2002,A,Schalke 04,Leverkusen,2,3
+2003,D,Ingolstadt,Hannover,2,2
+2004,A,Hertha,Bayern Munich,0,2
+2005,H,FC Koln,Darmstadt,4,1
+2006,H,Hamburg,Werder Bremen,2,1
+2007,A,Mainz,FC Koln,2,3
+2008,H,Dortmund,Hamburg,3,0
+2009,H,Werder Bremen,Wolfsburg,3,2
+2010,H,Leverkusen,Ein Frankfurt,3,0
+2011,H,Hoffenheim,Hertha,2,1
+2012,H,Darmstadt,Ingolstadt,2,0
+2013,H,Bayern Munich,Schalke 04,3,0
+2014,H,Augsburg,Stuttgart,1,0
+2015,H,Hannover,M'gladbach,2,0
+2016,D,Schalke 04,Dortmund,2,2
+2017,A,FC Koln,Leverkusen,0,2
+2018,D,Wolfsburg,Mainz,1,1
+2019,A,Werder Bremen,Augsburg,1,2
+2020,A,Stuttgart,Bayern Munich,1,3
+2021,H,Ingolstadt,M'gladbach,1,0
+2022,A,Hamburg,Darmstadt,1,2
+2023,A,Ein Frankfurt,Hoffenheim,0,2
+2024,D,Hertha,Hannover,2,2
+2025,H,M'gladbach,Hertha,5,0
+2026,D,Hoffenheim,FC Koln,1,1
+2027,H,Mainz,Augsburg,4,2
+2028,H,Ingolstadt,Schalke 04,3,0
+2029,A,Hannover,Hamburg,0,3
+2030,H,Dortmund,Werder Bremen,3,2
+2031,D,Darmstadt,Stuttgart,2,2
+2032,H,Bayern Munich,Ein Frankfurt,1,0
+2033,H,Leverkusen,Wolfsburg,3,0
+2034,A,Stuttgart,Leverkusen,0,2
+2035,A,Augsburg,Dortmund,1,3
+2036,D,Wolfsburg,Darmstadt,1,1
+2037,D,Werder Bremen,Mainz,1,1
+2038,H,Hertha,Ingolstadt,2,1
+2039,A,Hamburg,Hoffenheim,1,3
+2040,A,FC Koln,Bayern Munich,0,1
+2041,H,Ein Frankfurt,Hannover,1,0
+2042,H,Schalke 04,M'gladbach,2,1
+2043,H,Leverkusen,Hamburg,1,0
+2044,H,Dortmund,Mainz,2,0
+2045,H,M'gladbach,Ein Frankfurt,3,0
+2046,D,Ingolstadt,Stuttgart,3,3
+2047,H,Hoffenheim,Wolfsburg,1,0
+2048,A,Hannover,FC Koln,0,2
+2049,D,Darmstadt,Augsburg,2,2
+2050,H,Bayern Munich,Werder Bremen,5,0
+2051,H,Hertha,Schalke 04,2,0
+2052,D,Mainz,Darmstadt,0,0
+2053,H,Hamburg,Hertha,2,0
+2054,H,Wolfsburg,M'gladbach,2,1
+2055,H,Werder Bremen,Hannover,4,1
+2056,H,Stuttgart,Hoffenheim,5,1
+2057,A,FC Koln,Schalke 04,1,3
+2058,D,Ein Frankfurt,Ingolstadt,1,1
+2059,D,Dortmund,Bayern Munich,0,0
+2060,D,Augsburg,Leverkusen,3,3
+2061,H,Schalke 04,Hamburg,3,2
+2062,H,M'gladbach,Stuttgart,4,0
+2063,A,Leverkusen,Werder Bremen,1,4
+2064,H,Hoffenheim,Augsburg,2,1
+2065,H,Hertha,Ein Frankfurt,2,0
+2066,A,Darmstadt,Dortmund,0,2
+2067,A,Bayern Munich,Mainz,1,2
+2068,D,Ingolstadt,FC Koln,1,1
+2069,A,Hannover,Wolfsburg,0,4
+2070,H,Mainz,Leverkusen,3,1
+2071,D,Ein Frankfurt,Schalke 04,0,0
+2072,H,Dortmund,Hoffenheim,3,1
+2073,D,Augsburg,M'gladbach,2,2
+2074,A,Wolfsburg,Bayern Munich,0,2
+2075,D,Werder Bremen,Darmstadt,2,2
+2076,A,Stuttgart,Hannover,1,2
+2077,D,Hamburg,Ingolstadt,1,1
+2078,A,FC Koln,Hertha,0,1
+2079,D,Schalke 04,Stuttgart,1,1
+2080,A,Leverkusen,Dortmund,0,1
+2081,A,Hannover,Augsburg,0,1
+2082,H,M'gladbach,FC Koln,1,0
+2083,H,Ingolstadt,Werder Bremen,2,0
+2084,H,Hoffenheim,Mainz,3,2
+2085,D,Hertha,Wolfsburg,1,1
+2086,H,Bayern Munich,Darmstadt,3,1
+2087,D,Ein Frankfurt,Hamburg,0,0
+2088,H,Hamburg,M'gladbach,3,2
+2089,A,Augsburg,Bayern Munich,1,3
+2090,H,Wolfsburg,Ingolstadt,2,0
+2091,D,Werder Bremen,Hoffenheim,1,1
+2092,H,Stuttgart,Hertha,2,0
+2093,H,FC Koln,Ein Frankfurt,3,1
+2094,H,Dortmund,Hannover,1,0
+2095,A,Darmstadt,Leverkusen,1,2
+2096,H,Mainz,Schalke 04,2,1
+2097,A,Hoffenheim,Darmstadt,0,2
+2098,D,Hamburg,FC Koln,1,1
+2099,H,Schalke 04,Wolfsburg,3,0
+2100,D,Leverkusen,Bayern Munich,0,0
+2101,H,Ingolstadt,Augsburg,2,1
+2102,D,Hertha,Dortmund,0,0
+2103,A,Hannover,Mainz,0,1
+2104,A,Ein Frankfurt,Stuttgart,2,4
+2105,H,M'gladbach,Werder Bremen,5,1
+2106,D,Wolfsburg,FC Koln,1,1
+2107,H,Bayern Munich,Hoffenheim,2,0
+2108,D,Werder Bremen,Hertha,3,3
+2109,H,Stuttgart,Hamburg,2,1
+2110,H,Leverkusen,Hannover,3,0
+2111,H,Dortmund,Ingolstadt,2,0
+2112,A,Darmstadt,Schalke 04,0,2
+2113,D,Augsburg,Ein Frankfurt,0,0
+2114,H,Mainz,M'gladbach,1,0
+2115,A,Schalke 04,Werder Bremen,1,3
+2116,H,Ein Frankfurt,Wolfsburg,3,2
+2117,A,M'gladbach,Dortmund,1,3
+2118,H,Ingolstadt,Mainz,1,0
+2119,D,Hoffenheim,Leverkusen,1,1
+2120,D,Hertha,Augsburg,0,0
+2121,A,Hannover,Darmstadt,1,2
+2122,A,FC Koln,Stuttgart,1,3
+2123,A,Hamburg,Bayern Munich,1,2
+2124,H,M'gladbach,Darmstadt,3,2
+2125,H,Hertha,Mainz,2,0
+2126,H,Stuttgart,Wolfsburg,3,1
+2127,A,Ingolstadt,Leverkusen,0,1
+2128,A,Hannover,Bayern Munich,0,1
+2129,A,Hamburg,Augsburg,0,1
+2130,H,FC Koln,Dortmund,2,1
+2131,H,Ein Frankfurt,Werder Bremen,2,1
+2132,H,Schalke 04,Hoffenheim,1,0
+2133,H,Dortmund,Ein Frankfurt,4,1
+2134,H,Augsburg,Schalke 04,2,1
+2135,D,Wolfsburg,Hamburg,1,1
+2136,D,Werder Bremen,FC Koln,1,1
+2137,H,Leverkusen,M'gladbach,5,0
+2138,H,Hoffenheim,Hannover,1,0
+2139,A,Darmstadt,Hertha,0,4
+2140,H,Bayern Munich,Ingolstadt,2,0
+2141,D,Mainz,Stuttgart,0,0
+2142,D,Stuttgart,Werder Bremen,1,1
+2143,A,Ein Frankfurt,Darmstadt,0,1
+2144,A,Wolfsburg,Dortmund,1,2
+2145,H,M'gladbach,Bayern Munich,3,1
+2146,D,Ingolstadt,Hoffenheim,1,1
+2147,H,Hertha,Leverkusen,2,1
+2148,A,Hamburg,Mainz,1,3
+2149,A,FC Koln,Augsburg,0,1
+2150,H,Schalke 04,Hannover,3,1
+2151,D,Leverkusen,Schalke 04,1,1
+2152,H,Dortmund,Stuttgart,4,1
+2153,D,Augsburg,Wolfsburg,0,0
+2154,A,Werder Bremen,Hamburg,1,3
+2155,H,Mainz,Ein Frankfurt,2,1
+2156,D,Hoffenheim,M'gladbach,3,3
+2157,H,Hannover,Ingolstadt,4,0
+2158,H,Bayern Munich,Hertha,2,0
+2159,D,Darmstadt,FC Koln,0,0
+2160,H,Ingolstadt,Darmstadt,3,1
+2161,H,Hertha,Hoffenheim,1,0
+2162,H,Wolfsburg,Werder Bremen,6,0
+2163,A,Stuttgart,Augsburg,0,4
+2164,A,Schalke 04,Bayern Munich,1,3
+2165,H,M'gladbach,Hannover,2,1
+2166,D,FC Koln,Mainz,0,0
+2167,A,Ein Frankfurt,Leverkusen,1,3
+2168,H,Hamburg,Dortmund,3,1
+2169,H,Dortmund,Schalke 04,3,2
+2170,A,Augsburg,Werder Bremen,1,2
+2171,D,M'gladbach,Ingolstadt,0,0
+2172,H,Mainz,Wolfsburg,2,0
+2173,A,Leverkusen,FC Koln,1,2
+2174,D,Hoffenheim,Ein Frankfurt,0,0
+2175,D,Darmstadt,Hamburg,1,1
+2176,H,Bayern Munich,Stuttgart,4,0
+2177,A,Hannover,Hertha,1,3
+2178,H,Stuttgart,Darmstadt,2,0
+2179,A,Hamburg,Hannover,1,2
+2180,H,Wolfsburg,Leverkusen,2,1
+2181,A,Werder Bremen,Dortmund,1,3
+2182,D,Schalke 04,Ingolstadt,1,1
+2183,A,Hertha,M'gladbach,1,4
+2184,D,FC Koln,Hoffenheim,0,0
+2185,D,Augsburg,Mainz,3,3
+2186,D,Ein Frankfurt,Bayern Munich,0,0
+2187,H,M'gladbach,Schalke 04,3,1
+2188,H,Dortmund,Augsburg,5,1
+2189,A,Mainz,Werder Bremen,1,3
+2190,H,Leverkusen,Stuttgart,4,3
+2191,A,Ingolstadt,Hertha,0,1
+2192,A,Hannover,Ein Frankfurt,1,2
+2193,A,Darmstadt,Wolfsburg,0,1
+2194,H,Bayern Munich,FC Koln,4,0
+2195,A,Hoffenheim,Hamburg,0,1
+2196,H,Stuttgart,Ingolstadt,1,0
+2197,A,FC Koln,Hannover,0,1
+2198,H,Wolfsburg,Hoffenheim,4,2
+2199,A,Werder Bremen,Bayern Munich,0,1
+2200,H,Schalke 04,Hertha,2,1
+2201,D,Hamburg,Leverkusen,0,0
+2202,A,Ein Frankfurt,M'gladbach,1,5
+2203,A,Augsburg,Darmstadt,0,2
+2204,A,Mainz,Dortmund,0,2
+2205,A,Schalke 04,FC Koln,0,3
+2206,D,Leverkusen,Augsburg,1,1
+2207,H,Bayern Munich,Dortmund,5,1
+2208,H,M'gladbach,Wolfsburg,2,0
+2209,H,Ingolstadt,Ein Frankfurt,2,0
+2210,D,Hoffenheim,Stuttgart,2,2
+2211,H,Hertha,Hamburg,3,0
+2212,H,Hannover,Werder Bremen,1,0
+2213,A,Darmstadt,Mainz,2,3
+2214,D,Ein Frankfurt,Hertha,1,1
+2215,D,Dortmund,Darmstadt,2,2
+2216,D,Wolfsburg,Hannover,1,1
+2217,A,Werder Bremen,Leverkusen,0,3
+2218,A,Stuttgart,M'gladbach,1,3
+2219,A,Mainz,Bayern Munich,0,3
+2220,A,Hamburg,Schalke 04,0,1
+2221,A,Augsburg,Hoffenheim,1,3
+2222,D,FC Koln,Ingolstadt,1,1
+2223,H,Schalke 04,Ein Frankfurt,2,0
+2224,H,M'gladbach,Augsburg,4,2
+2225,H,Leverkusen,Mainz,1,0
+2226,D,Hoffenheim,Dortmund,1,1
+2227,A,Hannover,Stuttgart,1,3
+2228,A,Ingolstadt,Hamburg,0,1
+2229,H,Hertha,FC Koln,2,0
+2230,H,Darmstadt,Werder Bremen,2,1
+2231,H,Bayern Munich,Wolfsburg,5,1
+2232,A,Stuttgart,Schalke 04,0,1
+2233,H,Dortmund,Leverkusen,3,0
+2234,H,Augsburg,Hannover,2,0
+2235,H,Wolfsburg,Hertha,2,0
+2236,A,Werder Bremen,Ingolstadt,0,1
+2237,D,Hamburg,Ein Frankfurt,0,0
+2238,H,FC Koln,M'gladbach,1,0
+2239,A,Darmstadt,Bayern Munich,0,3
+2240,H,Mainz,Hoffenheim,3,1
+2241,H,Schalke 04,Mainz,2,1
+2242,A,Hoffenheim,Werder Bremen,1,3
+2243,A,Leverkusen,Darmstadt,0,1
+2244,D,Ingolstadt,Wolfsburg,0,0
+2245,H,Hertha,Stuttgart,2,1
+2246,A,Hannover,Dortmund,2,4
+2247,H,Ein Frankfurt,FC Koln,6,2
+2248,H,Bayern Munich,Augsburg,2,1
+2249,A,M'gladbach,Hamburg,0,3
+2250,H,Werder Bremen,M'gladbach,2,1
+2251,H,Dortmund,Hertha,3,1
+2252,A,Stuttgart,Ein Frankfurt,1,4
+2253,H,Mainz,Hannover,3,0
+2254,H,FC Koln,Hamburg,2,1
+2255,D,Darmstadt,Hoffenheim,0,0
+2256,H,Bayern Munich,Leverkusen,3,0
+2257,A,Augsburg,Ingolstadt,0,1
+2258,H,Wolfsburg,Schalke 04,3,0
+2259,A,M'gladbach,Mainz,1,2
+2260,A,Ingolstadt,Dortmund,0,4
+2261,D,Schalke 04,Darmstadt,1,1
+2262,A,Hoffenheim,Bayern Munich,1,2
+2263,A,Hannover,Leverkusen,0,1
+2264,H,Hamburg,Stuttgart,3,2
+2265,D,FC Koln,Wolfsburg,1,1
+2266,D,Ein Frankfurt,Augsburg,1,1
+2267,D,Hertha,Werder Bremen,1,1
+2268,H,Wolfsburg,Ein Frankfurt,2,1
+2269,A,Stuttgart,FC Koln,1,3
+2270,A,Werder Bremen,Schalke 04,0,3
+2271,A,Mainz,Ingolstadt,0,1
+2272,H,Leverkusen,Hoffenheim,2,1
+2273,H,Dortmund,M'gladbach,4,0
+2274,D,Darmstadt,Hannover,2,2
+2275,A,Augsburg,Hertha,0,1
+2276,H,Bayern Munich,Hamburg,5,0
+2277,A,Paderborn,Stuttgart,1,2
+2278,A,M'gladbach,Augsburg,1,3
+2279,H,Hoffenheim,Hertha,2,1
+2280,H,Hannover,Freiburg,2,1
+2281,H,Hamburg,Schalke 04,2,0
+2282,D,FC Koln,Wolfsburg,2,2
+2283,H,Ein Frankfurt,Leverkusen,2,1
+2284,H,Dortmund,Werder Bremen,3,2
+2285,H,Bayern Munich,Mainz,2,0
+2286,H,Wolfsburg,Dortmund,2,1
+2287,A,Werder Bremen,M'gladbach,0,2
+2288,H,Stuttgart,Hamburg,2,1
+2289,H,Schalke 04,Paderborn,1,0
+2290,H,Mainz,FC Koln,2,0
+2291,H,Leverkusen,Hoffenheim,2,0
+2292,D,Hertha,Ein Frankfurt,0,0
+2293,H,Freiburg,Bayern Munich,2,1
+2294,A,Augsburg,Hannover,1,2
+2295,A,Paderborn,Wolfsburg,1,3
+2296,H,FC Koln,Schalke 04,2,0
+2297,H,Stuttgart,Mainz,2,0
+2298,H,M'gladbach,Leverkusen,3,0
+2299,D,Hannover,Werder Bremen,1,1
+2300,H,Ein Frankfurt,Hoffenheim,3,1
+2301,H,Dortmund,Hertha,2,0
+2302,A,Bayern Munich,Augsburg,0,1
+2303,D,Hamburg,Freiburg,1,1
+2304,A,Mainz,Hamburg,1,2
+2305,A,Hertha,M'gladbach,1,2
+2306,D,Wolfsburg,Hannover,2,2
+2307,H,Werder Bremen,Ein Frankfurt,1,0
+2308,H,Schalke 04,Stuttgart,3,2
+2309,H,Leverkusen,Bayern Munich,2,0
+2310,D,Hoffenheim,Dortmund,1,1
+2311,A,Freiburg,Paderborn,1,2
+2312,D,Augsburg,FC Koln,0,0
+2313,D,Paderborn,Werder Bremen,2,2
+2314,H,M'gladbach,Wolfsburg,1,0
+2315,D,Stuttgart,Freiburg,2,2
+2316,A,Hannover,Hoffenheim,1,2
+2317,H,Hamburg,Augsburg,3,2
+2318,D,FC Koln,Leverkusen,1,1
+2319,H,Dortmund,Ein Frankfurt,2,0
+2320,H,Bayern Munich,Hertha,1,0
+2321,H,Mainz,Schalke 04,2,0
+2322,D,Wolfsburg,Schalke 04,1,1
+2323,H,Werder Bremen,Hamburg,1,0
+2324,H,Leverkusen,Hannover,4,0
+2325,A,Hoffenheim,Bayern Munich,0,2
+2326,D,Hertha,FC Koln,0,0
+2327,A,Freiburg,Mainz,2,3
+2328,H,Dortmund,Paderborn,3,0
+2329,H,Augsburg,Stuttgart,2,1
+2330,D,Ein Frankfurt,M'gladbach,0,0
+2331,H,Stuttgart,Werder Bremen,3,2
+2332,H,FC Koln,Hoffenheim,3,2
+2333,D,Schalke 04,Freiburg,0,0
+2334,H,Paderborn,Augsburg,2,1
+2335,H,M'gladbach,Dortmund,3,1
+2336,A,Mainz,Leverkusen,2,3
+2337,A,Hamburg,Wolfsburg,0,2
+2338,H,Bayern Munich,Ein Frankfurt,3,0
+2339,D,Hannover,Hertha,1,1
+2340,H,Hertha,Paderborn,2,0
+2341,D,Augsburg,Schalke 04,0,0
+2342,H,Wolfsburg,Stuttgart,3,1
+2343,D,Werder Bremen,Mainz,0,0
+2344,H,Leverkusen,Hamburg,4,0
+2345,A,Hoffenheim,M'gladbach,1,4
+2346,H,Freiburg,FC Koln,1,0
+2347,D,Ein Frankfurt,Hannover,2,2
+2348,A,Dortmund,Bayern Munich,0,1
+2349,D,Mainz,Wolfsburg,1,1
+2350,A,Bayern Munich,M'gladbach,0,2
+2351,H,Stuttgart,Ein Frankfurt,3,1
+2352,A,Schalke 04,Leverkusen,0,1
+2353,D,Paderborn,Hoffenheim,0,0
+2354,A,Hannover,Dortmund,2,3
+2355,H,Freiburg,Augsburg,2,0
+2356,D,FC Koln,Werder Bremen,1,1
+2357,A,Hamburg,Hertha,0,1
+2358,H,Wolfsburg,Freiburg,3,0
+2359,H,M'gladbach,Hannover,2,0
+2360,A,Werder Bremen,Bayern Munich,0,4
+2361,H,Hoffenheim,Hamburg,3,0
+2362,D,Hertha,Schalke 04,2,2
+2363,H,Ein Frankfurt,Paderborn,4,0
+2364,D,Dortmund,FC Koln,0,0
+2365,A,Augsburg,Mainz,0,2
+2366,H,Leverkusen,Stuttgart,4,0
+2367,A,Paderborn,Leverkusen,0,3
+2368,H,FC Koln,Ein Frankfurt,4,2
+2369,H,Schalke 04,Hoffenheim,3,1
+2370,D,Mainz,M'gladbach,2,2
+2371,A,Hannover,Bayern Munich,1,3
+2372,D,Hamburg,Dortmund,0,0
+2373,A,Freiburg,Werder Bremen,0,1
+2374,H,Augsburg,Wolfsburg,1,0
+2375,D,Stuttgart,Hertha,0,0
+2376,A,Werder Bremen,Wolfsburg,3,5
+2377,H,M'gladbach,Paderborn,2,0
+2378,H,Leverkusen,Freiburg,1,0
+2379,H,Hoffenheim,Mainz,2,0
+2380,H,Hertha,Augsburg,1,0
+2381,D,Hannover,Stuttgart,1,1
+2382,H,Ein Frankfurt,Hamburg,2,1
+2383,H,Dortmund,Schalke 04,3,0
+2384,H,Bayern Munich,FC Koln,4,1
+2385,H,Wolfsburg,Hertha,2,1
+2386,D,Hamburg,M'gladbach,1,1
+2387,D,Schalke 04,Werder Bremen,1,1
+2388,A,Paderborn,Bayern Munich,0,6
+2389,H,Mainz,Ein Frankfurt,3,1
+2390,D,Freiburg,Hoffenheim,1,1
+2391,D,FC Koln,Hannover,1,1
+2392,D,Augsburg,Leverkusen,2,2
+2393,A,Stuttgart,Dortmund,2,3
+2394,A,Hertha,Freiburg,0,2
+2395,A,Hannover,Paderborn,1,2
+2396,H,Werder Bremen,Augsburg,3,2
+2397,H,M'gladbach,FC Koln,1,0
+2398,A,Leverkusen,Wolfsburg,4,5
+2399,H,Hoffenheim,Stuttgart,2,1
+2400,H,Ein Frankfurt,Schalke 04,1,0
+2401,H,Bayern Munich,Hamburg,8,0
+2402,H,Dortmund,Mainz,4,2
+2403,H,Werder Bremen,Leverkusen,2,1
+2404,D,Augsburg,Ein Frankfurt,2,2
+2405,H,Wolfsburg,Hoffenheim,3,0
+2406,A,Stuttgart,Bayern Munich,0,2
+2407,A,Mainz,Hertha,0,2
+2408,H,Hamburg,Hannover,2,1
+2409,A,Freiburg,Dortmund,0,3
+2410,D,FC Koln,Paderborn,0,0
+2411,H,Schalke 04,M'gladbach,1,0
+2412,A,Paderborn,Hamburg,0,3
+2413,A,Hoffenheim,Werder Bremen,1,2
+2414,A,Hertha,Leverkusen,0,1
+2415,D,FC Koln,Stuttgart,0,0
+2416,A,Dortmund,Augsburg,0,1
+2417,H,M'gladbach,Freiburg,1,0
+2418,D,Hannover,Mainz,1,1
+2419,D,Ein Frankfurt,Wolfsburg,1,1
+2420,D,Bayern Munich,Schalke 04,1,1
+2421,H,Werder Bremen,Hertha,2,0
+2422,H,Augsburg,Hoffenheim,3,1
+2423,A,Stuttgart,M'gladbach,0,1
+2424,H,Schalke 04,Hannover,1,0
+2425,H,Mainz,Paderborn,5,0
+2426,D,Leverkusen,Dortmund,0,0
+2427,A,Hamburg,FC Koln,0,2
+2428,H,Freiburg,Ein Frankfurt,4,1
+2429,H,Wolfsburg,Bayern Munich,4,1
+2430,A,Hertha,Hoffenheim,0,5
+2431,D,Freiburg,Hannover,2,2
+2432,H,Wolfsburg,FC Koln,2,1
+2433,H,Werder Bremen,Dortmund,2,1
+2434,D,Stuttgart,Paderborn,0,0
+2435,D,Schalke 04,Hamburg,0,0
+2436,D,Leverkusen,Ein Frankfurt,1,1
+2437,H,Augsburg,M'gladbach,2,1
+2438,A,Mainz,Bayern Munich,1,2
+2439,A,Paderborn,Schalke 04,1,2
+2440,H,M'gladbach,Werder Bremen,4,1
+2441,A,Hoffenheim,Leverkusen,0,1
+2442,D,Ein Frankfurt,Hertha,4,4
+2443,D,Dortmund,Wolfsburg,2,2
+2444,H,Hannover,Augsburg,2,0
+2445,A,Hamburg,Stuttgart,0,1
+2446,D,FC Koln,Mainz,0,0
+2447,H,Bayern Munich,Freiburg,2,0
+2448,D,Wolfsburg,Paderborn,1,1
+2449,D,Leverkusen,M'gladbach,1,1
+2450,D,Werder Bremen,Hannover,3,3
+2451,A,Schalke 04,FC Koln,1,2
+2452,D,Mainz,Stuttgart,1,1
+2453,H,Hertha,Dortmund,1,0
+2454,D,Freiburg,Hamburg,0,0
+2455,A,Augsburg,Bayern Munich,0,4
+2456,H,Hoffenheim,Ein Frankfurt,3,2
+2457,H,Hamburg,Mainz,2,1
+2458,H,Ein Frankfurt,Werder Bremen,5,2
+2459,A,Stuttgart,Schalke 04,0,4
+2460,D,Paderborn,Freiburg,1,1
+2461,H,M'gladbach,Hertha,3,2
+2462,A,Hannover,Wolfsburg,1,3
+2463,A,FC Koln,Augsburg,1,2
+2464,H,Bayern Munich,Leverkusen,1,0
+2465,H,Dortmund,Hoffenheim,1,0
+2466,H,Wolfsburg,M'gladbach,1,0
+2467,H,Ein Frankfurt,Dortmund,2,0
+2468,H,Werder Bremen,Paderborn,4,0
+2469,H,Schalke 04,Mainz,4,1
+2470,H,Leverkusen,FC Koln,5,1
+2471,H,Hoffenheim,Hannover,4,3
+2472,A,Hertha,Bayern Munich,0,1
+2473,H,Augsburg,Hamburg,3,1
+2474,A,Freiburg,Stuttgart,1,4
+2475,A,Stuttgart,Augsburg,0,1
+2476,H,Hamburg,Werder Bremen,2,0
+2477,H,Schalke 04,Wolfsburg,3,2
+2478,D,Paderborn,Dortmund,2,2
+2479,A,M'gladbach,Ein Frankfurt,1,3
+2480,D,Mainz,Freiburg,2,2
+2481,A,Hannover,Leverkusen,1,3
+2482,A,FC Koln,Hertha,1,2
+2483,H,Bayern Munich,Hoffenheim,4,0
+2484,H,Wolfsburg,Hamburg,2,0
+2485,H,Dortmund,M'gladbach,1,0
+2486,H,Werder Bremen,Stuttgart,2,0
+2487,D,Leverkusen,Mainz,0,0
+2488,A,Hoffenheim,FC Koln,3,4
+2489,H,Freiburg,Schalke 04,2,0
+2490,A,Ein Frankfurt,Bayern Munich,0,4
+2491,H,Augsburg,Paderborn,3,0
+2492,A,Hertha,Hannover,0,2
+2493,H,Paderborn,Hertha,3,1
+2494,H,M'gladbach,Hoffenheim,3,1
+2495,A,FC Koln,Freiburg,0,1
+2496,A,Stuttgart,Wolfsburg,0,4
+2497,A,Mainz,Werder Bremen,1,2
+2498,H,Hannover,Ein Frankfurt,1,0
+2499,H,Hamburg,Leverkusen,1,0
+2500,H,Bayern Munich,Dortmund,2,1
+2501,H,Schalke 04,Augsburg,1,0
+2502,H,Wolfsburg,Mainz,3,0
+2503,D,M'gladbach,Bayern Munich,0,0
+2504,H,Leverkusen,Schalke 04,1,0
+2505,H,Hoffenheim,Paderborn,1,0
+2506,H,Hertha,Hamburg,3,0
+2507,A,Ein Frankfurt,Stuttgart,4,5
+2508,A,Dortmund,Hannover,0,1
+2509,H,Augsburg,Freiburg,2,0
+2510,A,Werder Bremen,FC Koln,0,1
+2511,H,Paderborn,Ein Frankfurt,3,1
+2512,D,Hamburg,Hoffenheim,1,1
+2513,D,Stuttgart,Leverkusen,3,3
+2514,H,Schalke 04,Hertha,2,0
+2515,H,Mainz,Augsburg,2,1
+2516,A,Hannover,M'gladbach,0,3
+2517,A,Freiburg,Wolfsburg,1,2
+2518,H,FC Koln,Dortmund,2,1
+2519,H,Bayern Munich,Werder Bremen,6,0
+2520,H,Wolfsburg,Augsburg,1,0
+2521,D,M'gladbach,Mainz,1,1
+2522,D,Werder Bremen,Freiburg,1,1
+2523,D,Leverkusen,Paderborn,2,2
+2524,H,Hoffenheim,Schalke 04,2,1
+2525,H,Ein Frankfurt,FC Koln,3,2
+2526,A,Dortmund,Hamburg,0,1
+2527,H,Bayern Munich,Hannover,4,0
+2528,H,Hertha,Stuttgart,3,2
+2529,A,Hamburg,Ein Frankfurt,1,2
+2530,H,Augsburg,Hertha,1,0
+2531,H,Wolfsburg,Werder Bremen,2,1
+2532,H,Stuttgart,Hannover,1,0
+2533,H,Schalke 04,Dortmund,2,1
+2534,A,Paderborn,M'gladbach,1,2
+2535,D,Freiburg,Leverkusen,0,0
+2536,A,FC Koln,Bayern Munich,0,2
+2537,D,Mainz,Hoffenheim,0,0
+2538,H,M'gladbach,Hamburg,1,0
+2539,H,Leverkusen,Augsburg,1,0
+2540,H,Hertha,Wolfsburg,1,0
+2541,H,Hannover,FC Koln,1,0
+2542,D,Dortmund,Stuttgart,2,2
+2543,A,Werder Bremen,Schalke 04,0,3
+2544,D,Hoffenheim,Freiburg,3,3
+2545,D,Ein Frankfurt,Mainz,2,2
+2546,H,Bayern Munich,Paderborn,4,0
+2547,H,Wolfsburg,Leverkusen,4,1
+2548,D,FC Koln,M'gladbach,0,0
+2549,A,Stuttgart,Hoffenheim,0,2
+2550,D,Schalke 04,Ein Frankfurt,2,2
+2551,H,Paderborn,Hannover,2,0
+2552,H,Mainz,Dortmund,2,0
+2553,D,Hamburg,Bayern Munich,0,0
+2554,H,Augsburg,Werder Bremen,4,2
+2555,D,Freiburg,Hertha,2,2
+2556,H,Hannover,Hamburg,2,0
+2557,A,Ein Frankfurt,Augsburg,0,1
+2558,D,Paderborn,FC Koln,0,0
+2559,H,M'gladbach,Schalke 04,4,1
+2560,D,Hoffenheim,Wolfsburg,1,1
+2561,A,Hertha,Mainz,1,3
+2562,H,Dortmund,Freiburg,3,1
+2563,H,Bayern Munich,Stuttgart,2,0
+2564,D,Leverkusen,Werder Bremen,3,3
+2565,D,Mainz,Hannover,0,0
+2566,D,Freiburg,M'gladbach,0,0
+2567,D,Wolfsburg,Ein Frankfurt,2,2
+2568,D,Werder Bremen,Hoffenheim,1,1
+2569,A,Stuttgart,FC Koln,0,2
+2570,D,Schalke 04,Bayern Munich,1,1
+2571,H,Leverkusen,Hertha,4,2
+2572,A,Hamburg,Paderborn,0,3
+2573,A,Augsburg,Dortmund,2,3
+2574,D,Paderborn,Mainz,2,2
+2575,D,M'gladbach,Stuttgart,1,1
+2576,H,Hoffenheim,Augsburg,2,0
+2577,D,Hertha,Werder Bremen,2,2
+2578,H,Hannover,Schalke 04,2,1
+2579,D,FC Koln,Hamburg,0,0
+2580,H,Ein Frankfurt,Freiburg,1,0
+2581,A,Dortmund,Leverkusen,0,2
+2582,H,Bayern Munich,Wolfsburg,2,1
+2583,H,Wolfsburg,M'gladbach,3,1
+2584,H,Schalke 04,Nurnberg,4,1
+2585,H,Mainz,Hamburg,3,2
+2586,H,Leverkusen,Werder Bremen,2,1
+2587,H,Hoffenheim,Braunschweig,3,1
+2588,A,Hertha,Dortmund,0,4
+2589,H,Hannover,Freiburg,3,2
+2590,H,Bayern Munich,Stuttgart,1,0
+2591,H,Augsburg,Ein Frankfurt,2,1
+2592,H,Werder Bremen,Hertha,2,0
+2593,A,Stuttgart,Wolfsburg,1,2
+2594,A,Nurnberg,Hannover,0,2
+2595,H,M'gladbach,Mainz,3,1
+2596,A,Hamburg,Bayern Munich,1,4
+2597,A,Freiburg,Schalke 04,0,2
+2598,A,Ein Frankfurt,Leverkusen,0,2
+2599,H,Dortmund,Hoffenheim,3,2
+2600,A,Braunschweig,Augsburg,0,1
+2601,A,Schalke 04,M'gladbach,0,1
+2602,H,Augsburg,Hamburg,3,1
+2603,D,Wolfsburg,Freiburg,2,2
+2604,H,Mainz,Nurnberg,2,0
+2605,D,Leverkusen,Dortmund,2,2
+2606,D,Hoffenheim,Ein Frankfurt,0,0
+2607,H,Hertha,Braunschweig,2,0
+2608,H,Bayern Munich,Werder Bremen,5,2
+2609,D,Hannover,Stuttgart,0,0
+2610,H,Stuttgart,Schalke 04,3,1
+2611,A,Nurnberg,Leverkusen,1,4
+2612,H,Werder Bremen,Hoffenheim,3,1
+2613,A,Hamburg,Wolfsburg,1,3
+2614,H,Freiburg,M'gladbach,4,2
+2615,H,Dortmund,Mainz,4,2
+2616,A,Braunschweig,Bayern Munich,0,2
+2617,D,Augsburg,Hertha,0,0
+2618,A,Ein Frankfurt,Hannover,2,3
+2619,H,Leverkusen,Hertha,2,1
+2620,H,Hoffenheim,Augsburg,2,0
+2621,H,Wolfsburg,Nurnberg,4,1
+2622,D,M'gladbach,Stuttgart,1,1
+2623,H,Mainz,Werder Bremen,3,0
+2624,H,Hannover,Hamburg,2,1
+2625,H,Freiburg,Braunschweig,2,0
+2626,A,Bayern Munich,Dortmund,0,3
+2627,H,Schalke 04,Ein Frankfurt,2,0
+2628,D,Hertha,Hoffenheim,1,1
+2629,H,Braunschweig,Hannover,3,0
+2630,D,Werder Bremen,Schalke 04,1,1
+2631,H,Stuttgart,Freiburg,2,0
+2632,A,Nurnberg,M'gladbach,0,2
+2633,H,Ein Frankfurt,Mainz,2,0
+2634,H,Dortmund,Wolfsburg,2,1
+2635,H,Augsburg,Bayern Munich,1,0
+2636,H,Hamburg,Leverkusen,2,1
+2637,H,M'gladbach,Hamburg,3,1
+2638,A,Hannover,Werder Bremen,1,2
+2639,H,Wolfsburg,Ein Frankfurt,2,1
+2640,A,Stuttgart,Dortmund,2,3
+2641,H,Mainz,Augsburg,3,0
+2642,D,Leverkusen,Braunschweig,1,1
+2643,H,Freiburg,Nurnberg,3,2
+2644,D,Bayern Munich,Hoffenheim,3,3
+2645,H,Schalke 04,Hertha,2,0
+2646,H,Nurnberg,Stuttgart,2,0
+2647,H,Hoffenheim,Hannover,3,1
+2648,D,Hamburg,Freiburg,1,1
+2649,H,Ein Frankfurt,M'gladbach,1,0
+2650,A,Augsburg,Leverkusen,1,3
+2651,A,Werder Bremen,Wolfsburg,1,3
+2652,A,Hertha,Bayern Munich,1,3
+2653,D,Dortmund,Schalke 04,0,0
+2654,H,Braunschweig,Mainz,3,1
+2655,A,Nurnberg,Ein Frankfurt,2,5
+2656,A,Leverkusen,Hoffenheim,2,3
+2657,D,Wolfsburg,Augsburg,1,1
+2658,H,Stuttgart,Hamburg,1,0
+2659,H,Schalke 04,Braunschweig,3,1
+2660,H,M'gladbach,Hertha,3,0
+2661,A,Mainz,Bayern Munich,0,2
+2662,A,Hannover,Dortmund,0,3
+2663,H,Freiburg,Werder Bremen,3,1
+2664,H,Hamburg,Nurnberg,2,1
+2665,A,Ein Frankfurt,Freiburg,1,4
+2666,D,Werder Bremen,Stuttgart,1,1
+2667,A,Hoffenheim,Mainz,2,4
+2668,A,Hertha,Hannover,0,3
+2669,A,Dortmund,M'gladbach,1,2
+2670,D,Braunschweig,Wolfsburg,1,1
+2671,H,Bayern Munich,Leverkusen,2,1
+2672,A,Augsburg,Schalke 04,1,2
+2673,D,Mainz,Hertha,1,1
+2674,A,Freiburg,Dortmund,0,1
+2675,A,Wolfsburg,Bayern Munich,1,6
+2676,D,Stuttgart,Braunschweig,2,2
+2677,H,Schalke 04,Hoffenheim,4,0
+2678,A,Nurnberg,Werder Bremen,0,2
+2679,A,M'gladbach,Augsburg,1,2
+2680,D,Hannover,Leverkusen,1,1
+2681,D,Hamburg,Ein Frankfurt,1,1
+2682,H,Hoffenheim,Wolfsburg,6,2
+2683,H,Ein Frankfurt,Stuttgart,2,1
+2684,H,Werder Bremen,Hamburg,1,0
+2685,A,Leverkusen,Mainz,0,1
+2686,H,Dortmund,Nurnberg,3,0
+2687,D,Braunschweig,M'gladbach,1,1
+2688,H,Bayern Munich,Schalke 04,5,1
+2689,D,Augsburg,Hannover,1,1
+2690,D,Hertha,Freiburg,0,0
+2691,A,Hannover,Bayern Munich,0,4
+2692,D,Ein Frankfurt,Werder Bremen,0,0
+2693,H,Wolfsburg,Leverkusen,3,1
+2694,A,Stuttgart,Hertha,1,2
+2695,H,Nurnberg,Braunschweig,2,1
+2696,D,M'gladbach,Hoffenheim,2,2
+2697,H,Hamburg,Dortmund,3,0
+2698,A,Freiburg,Augsburg,2,4
+2699,D,Schalke 04,Mainz,0,0
+2700,A,Hertha,Wolfsburg,1,2
+2701,A,Augsburg,Nurnberg,0,1
+2702,D,Werder Bremen,M'gladbach,1,1
+2703,A,Leverkusen,Schalke 04,1,2
+2704,H,Hoffenheim,Stuttgart,4,1
+2705,H,Dortmund,Ein Frankfurt,4,0
+2706,H,Braunschweig,Hamburg,4,2
+2707,H,Bayern Munich,Freiburg,4,0
+2708,H,Mainz,Hannover,2,0
+2709,A,Stuttgart,Augsburg,1,4
+2710,H,Schalke 04,Hannover,2,0
+2711,H,Wolfsburg,Mainz,3,0
+2712,A,Werder Bremen,Dortmund,1,5
+2713,A,Nurnberg,Bayern Munich,0,2
+2714,A,Hamburg,Hertha,0,3
+2715,D,Freiburg,Hoffenheim,1,1
+2716,H,Ein Frankfurt,Braunschweig,3,0
+2717,A,M'gladbach,Leverkusen,0,1
+2718,A,Hertha,Nurnberg,1,3
+2719,H,Bayern Munich,Ein Frankfurt,5,0
+2720,H,Schalke 04,Wolfsburg,2,1
+2721,H,Mainz,Freiburg,2,0
+2722,H,Leverkusen,Stuttgart,2,1
+2723,H,Hoffenheim,Hamburg,3,0
+2724,H,Hannover,M'gladbach,3,1
+2725,H,Augsburg,Werder Bremen,3,1
+2726,A,Braunschweig,Dortmund,1,2
+2727,A,Stuttgart,Bayern Munich,1,2
+2728,D,Werder Bremen,Braunschweig,0,0
+2729,A,Hamburg,Schalke 04,0,3
+2730,A,Wolfsburg,Hannover,1,3
+2731,A,Stuttgart,Mainz,1,2
+2732,H,Nurnberg,Hoffenheim,4,0
+2733,H,Freiburg,Leverkusen,3,2
+2734,H,Ein Frankfurt,Hertha,1,0
+2735,D,Dortmund,Augsburg,2,2
+2736,A,M'gladbach,Bayern Munich,0,2
+2737,D,M'gladbach,Wolfsburg,2,2
+2738,H,Werder Bremen,Leverkusen,1,0
+2739,D,Nurnberg,Schalke 04,0,0
+2740,A,Hamburg,Mainz,2,3
+2741,H,Freiburg,Hannover,2,1
+2742,A,Dortmund,Hertha,1,2
+2743,H,Braunschweig,Hoffenheim,1,0
+2744,D,Ein Frankfurt,Augsburg,1,1
+2745,H,Schalke 04,Freiburg,2,0
+2746,A,Leverkusen,Ein Frankfurt,0,1
+2747,H,Wolfsburg,Stuttgart,3,1
+2748,D,Mainz,M'gladbach,0,0
+2749,D,Hoffenheim,Dortmund,2,2
+2750,D,Hannover,Nurnberg,3,3
+2751,H,Bayern Munich,Hamburg,3,1
+2752,H,Augsburg,Braunschweig,4,1
+2753,H,Hertha,Werder Bremen,3,2
+2754,A,Freiburg,Wolfsburg,0,3
+2755,A,Braunschweig,Hertha,0,2
+2756,A,Werder Bremen,Bayern Munich,0,7
+2757,H,Stuttgart,Hannover,4,2
+2758,H,M'gladbach,Schalke 04,2,1
+2759,A,Hamburg,Augsburg,0,1
+2760,A,Ein Frankfurt,Hoffenheim,1,2
+2761,A,Dortmund,Leverkusen,0,1
+2762,D,Nurnberg,Mainz,1,1
+2763,H,M'gladbach,Freiburg,1,0
+2764,H,Hannover,Ein Frankfurt,2,0
+2765,H,Schalke 04,Stuttgart,3,0
+2766,A,Mainz,Dortmund,1,3
+2767,H,Leverkusen,Nurnberg,3,0
+2768,D,Hoffenheim,Werder Bremen,4,4
+2769,D,Hertha,Augsburg,0,0
+2770,H,Bayern Munich,Braunschweig,2,0
+2771,D,Wolfsburg,Hamburg,1,1
+2772,A,Werder Bremen,Mainz,2,3
+2773,H,Hamburg,Hannover,3,1
+2774,D,Nurnberg,Wolfsburg,1,1
+2775,A,Hertha,Leverkusen,0,1
+2776,D,Ein Frankfurt,Schalke 04,3,3
+2777,A,Dortmund,Bayern Munich,0,3
+2778,A,Braunschweig,Freiburg,0,1
+2779,H,Augsburg,Hoffenheim,2,0
+2780,A,Stuttgart,M'gladbach,0,2
+2781,H,Mainz,Ein Frankfurt,1,0
+2782,A,Freiburg,Stuttgart,1,3
+2783,H,Wolfsburg,Dortmund,2,1
+2784,H,Schalke 04,Werder Bremen,3,1
+2785,H,M'gladbach,Nurnberg,3,1
+2786,H,Leverkusen,Hamburg,5,3
+2787,A,Hoffenheim,Hertha,2,3
+2788,H,Bayern Munich,Augsburg,3,0
+2789,D,Hannover,Braunschweig,0,0
+2790,H,Werder Bremen,Hannover,3,2
+2791,H,Augsburg,Mainz,2,1
+2792,A,Nurnberg,Freiburg,0,3
+2793,A,Hoffenheim,Bayern Munich,1,2
+2794,A,Hertha,Schalke 04,0,2
+2795,A,Hamburg,M'gladbach,0,2
+2796,A,Ein Frankfurt,Wolfsburg,1,2
+2797,H,Braunschweig,Leverkusen,1,0
+2798,H,Dortmund,Stuttgart,6,1
+2799,H,M'gladbach,Ein Frankfurt,4,1
+2800,A,Freiburg,Hamburg,0,3
+2801,H,Wolfsburg,Werder Bremen,3,0
+2802,A,Schalke 04,Dortmund,1,3
+2803,H,Mainz,Braunschweig,2,0
+2804,H,Leverkusen,Augsburg,2,1
+2805,A,Hannover,Hoffenheim,1,4
+2806,H,Bayern Munich,Hertha,3,2
+2807,D,Stuttgart,Nurnberg,1,1
+2808,D,Hamburg,Stuttgart,3,3
+2809,A,Augsburg,Wolfsburg,1,2
+2810,D,Werder Bremen,Freiburg,0,0
+2811,H,Hertha,M'gladbach,1,0
+2812,D,Ein Frankfurt,Nurnberg,1,1
+2813,H,Dortmund,Hannover,1,0
+2814,A,Braunschweig,Schalke 04,2,3
+2815,H,Bayern Munich,Mainz,4,1
+2816,A,Hoffenheim,Leverkusen,1,2
+2817,A,Nurnberg,Hamburg,0,5
+2818,D,Freiburg,Ein Frankfurt,1,1
+2819,A,Wolfsburg,Braunschweig,0,2
+2820,D,Stuttgart,Werder Bremen,1,1
+2821,H,Schalke 04,Augsburg,4,1
+2822,H,M'gladbach,Dortmund,2,0
+2823,D,Mainz,Hoffenheim,2,2
+2824,D,Leverkusen,Bayern Munich,1,1
+2825,D,Hannover,Hertha,1,1
+2826,D,Werder Bremen,Nurnberg,3,3
+2827,A,Braunschweig,Stuttgart,0,4
+2828,H,Leverkusen,Hannover,2,0
+2829,D,Hoffenheim,Schalke 04,3,3
+2830,H,Hertha,Mainz,3,1
+2831,D,Ein Frankfurt,Hamburg,2,2
+2832,H,Dortmund,Freiburg,5,0
+2833,H,Bayern Munich,Wolfsburg,1,0
+2834,D,Augsburg,M'gladbach,2,2
+2835,D,Stuttgart,Ein Frankfurt,1,1
+2836,D,Freiburg,Hertha,1,1
+2837,H,Wolfsburg,Hoffenheim,2,1
+2838,A,Schalke 04,Bayern Munich,0,4
+2839,D,Nurnberg,Dortmund,1,1
+2840,A,Mainz,Leverkusen,1,4
+2841,H,Hannover,Augsburg,2,1
+2842,A,Hamburg,Werder Bremen,0,2
+2843,H,M'gladbach,Braunschweig,4,1
+2844,H,Hoffenheim,M'gladbach,2,1
+2845,D,Braunschweig,Nurnberg,1,1
+2846,A,Werder Bremen,Ein Frankfurt,0,3
+2847,A,Mainz,Schalke 04,0,1
+2848,H,Leverkusen,Wolfsburg,3,1
+2849,H,Dortmund,Hamburg,6,2
+2850,H,Bayern Munich,Hannover,2,0
+2851,H,Augsburg,Freiburg,2,1
+2852,A,Hertha,Stuttgart,0,1
+2853,H,Stuttgart,Hoffenheim,6,2
+2854,A,Ein Frankfurt,Dortmund,1,2
+2855,H,Wolfsburg,Hertha,2,0
+2856,H,Schalke 04,Leverkusen,2,0
+2857,A,Nurnberg,Augsburg,0,1
+2858,H,M'gladbach,Werder Bremen,4,1
+2859,H,Hannover,Mainz,4,1
+2860,H,Hamburg,Braunschweig,4,0
+2861,D,Freiburg,Bayern Munich,1,1
+2862,A,Braunschweig,Ein Frankfurt,0,2
+2863,H,Augsburg,Stuttgart,2,1
+2864,H,Mainz,Wolfsburg,2,0
+2865,H,Leverkusen,M'gladbach,4,2
+2866,D,Hoffenheim,Freiburg,3,3
+2867,H,Hertha,Hamburg,1,0
+2868,H,Hannover,Schalke 04,2,1
+2869,H,Bayern Munich,Nurnberg,2,0
+2870,H,Dortmund,Werder Bremen,1,0
+2871,D,Nurnberg,Hertha,2,2
+2872,H,Dortmund,Braunschweig,2,1
+2873,H,Wolfsburg,Schalke 04,4,0
+2874,H,Werder Bremen,Augsburg,1,0
+2875,A,Stuttgart,Leverkusen,0,1
+2876,H,M'gladbach,Hannover,3,0
+2877,A,Hamburg,Hoffenheim,1,5
+2878,A,Freiburg,Mainz,1,2
+2879,A,Ein Frankfurt,Bayern Munich,0,1
+2880,D,Schalke 04,Hamburg,3,3
+2881,H,Mainz,Stuttgart,3,2
+2882,H,Leverkusen,Freiburg,3,1
+2883,D,Hoffenheim,Nurnberg,2,2
+2884,H,Hertha,Ein Frankfurt,6,1
+2885,H,Hannover,Wolfsburg,2,0
+2886,A,Braunschweig,Werder Bremen,0,1
+2887,A,Augsburg,Dortmund,0,4
+2888,H,Bayern Munich,M'gladbach,3,1
+2889,D,Stuttgart,Mainz,2,2
+2890,H,Nurnberg,Werder Bremen,3,2
+2891,A,M'gladbach,Bayern Munich,3,4
+2892,H,Hannover,Fortuna Dusseldorf,3,0
+2893,A,Hamburg,Leverkusen,0,1
+2894,A,Freiburg,Schalke 04,1,2
+2895,D,Ein Frankfurt,Wolfsburg,2,2
+2896,A,Dortmund,Hoffenheim,1,2
+2897,H,Augsburg,Greuther Furth,3,1
+2898,D,Wolfsburg,Dortmund,3,3
+2899,D,Werder Bremen,Ein Frankfurt,1,1
+2900,A,Schalke 04,Stuttgart,1,2
+2901,A,Mainz,M'gladbach,2,4
+2902,H,Leverkusen,Hannover,3,1
+2903,A,Hoffenheim,Hamburg,1,4
+2904,A,Greuther Furth,Freiburg,1,2
+2905,A,Fortuna Dusseldorf,Nurnberg,1,2
+2906,H,Bayern Munich,Augsburg,3,0
+2907,D,Hamburg,Wolfsburg,1,1
+2908,H,Freiburg,Augsburg,2,0
+2909,D,Werder Bremen,Hoffenheim,2,2
+2910,A,Stuttgart,Greuther Furth,0,2
+2911,A,Nurnberg,Leverkusen,0,2
+2912,D,Hannover,Mainz,2,2
+2913,H,Ein Frankfurt,Fortuna Dusseldorf,3,1
+2914,D,Dortmund,Bayern Munich,1,1
+2915,A,M'gladbach,Schalke 04,0,1
+2916,H,Schalke 04,Hamburg,4,1
+2917,D,Mainz,Ein Frankfurt,0,0
+2918,H,Wolfsburg,M'gladbach,3,1
+2919,H,Leverkusen,Werder Bremen,1,0
+2920,H,Hoffenheim,Nurnberg,2,1
+2921,A,Fortuna Dusseldorf,Dortmund,1,2
+2922,H,Bayern Munich,Freiburg,1,0
+2923,H,Augsburg,Stuttgart,3,0
+2924,A,Greuther Furth,Hannover,2,3
+2925,H,Stuttgart,Freiburg,2,1
+2926,A,Nurnberg,Greuther Furth,0,1
+2927,A,Werder Bremen,Wolfsburg,0,3
+2928,H,Leverkusen,Hoffenheim,5,0
+2929,A,Hannover,Bayern Munich,1,6
+2930,H,Hamburg,Fortuna Dusseldorf,2,1
+2931,H,Ein Frankfurt,Schalke 04,1,0
+2932,H,Dortmund,Mainz,2,0
+2933,H,M'gladbach,Augsburg,1,0
+2934,H,Stuttgart,M'gladbach,2,0
+2935,H,Augsburg,Ein Frankfurt,2,0
+2936,D,Wolfsburg,Hoffenheim,2,2
+2937,D,Schalke 04,Leverkusen,2,2
+2938,A,Mainz,Hamburg,1,2
+2939,A,Greuther Furth,Dortmund,1,6
+2940,D,Fortuna Dusseldorf,Werder Bremen,2,2
+2941,H,Bayern Munich,Nurnberg,4,0
+2942,H,Freiburg,Hannover,3,1
+2943,H,Nurnberg,Mainz,2,1
+2944,D,Hannover,Stuttgart,0,0
+2945,A,Werder Bremen,Schalke 04,0,2
+2946,H,M'gladbach,Greuther Furth,1,0
+2947,D,Leverkusen,Wolfsburg,1,1
+2948,A,Hamburg,Freiburg,0,1
+2949,A,Ein Frankfurt,Bayern Munich,0,1
+2950,H,Dortmund,Augsburg,4,2
+2951,H,Hoffenheim,Fortuna Dusseldorf,3,0
+2952,D,Wolfsburg,Nurnberg,2,2
+2953,A,Greuther Furth,Ein Frankfurt,2,3
+2954,A,Stuttgart,Dortmund,1,2
+2955,H,Schalke 04,Hoffenheim,3,0
+2956,D,Mainz,Werder Bremen,1,1
+2957,H,Freiburg,M'gladbach,2,0
+2958,A,Fortuna Dusseldorf,Leverkusen,1,4
+2959,H,Bayern Munich,Hamburg,9,2
+2960,A,Augsburg,Hannover,0,2
+2961,H,M'gladbach,Hannover,1,0
+2962,A,Ein Frankfurt,Stuttgart,1,2
+2963,D,Werder Bremen,Greuther Furth,2,2
+2964,H,Nurnberg,Schalke 04,3,0
+2965,A,Leverkusen,Bayern Munich,1,2
+2966,D,Hoffenheim,Mainz,0,0
+2967,A,Hamburg,Augsburg,0,1
+2968,H,Dortmund,Freiburg,5,1
+2969,D,Wolfsburg,Fortuna Dusseldorf,1,1
+2970,A,Stuttgart,Hamburg,0,1
+2971,D,Hannover,Ein Frankfurt,0,0
+2972,H,Schalke 04,Dortmund,2,1
+2973,D,M'gladbach,Werder Bremen,1,1
+2974,H,Mainz,Leverkusen,1,0
+2975,A,Greuther Furth,Hoffenheim,0,3
+2976,A,Freiburg,Wolfsburg,2,5
+2977,H,Bayern Munich,Fortuna Dusseldorf,3,2
+2978,A,Augsburg,Nurnberg,1,2
+2979,A,Hoffenheim,Bayern Munich,0,1
+2980,D,Fortuna Dusseldorf,Mainz,1,1
+2981,A,Wolfsburg,Schalke 04,1,4
+2982,A,Werder Bremen,Augsburg,0,1
+2983,D,Nurnberg,Freiburg,1,1
+2984,H,Leverkusen,Stuttgart,2,1
+2985,D,Hamburg,Greuther Furth,1,1
+2986,H,Dortmund,Hannover,3,1
+2987,A,Ein Frankfurt,M'gladbach,0,1
+2988,D,M'gladbach,Dortmund,1,1
+2989,D,Greuther Furth,Leverkusen,0,0
+2990,D,Stuttgart,Nurnberg,1,1
+2991,H,Schalke 04,Fortuna Dusseldorf,2,1
+2992,D,Mainz,Wolfsburg,1,1
+2993,H,Hannover,Hamburg,5,1
+2994,H,Bayern Munich,Werder Bremen,6,1
+2995,H,Augsburg,Hoffenheim,2,1
+2996,D,Freiburg,Ein Frankfurt,0,0
+2997,D,Nurnberg,Hannover,2,2
+2998,A,Hoffenheim,Stuttgart,0,1
+2999,A,Werder Bremen,Freiburg,2,3
+3000,D,Mainz,Schalke 04,2,2
+3001,H,Leverkusen,Augsburg,2,1
+3002,H,Hamburg,M'gladbach,1,0
+3003,H,Fortuna Dusseldorf,Greuther Furth,1,0
+3004,H,Dortmund,Ein Frankfurt,3,0
+3005,A,Wolfsburg,Bayern Munich,0,2
+3006,H,Freiburg,Fortuna Dusseldorf,1,0
+3007,D,Augsburg,Mainz,1,1
+3008,A,Stuttgart,Werder Bremen,1,4
+3009,D,M'gladbach,Leverkusen,3,3
+3010,H,Hannover,Hoffenheim,1,0
+3011,A,Greuther Furth,Wolfsburg,0,1
+3012,D,Ein Frankfurt,Nurnberg,0,0
+3013,A,Dortmund,Hamburg,1,4
+3014,H,Bayern Munich,Schalke 04,4,0
+3015,H,Nurnberg,M'gladbach,2,1
+3016,A,Leverkusen,Dortmund,2,3
+3017,D,Wolfsburg,Augsburg,1,1
+3018,A,Schalke 04,Greuther Furth,1,2
+3019,A,Mainz,Bayern Munich,0,3
+3020,H,Hoffenheim,Freiburg,2,1
+3021,A,Hamburg,Ein Frankfurt,0,2
+3022,H,Fortuna Dusseldorf,Stuttgart,3,1
+3023,H,Werder Bremen,Hannover,2,0
+3024,A,Stuttgart,Bayern Munich,0,2
+3025,H,Hamburg,Werder Bremen,3,2
+3026,H,M'gladbach,Fortuna Dusseldorf,2,1
+3027,H,Hannover,Wolfsburg,2,1
+3028,A,Greuther Furth,Mainz,0,3
+3029,D,Freiburg,Leverkusen,0,0
+3030,H,Ein Frankfurt,Hoffenheim,2,1
+3031,D,Augsburg,Schalke 04,0,0
+3032,H,Dortmund,Nurnberg,3,0
+3033,D,Nurnberg,Hamburg,1,1
+3034,A,Fortuna Dusseldorf,Augsburg,2,3
+3035,H,Wolfsburg,Stuttgart,2,0
+3036,A,Werder Bremen,Dortmund,0,5
+3037,D,Mainz,Freiburg,0,0
+3038,H,Leverkusen,Ein Frankfurt,3,1
+3039,D,Hoffenheim,M'gladbach,0,0
+3040,H,Bayern Munich,Greuther Furth,2,0
+3041,H,Schalke 04,Hannover,5,4
+3042,D,Werder Bremen,Nurnberg,1,1
+3043,A,Hoffenheim,Dortmund,1,3
+3044,A,Wolfsburg,Ein Frankfurt,0,2
+3045,A,Schalke 04,Freiburg,1,3
+3046,H,Mainz,Stuttgart,3,1
+3047,H,Leverkusen,Hamburg,3,0
+3048,D,Greuther Furth,Augsburg,1,1
+3049,H,Fortuna Dusseldorf,Hannover,2,1
+3050,D,Bayern Munich,M'gladbach,1,1
+3051,H,M'gladbach,Mainz,2,0
+3052,H,Hannover,Leverkusen,3,2
+3053,H,Stuttgart,Schalke 04,3,1
+3054,H,Nurnberg,Fortuna Dusseldorf,2,0
+3055,H,Freiburg,Greuther Furth,1,0
+3056,H,Ein Frankfurt,Werder Bremen,4,1
+3057,A,Dortmund,Wolfsburg,2,3
+3058,A,Augsburg,Bayern Munich,0,2
+3059,H,Hamburg,Hoffenheim,2,0
+3060,D,Wolfsburg,Hamburg,1,1
+3061,A,Hoffenheim,Werder Bremen,1,4
+3062,D,Schalke 04,M'gladbach,1,1
+3063,H,Mainz,Hannover,2,1
+3064,H,Leverkusen,Nurnberg,1,0
+3065,A,Greuther Furth,Stuttgart,0,1
+3066,D,Bayern Munich,Dortmund,1,1
+3067,D,Augsburg,Freiburg,1,1
+3068,H,Fortuna Dusseldorf,Ein Frankfurt,4,0
+3069,A,Werder Bremen,Leverkusen,1,4
+3070,H,Stuttgart,Augsburg,2,1
+3071,H,Nurnberg,Hoffenheim,4,2
+3072,H,M'gladbach,Wolfsburg,2,0
+3073,A,Freiburg,Bayern Munich,0,2
+3074,H,Hannover,Greuther Furth,2,0
+3075,H,Hamburg,Schalke 04,3,1
+3076,A,Ein Frankfurt,Mainz,1,3
+3077,D,Dortmund,Fortuna Dusseldorf,1,1
+3078,A,Hoffenheim,Leverkusen,1,2
+3079,H,Freiburg,Stuttgart,3,0
+3080,D,Augsburg,M'gladbach,1,1
+3081,D,Wolfsburg,Werder Bremen,1,1
+3082,D,Schalke 04,Ein Frankfurt,1,1
+3083,A,Mainz,Dortmund,1,2
+3084,D,Greuther Furth,Nurnberg,0,0
+3085,H,Bayern Munich,Hannover,5,0
+3086,H,Fortuna Dusseldorf,Hamburg,2,0
+3087,H,Werder Bremen,Fortuna Dusseldorf,2,1
+3088,A,Hoffenheim,Wolfsburg,1,3
+3089,D,Nurnberg,Bayern Munich,1,1
+3090,A,M'gladbach,Stuttgart,1,2
+3091,H,Leverkusen,Schalke 04,2,0
+3092,A,Hannover,Freiburg,1,2
+3093,H,Hamburg,Mainz,1,0
+3094,H,Ein Frankfurt,Augsburg,4,2
+3095,H,Dortmund,Greuther Furth,3,1
+3096,H,Wolfsburg,Leverkusen,3,1
+3097,A,Stuttgart,Hannover,2,4
+3098,A,Greuther Furth,M'gladbach,2,4
+3099,H,Schalke 04,Werder Bremen,2,1
+3100,D,Freiburg,Hamburg,0,0
+3101,D,Fortuna Dusseldorf,Hoffenheim,1,1
+3102,H,Bayern Munich,Ein Frankfurt,2,0
+3103,A,Augsburg,Dortmund,1,3
+3104,H,Mainz,Nurnberg,2,1
+3105,H,Werder Bremen,Mainz,2,1
+3106,H,Leverkusen,Fortuna Dusseldorf,3,2
+3107,H,Nurnberg,Wolfsburg,1,0
+3108,D,M'gladbach,Freiburg,1,1
+3109,H,Hoffenheim,Schalke 04,3,2
+3110,H,Hannover,Augsburg,2,0
+3111,A,Hamburg,Bayern Munich,0,3
+3112,D,Dortmund,Stuttgart,0,0
+3113,D,Ein Frankfurt,Greuther Furth,1,1
+3114,H,Stuttgart,Ein Frankfurt,2,1
+3115,A,Hannover,M'gladbach,2,3
+3116,A,Bayern Munich,Leverkusen,1,2
+3117,H,Schalke 04,Nurnberg,1,0
+3118,H,Mainz,Hoffenheim,3,0
+3119,D,Greuther Furth,Werder Bremen,1,1
+3120,A,Freiburg,Dortmund,0,2
+3121,A,Fortuna Dusseldorf,Wolfsburg,1,4
+3122,A,Augsburg,Hamburg,0,2
+3123,D,Nurnberg,Augsburg,0,0
+3124,A,Hamburg,Stuttgart,0,1
+3125,A,Wolfsburg,Freiburg,0,2
+3126,H,Werder Bremen,M'gladbach,4,0
+3127,D,Leverkusen,Mainz,2,2
+3128,A,Fortuna Dusseldorf,Bayern Munich,0,5
+3129,H,Ein Frankfurt,Hannover,3,1
+3130,A,Dortmund,Schalke 04,1,2
+3131,D,Hoffenheim,Greuther Furth,3,3
+3132,D,Stuttgart,Leverkusen,2,2
+3133,H,M'gladbach,Ein Frankfurt,2,0
+3134,D,Hannover,Dortmund,1,1
+3135,H,Schalke 04,Wolfsburg,3,0
+3136,H,Mainz,Fortuna Dusseldorf,1,0
+3137,A,Greuther Furth,Hamburg,0,1
+3138,H,Freiburg,Nurnberg,3,0
+3139,H,Bayern Munich,Hoffenheim,2,0
+3140,H,Augsburg,Werder Bremen,3,1
+3141,A,Wolfsburg,Mainz,0,2
+3142,H,Ein Frankfurt,Freiburg,2,1
+3143,A,Werder Bremen,Bayern Munich,0,2
+3144,A,Nurnberg,Stuttgart,0,2
+3145,H,Leverkusen,Greuther Furth,2,0
+3146,D,Hoffenheim,Augsburg,0,0
+3147,H,Hamburg,Hannover,1,0
+3148,H,Dortmund,M'gladbach,5,0
+3149,D,Fortuna Dusseldorf,Schalke 04,2,2
+3150,A,Stuttgart,Hoffenheim,0,3
+3151,D,M'gladbach,Hamburg,2,2
+3152,H,Hannover,Nurnberg,4,1
+3153,A,Freiburg,Werder Bremen,1,2
+3154,A,Augsburg,Leverkusen,1,3
+3155,H,Schalke 04,Mainz,3,0
+3156,A,Greuther Furth,Fortuna Dusseldorf,0,2
+3157,D,Ein Frankfurt,Dortmund,3,3
+3158,H,Bayern Munich,Wolfsburg,3,0
+3159,D,Werder Bremen,Stuttgart,2,2
+3160,D,Leverkusen,M'gladbach,1,1
+3161,H,Hoffenheim,Hannover,3,1
+3162,D,Wolfsburg,Greuther Furth,1,1
+3163,A,Schalke 04,Bayern Munich,0,2
+3164,H,Mainz,Augsburg,2,0
+3165,H,Hamburg,Dortmund,3,2
+3166,D,Fortuna Dusseldorf,Freiburg,0,0
+3167,A,Nurnberg,Ein Frankfurt,1,2
+3168,H,Freiburg,Hoffenheim,5,3
+3169,H,Ein Frankfurt,Hamburg,3,2
+3170,D,Stuttgart,Fortuna Dusseldorf,0,0
+3171,A,M'gladbach,Nurnberg,2,3
+3172,H,Hannover,Werder Bremen,3,2
+3173,A,Greuther Furth,Schalke 04,0,2
+3174,H,Dortmund,Leverkusen,3,0
+3175,H,Bayern Munich,Mainz,3,1
+3176,D,Augsburg,Wolfsburg,0,0
+3177,A,Wolfsburg,Hannover,0,4
+3178,H,Bayern Munich,Stuttgart,6,1
+3179,H,Werder Bremen,Hamburg,2,0
+3180,H,Schalke 04,Augsburg,3,1
+3181,D,Nurnberg,Dortmund,1,1
+3182,H,Leverkusen,Freiburg,2,0
+3183,A,Hoffenheim,Ein Frankfurt,0,4
+3184,D,Fortuna Dusseldorf,M'gladbach,0,0
+3185,A,Mainz,Greuther Furth,0,1
+3186,D,Hannover,Schalke 04,2,2
+3187,A,Stuttgart,Wolfsburg,0,1
+3188,H,M'gladbach,Hoffenheim,2,1
+3189,A,Hamburg,Nurnberg,0,1
+3190,A,Greuther Furth,Bayern Munich,0,3
+3191,D,Freiburg,Mainz,1,1
+3192,H,Ein Frankfurt,Leverkusen,2,1
+3193,A,Augsburg,Fortuna Dusseldorf,0,2
+3194,H,Dortmund,Werder Bremen,2,1
+3195,A,Werder Bremen,Schalke 04,2,3
+3196,H,Stuttgart,Wolfsburg,3,2
+3197,A,Nurnberg,Leverkusen,1,4
+3198,A,Mainz,M'gladbach,0,3
+3199,H,Hertha,Hoffenheim,3,1
+3200,H,Hannover,Kaiserslautern,2,1
+3201,A,FC Koln,Bayern Munich,1,4
+3202,H,Dortmund,Freiburg,4,0
+3203,H,Augsburg,Hamburg,1,0
+3204,H,Wolfsburg,Werder Bremen,3,1
+3205,H,Schalke 04,Hertha,4,0
+3206,D,M'gladbach,Augsburg,0,0
+3207,H,Leverkusen,Hannover,1,0
+3208,A,Kaiserslautern,Dortmund,2,5
+3209,A,Hoffenheim,Nurnberg,2,3
+3210,D,Hamburg,Mainz,0,0
+3211,H,Freiburg,FC Koln,4,1
+3212,H,Bayern Munich,Stuttgart,2,0
+3213,D,Hannover,Freiburg,0,0
+3214,D,Augsburg,Schalke 04,1,1
+3215,A,Werder Bremen,Bayern Munich,1,2
+3216,D,Nurnberg,Hamburg,1,1
+3217,A,Hoffenheim,Leverkusen,0,1
+3218,A,Hertha,Kaiserslautern,1,2
+3219,D,FC Koln,Stuttgart,1,1
+3220,H,Dortmund,M'gladbach,2,0
+3221,D,Mainz,Wolfsburg,0,0
+3222,H,M'gladbach,FC Koln,3,0
+3223,D,Freiburg,Hoffenheim,0,0
+3224,A,Wolfsburg,Augsburg,1,2
+3225,A,Schalke 04,Dortmund,1,2
+3226,D,Leverkusen,Hertha,3,3
+3227,A,Kaiserslautern,Nurnberg,0,2
+3228,H,Hamburg,Hannover,1,0
+3229,D,Bayern Munich,Mainz,0,0
+3230,H,Stuttgart,Werder Bremen,4,1
+3231,H,Nurnberg,Schalke 04,4,1
+3232,H,Leverkusen,Kaiserslautern,3,1
+3233,H,Hoffenheim,Hamburg,4,0
+3234,H,Hannover,Wolfsburg,2,0
+3235,H,Dortmund,Bayern Munich,1,0
+3236,D,Werder Bremen,M'gladbach,2,2
+3237,H,Mainz,FC Koln,4,0
+3238,A,Hertha,Freiburg,1,2
+3239,A,Augsburg,Stuttgart,1,3
+3240,H,Schalke 04,Hannover,3,0
+3241,D,Hamburg,Leverkusen,1,1
+3242,A,Wolfsburg,Dortmund,1,3
+3243,H,Stuttgart,Mainz,4,1
+3244,D,M'gladbach,Hertha,0,0
+3245,A,Kaiserslautern,Hoffenheim,1,2
+3246,D,Freiburg,Nurnberg,2,2
+3247,D,FC Koln,Werder Bremen,1,1
+3248,H,Bayern Munich,Augsburg,2,1
+3249,D,Hoffenheim,Schalke 04,1,1
+3250,H,Hannover,M'gladbach,2,1
+3251,A,Werder Bremen,Mainz,0,3
+3252,A,Nurnberg,Bayern Munich,0,1
+3253,A,Leverkusen,Freiburg,0,2
+3254,A,Kaiserslautern,Hamburg,0,1
+3255,A,Hertha,Wolfsburg,1,4
+3256,H,Augsburg,FC Koln,2,1
+3257,D,Dortmund,Stuttgart,4,4
+3258,H,Stuttgart,Nurnberg,1,0
+3259,A,FC Koln,Dortmund,1,6
+3260,D,Werder Bremen,Augsburg,1,1
+3261,H,Schalke 04,Leverkusen,2,0
+3262,A,M'gladbach,Hoffenheim,1,2
+3263,A,Mainz,Hertha,1,3
+3264,H,Freiburg,Kaiserslautern,2,0
+3265,H,Bayern Munich,Hannover,2,1
+3266,H,Wolfsburg,Hamburg,2,1
+3267,A,Kaiserslautern,Schalke 04,1,4
+3268,H,Hannover,FC Koln,4,1
+3269,A,Nurnberg,Wolfsburg,1,3
+3270,A,Leverkusen,M'gladbach,1,2
+3271,A,Hertha,Bayern Munich,0,6
+3272,A,Hamburg,Freiburg,1,3
+3273,H,Dortmund,Werder Bremen,1,0
+3274,H,Augsburg,Mainz,2,1
+3275,A,Hoffenheim,Stuttgart,1,2
+3276,H,Werder Bremen,Hannover,3,0
+3277,H,Schalke 04,Hamburg,3,1
+3278,H,Wolfsburg,Leverkusen,3,2
+3279,D,M'gladbach,Freiburg,0,0
+3280,H,Mainz,Nurnberg,2,1
+3281,H,FC Koln,Hertha,1,0
+3282,H,Bayern Munich,Hoffenheim,7,1
+3283,D,Augsburg,Dortmund,0,0
+3284,D,Stuttgart,Kaiserslautern,0,0
+3285,H,Nurnberg,M'gladbach,1,0
+3286,D,Hoffenheim,FC Koln,1,1
+3287,H,Leverkusen,Bayern Munich,2,0
+3288,D,Kaiserslautern,Wolfsburg,0,0
+3289,H,Hertha,Werder Bremen,1,0
+3290,D,Hannover,Augsburg,2,2
+3291,A,Hamburg,Stuttgart,0,4
+3292,H,Freiburg,Schalke 04,2,1
+3293,H,Dortmund,Mainz,2,1
+3294,H,Dortmund,Hannover,3,1
+3295,H,Bayern Munich,Schalke 04,2,0
+3296,A,Wolfsburg,Hoffenheim,1,2
+3297,A,Werder Bremen,Nurnberg,0,1
+3298,H,Stuttgart,Freiburg,4,1
+3299,H,Mainz,Kaiserslautern,4,0
+3300,A,FC Koln,Leverkusen,0,2
+3301,H,Augsburg,Hertha,3,0
+3302,D,M'gladbach,Hamburg,1,1
+3303,H,Schalke 04,Wolfsburg,4,0
+3304,H,Hannover,Stuttgart,4,2
+3305,H,Nurnberg,FC Koln,2,1
+3306,H,Leverkusen,Augsburg,4,1
+3307,A,Kaiserslautern,M'gladbach,1,2
+3308,A,Hertha,Dortmund,0,1
+3309,A,Hamburg,Werder Bremen,1,3
+3310,D,Freiburg,Bayern Munich,0,0
+3311,D,Hoffenheim,Mainz,1,1
+3312,A,FC Koln,Hamburg,0,1
+3313,D,Augsburg,Nurnberg,0,0
+3314,D,Werder Bremen,Hoffenheim,1,1
+3315,H,Stuttgart,Hertha,5,0
+3316,H,M'gladbach,Schalke 04,3,0
+3317,D,Mainz,Hannover,1,1
+3318,H,Dortmund,Leverkusen,1,0
+3319,H,Bayern Munich,Kaiserslautern,2,0
+3320,H,Wolfsburg,Freiburg,3,2
+3321,A,Kaiserslautern,FC Koln,0,1
+3322,D,Freiburg,Werder Bremen,2,2
+3323,D,Wolfsburg,M'gladbach,0,0
+3324,D,Schalke 04,Mainz,1,1
+3325,D,Leverkusen,Stuttgart,2,2
+3326,D,Hoffenheim,Augsburg,2,2
+3327,A,Hertha,Hannover,0,1
+3328,D,Hamburg,Bayern Munich,1,1
+3329,A,Nurnberg,Dortmund,0,2
+3330,A,Stuttgart,M'gladbach,0,3
+3331,H,Mainz,Freiburg,3,1
+3332,D,Werder Bremen,Leverkusen,1,1
+3333,A,Hertha,Hamburg,1,2
+3334,A,FC Koln,Schalke 04,1,4
+3335,H,Dortmund,Hoffenheim,3,1
+3336,H,Bayern Munich,Wolfsburg,2,0
+3337,D,Augsburg,Kaiserslautern,2,2
+3338,H,Hannover,Nurnberg,1,0
+3339,H,Leverkusen,Mainz,3,2
+3340,A,Hamburg,Dortmund,1,5
+3341,H,Wolfsburg,FC Koln,1,0
+3342,H,Schalke 04,Stuttgart,3,1
+3343,H,Nurnberg,Hertha,2,0
+3344,D,Kaiserslautern,Werder Bremen,0,0
+3345,D,Hoffenheim,Hannover,0,0
+3346,H,Freiburg,Augsburg,1,0
+3347,H,M'gladbach,Bayern Munich,3,1
+3348,H,M'gladbach,Mainz,1,0
+3349,D,Kaiserslautern,Hannover,1,1
+3350,H,Wolfsburg,Stuttgart,1,0
+3351,H,Schalke 04,Werder Bremen,5,0
+3352,A,Leverkusen,Nurnberg,0,3
+3353,D,Hoffenheim,Hertha,1,1
+3354,D,Hamburg,Augsburg,1,1
+3355,A,Freiburg,Dortmund,1,4
+3356,H,Bayern Munich,FC Koln,3,0
+3357,D,FC Koln,Mainz,1,1
+3358,A,Stuttgart,Bayern Munich,1,2
+3359,D,Dortmund,Kaiserslautern,1,1
+3360,H,Werder Bremen,Wolfsburg,4,1
+3361,A,Nurnberg,Hoffenheim,0,2
+3362,D,Mainz,Hamburg,0,0
+3363,D,Hannover,Leverkusen,0,0
+3364,H,FC Koln,Freiburg,4,0
+3365,H,Augsburg,M'gladbach,1,0
+3366,A,Hertha,Schalke 04,1,2
+3367,H,Schalke 04,Augsburg,3,1
+3368,H,Hamburg,Nurnberg,2,0
+3369,D,Wolfsburg,Mainz,2,2
+3370,D,Stuttgart,FC Koln,2,2
+3371,D,M'gladbach,Dortmund,1,1
+3372,D,Kaiserslautern,Hertha,1,1
+3373,D,Freiburg,Hannover,1,1
+3374,H,Bayern Munich,Werder Bremen,4,1
+3375,H,Leverkusen,Hoffenheim,2,0
+3376,H,Werder Bremen,Stuttgart,2,0
+3377,H,Mainz,Bayern Munich,3,2
+3378,H,Nurnberg,Kaiserslautern,1,0
+3379,D,Hoffenheim,Freiburg,1,1
+3380,D,Hertha,Leverkusen,3,3
+3381,D,Hannover,Hamburg,1,1
+3382,H,Dortmund,Schalke 04,2,0
+3383,H,Augsburg,Wolfsburg,2,0
+3384,A,FC Koln,M'gladbach,0,3
+3385,H,Stuttgart,Augsburg,2,1
+3386,H,Hamburg,Hoffenheim,2,0
+3387,H,Wolfsburg,Hannover,4,1
+3388,H,Schalke 04,Nurnberg,4,0
+3389,H,M'gladbach,Werder Bremen,5,0
+3390,D,Freiburg,Hertha,2,2
+3391,A,Bayern Munich,Dortmund,0,1
+3392,A,Kaiserslautern,Leverkusen,0,2
+3393,D,Hannover,Schalke 04,2,2
+3394,A,Augsburg,Bayern Munich,1,2
+3395,H,Werder Bremen,FC Koln,3,2
+3396,A,Nurnberg,Freiburg,1,2
+3397,D,Leverkusen,Hamburg,2,2
+3398,D,Hoffenheim,Kaiserslautern,1,1
+3399,A,Hertha,M'gladbach,1,2
+3400,H,Dortmund,Wolfsburg,5,1
+3401,H,Mainz,Stuttgart,3,1
+3402,D,Hamburg,Kaiserslautern,1,1
+3403,H,FC Koln,Augsburg,3,0
+3404,A,Wolfsburg,Hertha,2,3
+3405,D,Stuttgart,Dortmund,1,1
+3406,H,Schalke 04,Hoffenheim,3,1
+3407,H,M'gladbach,Hannover,2,1
+3408,A,Mainz,Werder Bremen,1,3
+3409,H,Bayern Munich,Nurnberg,4,0
+3410,A,Freiburg,Leverkusen,0,1
+3411,A,Leverkusen,Schalke 04,0,1
+3412,H,Hannover,Bayern Munich,2,1
+3413,D,Nurnberg,Stuttgart,2,2
+3414,H,Kaiserslautern,Freiburg,1,0
+3415,H,Hoffenheim,M'gladbach,1,0
+3416,D,Hertha,Mainz,0,0
+3417,D,Hamburg,Wolfsburg,1,1
+3418,H,Dortmund,FC Koln,5,0
+3419,D,Augsburg,Werder Bremen,1,1
+3420,A,Freiburg,Hamburg,1,2
+3421,H,FC Koln,Hannover,2,0
+3422,H,Wolfsburg,Nurnberg,2,1
+3423,H,Stuttgart,Hoffenheim,2,0
+3424,A,Schalke 04,Kaiserslautern,1,2
+3425,D,M'gladbach,Leverkusen,2,2
+3426,A,Mainz,Augsburg,0,1
+3427,H,Bayern Munich,Hertha,4,0
+3428,A,Werder Bremen,Dortmund,0,2
+3429,H,Hannover,Werder Bremen,3,2
+3430,A,Hamburg,Schalke 04,1,2
+3431,D,Nurnberg,Mainz,3,3
+3432,H,Leverkusen,Wolfsburg,3,1
+3433,D,Hoffenheim,Bayern Munich,0,0
+3434,H,Hertha,FC Koln,3,0
+3435,H,Freiburg,M'gladbach,1,0
+3436,H,Dortmund,Augsburg,4,0
+3437,A,Kaiserslautern,Stuttgart,0,2
+3438,H,Werder Bremen,Hertha,2,1
+3439,H,FC Koln,Hoffenheim,2,0
+3440,H,Wolfsburg,Kaiserslautern,1,0
+3441,H,Schalke 04,Freiburg,4,2
+3442,H,M'gladbach,Nurnberg,1,0
+3443,A,Mainz,Dortmund,1,2
+3444,H,Bayern Munich,Leverkusen,3,0
+3445,D,Augsburg,Hannover,0,0
+3446,A,Stuttgart,Hamburg,1,2
+3447,A,Schalke 04,Bayern Munich,0,2
+3448,H,Hannover,Dortmund,2,1
+3449,D,Nurnberg,Werder Bremen,1,1
+3450,A,Leverkusen,FC Koln,1,4
+3451,H,Kaiserslautern,Mainz,3,1
+3452,H,Hoffenheim,Wolfsburg,3,1
+3453,D,Hertha,Augsburg,2,2
+3454,A,Hamburg,M'gladbach,0,1
+3455,A,Freiburg,Stuttgart,1,2
+3456,H,Wolfsburg,Schalke 04,2,1
+3457,A,FC Koln,Nurnberg,1,2
+3458,H,Werder Bremen,Hamburg,2,0
+3459,H,Stuttgart,Hannover,3,0
+3460,H,M'gladbach,Kaiserslautern,1,0
+3461,A,Mainz,Hoffenheim,0,4
+3462,A,Dortmund,Hertha,1,2
+3463,H,Bayern Munich,Freiburg,7,0
+3464,A,Augsburg,Leverkusen,1,4
+3465,H,Schalke 04,M'gladbach,1,0
+3466,D,Hannover,Mainz,1,1
+3467,H,Nurnberg,Augsburg,1,0
+3468,D,Leverkusen,Dortmund,0,0
+3469,A,Kaiserslautern,Bayern Munich,0,3
+3470,A,Hoffenheim,Werder Bremen,1,2
+3471,A,Hamburg,FC Koln,3,4
+3472,H,Freiburg,Wolfsburg,3,0
+3473,H,Hertha,Stuttgart,1,0
+3474,A,Mainz,Schalke 04,2,4
+3475,D,Hannover,Hertha,1,1
+3476,H,Werder Bremen,Freiburg,5,3
+3477,A,Stuttgart,Leverkusen,0,1
+3478,D,FC Koln,Kaiserslautern,1,1
+3479,H,Dortmund,Nurnberg,2,0
+3480,H,Bayern Munich,Hamburg,5,0
+3481,A,Augsburg,Hoffenheim,0,2
+3482,H,M'gladbach,Wolfsburg,4,1
+3483,H,Leverkusen,Werder Bremen,1,0
+3484,D,Kaiserslautern,Augsburg,1,1
+3485,A,Wolfsburg,Bayern Munich,0,1
+3486,H,Schalke 04,FC Koln,5,1
+3487,A,Nurnberg,Hannover,1,2
+3488,D,M'gladbach,Stuttgart,1,1
+3489,H,Hoffenheim,Dortmund,1,0
+3490,D,Hamburg,Hertha,2,2
+3491,A,Freiburg,Mainz,1,2
+3492,H,Mainz,Leverkusen,2,0
+3493,A,Bayern Munich,M'gladbach,0,1
+3494,H,Werder Bremen,Kaiserslautern,2,0
+3495,H,Stuttgart,Schalke 04,3,0
+3496,A,Hertha,Nurnberg,0,1
+3497,H,Hannover,Hoffenheim,2,1
+3498,A,FC Koln,Wolfsburg,0,3
+3499,D,Augsburg,Freiburg,2,2
+3500,H,Dortmund,Hamburg,3,1
